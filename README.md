@@ -1,4 +1,4 @@
-## This repository contains Notes from Bachelor in Computer Engineering from Pokhara Engineering College which is affiliated to the Pokhara University.
+# This repository contains Notes from Bachelor in Computer Engineering from Pokhara Engineering College which is affiliated to the Pokhara University.
 # Pokhara University Course Structure (2022):
 ## Don't forget to star this repo.
 | **Year I/Semester I**                | **Year I/Semester II**               |
