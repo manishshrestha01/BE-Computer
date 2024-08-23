@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## This repository contains Notes from Bachelor in Computer Engineering from Pokhara Engineering College which is affiliated to the Pokhara University.
+=======
+# This repository contains Notes from Bachelor in Computer Engineering from Pokhara Engineering College which is affiliated to the Pokhara University.
+>>>>>>> origin/main
 # Pokhara University Course Structure (2022):
 ## Don't forget to star this repo.
 | **Year I/Semester I**                | **Year I/Semester II**               |
@@ -41,4 +45,8 @@
 | CMP 426: Network and Cyber Security            |                                               |
 | XXX XXX: Elective II                           |                                             |
 
+<<<<<<< HEAD
 **Note:** This course structure is followed from 2022 B.E computer batch.  
+=======
+**Note:** This course structure is followed from 2022 B.E computer batch.  
+>>>>>>> origin/main
