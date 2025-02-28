@@ -1,0 +1,2236 @@
+02b7c2045814b5eadcc83278be6150199b0a2a70 
+051240240f203b26251a65282d738c2c0e0bb647 
+0720837a8330601369c9cfb8f06aff504727a26e 
+079b37ad224a187ce0d8d21608d83b6dc7252bf7 
+08b581a1c824352551a2c8d7a73839b899ebdd4e 
+09d7f0d17cc2abf1c63807b681123a1dfd86fded 
+115fa00058a4c7949e5d272d459f1eb41df47dfb 
+16a8f021c4f2a31ffddd96967584152a769cda94 
+1ac96a88b7344631abf1c65008770cdddbf97dde 
+1ca2bbe9298e76c36844241d1e0ff89aafda4f0d 
+1cf64db4645907a1afb428e64146cc0eb9f54c0c 
+1d11e045a9fc1a6bf46dab7163700992a19ae9e8 
+23038fa8c43f0ed732cae6f3da1052efc81ffd23 
+25ddd11485b54ebcd1f41410c246c4784969bf47 
+28a967e5f8ef587050ec1f1e5a46972646672780 
+2a71d56340fee0d23f5b90f95c415c27a3ff46c1 
+369e86879dee4b4b06070bef17a2126599d82bdb 
+3732a714bb9494d96518ac4c1504ea349c85ee97 
+386da87359dc9b5d0111df0af77ee0503a4f341e 
+389c0a2dc04dbf79c164f9fedbd5b7c41cc1f1be 
+3cd497bb76893802c710f44041e1648ab924daa6 
+429c2a33adc7a968d7884082ec2070924c623bba 
+49da94a6f7825e2372d32db01edc46e9723ed04f 
+4e0061be4d501352c9ac477b32f58d6deb05d95b 
+50e48bb7761d8d77fd624c44a0968fa24516e57d 
+51554032254634c8cbee00a8523ad67c8c7fbf5f 
+52a9b64f4704ad39bb86e5d88bb3ddebf674dfa6 
+537840f7740657f804d049fb28869919b731d6f5 
+53cfc9e3116c9544625e2ee8e76eea0cca62a970 
+5a7b75c6d0445a0f3187d5cd41f730b6b3398e33 
+5a985eab8b667cbaf8f8a1ce01054494e7c94027 
+5d14e37ef2a81f599cf964bff1755aae1b2fa293 
+60fd55a48a274ce0e69cf851c18e56d1cbdc22ba 
+633ce934f9e8578bfb2ff588ae38fba46c0034e6 
+699d2b20ae092b20955c2da5c5a0fd92bf9c84a1 
+6d3d96523b4135693c53fcec0a836e0809686907 
+6e3b461355b08522e99a71a8ab66fe5a4887a789 
+702ca389bdacf883916e596e7bce46997fe2bc5e 
+71b01e4eb196aa067aa9f986a6f1bab0f1a290cb 
+73dbcc95d89d2487830aadb31fbb4c82cdc21b7d 
+768acecc33cf00f739ee47cdbb8c33e96ce71a71 
+780ac23aae09e6c4bfebe3a6aad59df09841c66e 
+822e39fca152881890b427c9ff95107d4db24864 
+8f9fb771345ee74dd96ea2fbbdd6b5371a6d5df4 
+97591c7057d0089839cdffbdff2889478409bc0f 
+9accc570f7aeb510f39e3e53d1edd6a6b21be4bc 
+a1e1a1ad09af4dff788fec3b892a21199ee36a12 
+a5e6dbd65d0a466e84f436278b5df570818b59e6 
+a7348c36564ff1cdb5ac485a674e739c9808336d 
+a8ccad6625f39cb86c9ba234f9a68f0ebd126d79 
+aeda3942b5ee0be9274e635542d7fc8b6dc0d493 
+bf69faa5bda8843eeebdc70790b885707b5ca437 
+c411304437d0c3c0751367c87de951a176cb0e3e 
+c6ed7eaaafec0360b661c04b3c7e17c63fb15734 
+c9db8337f8e1c79bfa2a75267962f4927cb2fee6 
+cb159b571072cada5f6c0c15152091842099f80f 
+ce2a008a90989c1f474e83c865d9c76ec0458f2e 
+d671994e85fb7222e4149e96bfde43bd261409d0 
+e1bb9753a57f36f25704b5b8f9d0f098867601c2 
+f0b595fb0a510a46bafdd763f4166f4b9ec3d7a2 
+f469890548fd62fd0db18d11c515d426510890c4 
+f4dfe2edfbdd6b8f9aa9f7f08b54cec9b24f65a8 
+f6856370803e1ea6e816e42568d779d9b52531ec 
+ff756a052675513c96fcd09a51385e3353626feb 
+07fed441b17adf841c366f8c1ba8867f3cbe85b0 .DS_Store
+126097e30a292d49ec074f0ee6c0dd2611ac16de .DS_Store
+1c96a188e17edc377161a4c8350cb6d6806dc16e .DS_Store
+231c9269588b8d78d643b267166e49213726ad62 .DS_Store
+23688d21c630f249aa213084e787bc5d0d11c835 .DS_Store
+279e662e33c778fea2aea913071719d44cd8e1bb .DS_Store
+39a2bfbedd1609df25770b0ac74a830b772a4e4c .DS_Store
+3c39583c4cd2aae6009e00f2e75e52e14ddba5a4 .DS_Store
+428f63fedf6d19e9a65561e22d6c066a94347d87 .DS_Store
+51e53f5f16e17becb3bed22b3918affd321edbbc .DS_Store
+56acb0c497c9976458c7506ca744ba8a86a1c576 .DS_Store
+574e79a1b914e7200e33633919c072916f799067 .DS_Store
+66da26e1f9af769b689e862a2d0649ab33d28ca1 .DS_Store
+67eeedf3a60d6bf5086db86e1304d4259cd9abfa .DS_Store
+70cc0a9d73ece0b85a37a35412988f5411f1f444 .DS_Store
+7141a611ba0c01e799169bd87368704f7f4901ee .DS_Store
+7588e77d025749594232f85d324d8d75f07c7b61 .DS_Store
+77fccdd71598ddb4a842ddf0a5f514a609e9b9eb .DS_Store
+816293278f042a189f2d2f52e0a5f25d0db0a765 .DS_Store
+830d47347ba533ae0f5e3ce88d6fa8f5b82fe220 .DS_Store
+89e3be04dc9c1a83fe9022c2ae364acf01ac3da6 .DS_Store
+a217ce24271beb960f5135544f4e307320bf2a49 .DS_Store
+bc5432b9bf0859c75e58802251143e2c1da347ce .DS_Store
+c5f064335f66f9c4a78b2b9ce01954eb3576d92e .DS_Store
+c79ebcb75938333ac6738e842bc4c888500546a8 .DS_Store
+d374e98d3578e2e8cf6ebad655fccb4acf46ba60 .DS_Store
+e15608d65ea3a0c6eb6242a0dd40bcfcf906817f .DS_Store
+e309d16e43fc72a7fa2c5d624b81b9994f6f1259 .DS_Store
+e6c357ed0a48b5f1a86dd2dd2e6ffac3df7e9f9b .DS_Store
+e78540125ad302755d2d4420ac52850cb9d90ffb .DS_Store
+1d812391785783b86807c6e8c614033391cbbcbe .gitattributes
+b634d85f0161af823e093eaf9605f06fbf84cd36 .gitattributes
+e43b0f988953ae3a84b00331d0ccf5f7d51cb3cf .gitignore
+0d502bb463440626f4ed83a3ca485a616ef2b2f8 README.md
+1dd756e7b341adabdc8f3794ae37b94830b1e125 README.md
+594b931e63e92365d435549a9341f1dac576a83d README.md
+934ed636f10f934b06d9925555d5cba7a9360eb5 README.md
+a9025bc5428efbd81f717cab0650639920638303 README.md
+cc098aef61207a39d8b1670547832a5c90561e9f README.md
+9b7dc2d450f043433b4230b59b3292fa527c279d Results
+ce1c09d6608dff67025e5c71955e594e8da60612 Results
+1bd315389751deb4c89064e37544f1b1475316bc Results/BE_Computer_1st_2022.pdf
+b4906545404c0ff84b729d960afd015539f20a9b Results/BE_Computer_1st_2022.pdf
+156a03f32b0f8248f60baac24391724839e650b8 Results/BE_Computer_2nd_Spring-2023_New.pdf
+6db9781f81aea948eb5685f951cf7c6beab15b99 Results/BE_Computer_2nd_Spring-2023_New.pdf
+c94ab914d6a1baaab883d32a669a3166ff1e0962 Results/BE_Computer_2nd_Spring-2024_New.pdf
+ed8634df3fae4267bf8fae0cbbe16031afd57caa Results/BE_Computer_2nd_Spring-2024_New.pdf
+0e10c8af1543fe08bc522b13809dfb97660f7eb6 Results/BE_Computer_3rd_Fall-2023_New-1-1.pdf
+6264b51d220116f55b42640b6de029a1dc0864f1 Results/BE_Computer_3rd_Fall-2023_New-1-1.pdf
+77709c1a19e757a5af6c43a1294e2e4557a18562 Results/BE_Computer_4th_Spring-2024_New.pdf
+b722033cbec973659f5a274f0cbed7a1e418c34c Results/BE_Computer_4th_Spring-2024_New.pdf
+025fc7778c3e2eb70695680785301e76edb3c24d Semester 1
+11a6b13a42d5f15f09a05937e85797c752c46aee Semester 1
+1a6ddb7dd3ec3b8cc913c717df21893d0031d994 Semester 1
+27e7b65d0868e36cbf99fe24c0fb1e65c166e696 Semester 1
+3902e50a3c2bf8dce035b5de504ea5984980b3e0 Semester 1
+4a435fcf239308a2aa67d9f94f3a7782f1cfb8d2 Semester 1
+5475e704f2150a7eb5f9bc3f8a80c23f7ac886b8 Semester 1
+592efc7549048d011bc295de88206bfa3f8a2d1c Semester 1
+6669b86eddb7e65049ff63ddd659f4a919827c3e Semester 1
+6c1fe42d81f00aea80a060706e16229dd8b0c44b Semester 1
+6c3fc230258731bb9e148a3aec647b13fadc7380 Semester 1
+767a06462fb20560f25bed4e18ef590204a5832e Semester 1
+793ef4ffb694b9d714b2e8d54142b86cf6f4f3a0 Semester 1
+83fc172dd06b72b7cd9d7b2a61de98626c906e38 Semester 1
+87b5fc06259eb055902c3418969d530ce3afe744 Semester 1
+932017442886fdfdf46dfde7a51419733b9fadd4 Semester 1
+98c59b6c5564601485fbfbfe5564168aa07eba71 Semester 1
+bb8bc410da86502310685a8b69dab4dc55c9825e Semester 1
+c2bf902aee8fb3ae4bffacaeab0662a9246772b2 Semester 1
+c88fc852a99d8243012f678b9bccd78eda77d1ef Semester 1
+d8c437d340bcf8c5b82914c52c54198306d8b294 Semester 1
+db5f476bb3f8c9758d877ce11faa68c482f51422 Semester 1
+fbaee98f905a285e0eacd72c7a105c6dcfe76354 Semester 1
+fd96fb22a4f49e291989b1463dc6116fa5f732fb Semester 1
+0c9c4de85d00d2333b7387ca88c602875c583479 Semester 1/.DS_Store
+21d5b1bc8367f268c0b1b5b6b26c2043848a7cec Semester 1/.DS_Store
+3d8be974786085af62eed5036b416dec5284b4d5 Semester 1/.DS_Store
+5008ddfcf53c02e82d7eee2e57c38e5672ef89f6 Semester 1/.DS_Store
+5a74f6d36e254c909fecf437a105bd7336401118 Semester 1/.DS_Store
+7398c3c1362e985446bded3ac07125c06fab2185 Semester 1/.DS_Store
+998c70305504d6ddf9900b074d319cdadf9f40d8 Semester 1/.DS_Store
+a8fed35109af8c6404344dd51a69591364daafd5 Semester 1/.DS_Store
+b25e666f95f38270ce2e9ee2f80828fbcf4079d5 Semester 1/.DS_Store
+b59e029f9580baab221e55d8aeba93d094b22c02 Semester 1/.DS_Store
+b89d152e0e67e9cc554f147f8fc1a1b9a87b866b Semester 1/.DS_Store
+c37a79fe140575fc21d5a1bba370425caf104497 Semester 1/.DS_Store
+dd214f15c1c5d7005986afa56d15d6fd88580746 Semester 1/.DS_Store
+615636370581e9d17bf61b44b79b33cb99525293 Semester 1/2022 Course Curriculum
+68b89729be4fb527dddc5fd56b65ed53398bd82d Semester 1/2022 Course Curriculum
+40a7099c9ac0ed95c8e12827d265b4d150a9cd03 Semester 1/2022 Course Curriculum/CE 2022  Curriculam  Structure.pdf
+9ee05fa6e085ab0873b671eb9cd97b2c1a0beab7 Semester 1/2022 Course Curriculum/CE 2022  Curriculam  Structure.pdf
+8e5e2107dbe79e3604883fef33a4f5ab7aa769a7 Semester 1/2022 Course Curriculum/Course Code.docx
+2da8286a08de4b0c0f63b113ec387e051fd783ad Semester 1/BEE - Class Materials
+460f0243eaf4a0b38ba15d030b13c5f72a5e7703 Semester 1/BEE - Class Materials
+6de9ddd652508085a385f2c5993d51adfda2d398 Semester 1/BEE - Class Materials
+89206227a1be57e1ecbe0f61ef101340ab01310a Semester 1/BEE - Class Materials
+aa8c8650f38c672c4713a7d13faf98ea658890f9 Semester 1/BEE - Class Materials
+b8d469b53eefa2956ec124358c920940d67823fe Semester 1/BEE - Class Materials
+d481de04d4b3406d3045e68a013cf2cda867c982 Semester 1/BEE - Class Materials
+0aa3ac18858f8036c99773ac04892ad873c92add Semester 1/BEE - Class Materials/.DS_Store
+4b6d08a58457f7b666d1b6ac905614f750cb2de5 Semester 1/BEE - Class Materials/.DS_Store
+c5d8752a3281697b4b1bc6c15508621367607d43 Semester 1/BEE - Class Materials/.DS_Store
+ce535f63c06ada63a8a6daff3a56575447052ba6 Semester 1/BEE - Class Materials/.DS_Store
+0f6f235e2fe5f2398dd735a58bf26f4d27510ef8 Semester 1/BEE - Class Materials/Assignments
+6147a48bbd6a9c722d4ca1eba65a291a3d50dfb8 Semester 1/BEE - Class Materials/Assignments
+5a7dfd305beb681e28712e6f645ca7811e3fdb80 Semester 1/BEE - Class Materials/Assignments/Assignment#1_DC Circuit Analysis.pdf
+7a86f4a3e4d30a3e30e39d47f8bb04c7a4b77867 Semester 1/BEE - Class Materials/Assignments/Assignment#1_DC Circuit Analysis.pdf
+40b71fa2ca5747a820f3f179dfdd2c25b80085dd Semester 1/BEE - Class Materials/Assignments/Assignment#2_DC Circuit Analysis.pdf
+648ab974318ec95a2508d66e95719b47e4925005 Semester 1/BEE - Class Materials/Assignments/Assignment#2_DC Circuit Analysis.pdf
+45cd4852e97f0cb99d51f484871c09debc385b86 Semester 1/BEE - Class Materials/Assignments/Assignment#3_AC-fundamentals.pdf
+7e198e8afe60262391cae0a8ed3325c64d47fae5 Semester 1/BEE - Class Materials/Assignments/Assignment#3_AC-fundamentals.pdf
+a3d126476584304bfdc097f6e6a325a648b7b250 Semester 1/BEE - Class Materials/Assignments/Assignment#4_Polyphase-Systems.pdf
+b50c5193e324e06cc6fcd93d3a8c92bd2defcb45 Semester 1/BEE - Class Materials/Assignments/Assignment#4_Polyphase-Systems.pdf
+01b8a8cc18fba8bb6fb98c946996e1f3df2ef2c1 Semester 1/BEE - Class Materials/Assignments/Assignment#5_Electric Machines.pdf
+14a845756aa788f85b79c4a46b877e5c7a506a56 Semester 1/BEE - Class Materials/Assignments/Assignment#5_Electric Machines.pdf
+8db01e7b3b2c5a9e7c99a490f003f96efd6741a5 Semester 1/BEE - Class Materials/Assignments/Theory Assignment.pdf
+bb7c02d58fff0a4782769a58a5c82a29755b2bc7 Semester 1/BEE - Class Materials/Assignments/Theory Assignment.pdf
+01c1e97552cc27d22263dcb69f1a2acc24a72dbc Semester 1/BEE - Class Materials/Books- References
+0bacfcc6683a350dab40db2843dede9a4c6907bf Semester 1/BEE - Class Materials/Books- References
+5491d551955db4cd7335ce28145e109000421e28 Semester 1/BEE - Class Materials/Books- References
+a7c2cfc10a096a6ec3d1d6a752e2053cccb0255d Semester 1/BEE - Class Materials/Books- References
+86bab8950fdfcdf7e6045d45c670c343cb95b30b Semester 1/BEE - Class Materials/Books- References/.DS_Store
+87ddadb62c6e8c348ea985747f47bbdb9aa85eb3 Semester 1/BEE - Class Materials/Books- References/A-textbook-of-electrical-technology-bltheraja-volume-iipdf.pdf
+125251e08bc4df59d8f3efc0689e063e606f87dc Semester 1/BEE - Class Materials/Books- References/B. L . Theraja Voulme - 1.pdf
+62574c859e260271979737dd553eda437c9b74d2 Semester 1/BEE - Class Materials/Books- References/B. L . Theraja Voulme - 1.pdf
+e2646c0a51967964da248282e3f1462e973220f4 Semester 1/BEE - Class Materials/Books- References/Basic Electrical Manish and Manisha.pdf
+1a9d2fd0e331bc6096f6d624268600f36adbd299 Semester 1/BEE - Class Materials/Detailed Syllabus_Basic Eletrical Engineering - 2022 fall.pdf
+2bca659b05a4d03baf66b76ba55e834fd8d27513 Semester 1/BEE - Class Materials/Detailed Syllabus_Basic Eletrical Engineering - 2022 fall.pdf
+0df3482eabbda71a1d974ee22f4fd71a6ebb425b Semester 1/BEE - Class Materials/Lectures
+896125780efb2640db6ca10bbb6d8846f618f20a Semester 1/BEE - Class Materials/Lectures
+7bfd7dcc86b482c90902ad1df1b00b73e68a06c9 Semester 1/BEE - Class Materials/Lectures/1PU-BEE.pdf
+91c02f77382cf5747727d94ba66bd06872af6998 Semester 1/BEE - Class Materials/Lectures/1PU-BEE.pdf
+494eeb4886ff8770f6043d0e3f34d3cf2858d2c1 Semester 1/BEE - Class Materials/Lectures/2.1 PU-BEE.pdf
+ae9bb9ae54abea0e64d707d5c96aaa4883fb30eb Semester 1/BEE - Class Materials/Lectures/2.1 PU-BEE.pdf
+3420f76dedf2fda00fdbec45d0aa8f04c1057351 Semester 1/BEE - Class Materials/Lectures/2.2 PU-BEE-Nodal+Mesh.pdf
+f67fc2537be77ee3af8ad99ebf0da7e4aee68729 Semester 1/BEE - Class Materials/Lectures/2.2 PU-BEE-Nodal+Mesh.pdf
+911aa9265a37d7e253cf5e2cd40dec37fb4d6e27 Semester 1/BEE - Class Materials/Lectures/2.2 PU-BEE_all.pdf
+e24c89e6863c886302aea768a102efe85e7f1100 Semester 1/BEE - Class Materials/Lectures/2.2 PU-BEE_all.pdf
+328eb4dd226807d80fe1a3a7868b22083a78980c Semester 1/BEE - Class Materials/Lectures/3.1 PU-BEE.pdf
+620d36df9b0bbc655596289f9bb7265a15548501 Semester 1/BEE - Class Materials/Lectures/3.1 PU-BEE.pdf
+0f73ee0f1af585b18dc5029daecefc72eeaab149 Semester 1/BEE - Class Materials/Lectures/4 PU-BEE.pdf
+8c5897f692f60570356029f559b070ab5fd63131 Semester 1/BEE - Class Materials/Lectures/4 PU-BEE.pdf
+1d644ae543761c3e5ddb73b532b3e639df98e6dd Semester 1/BEE - Class Materials/Lectures/5.1 PU-BEE - 1 & 2.pdf
+30ccdd294db1fe2f02ba4709a9dc81a547d5f10d Semester 1/BEE - Class Materials/Lectures/5.1 PU-BEE - 1 & 2.pdf
+80153dc9c28260d28d4d638eaa9ef47f23630431 Semester 1/BEE - Class Materials/Lectures/5.2 PU-BEE.pdf
+ce5ec1c2c75a5f3819d3cfbbcf28fc9aec69cdd3 Semester 1/BEE - Class Materials/Lectures/5.2 PU-BEE.pdf
+002db3e45299876913f44e928a1c924141f2bbde Semester 1/BEE - Class Materials/Lectures/5.3 PU-BEE.pdf
+be234fb9dfb5995f2ba774d4861f208fe10a6b20 Semester 1/BEE - Class Materials/Lectures/5.3 PU-BEE.pdf
+2faff8ce0421b8f21687f55f4e68d497c97ad493 Semester 1/BEE - Class Materials/Past Questions
+647b60715d24dd5e0d10d7ef291b525f813cce79 Semester 1/BEE - Class Materials/Past Questions
+2768a93996b8390c01c458191d0d8f7cdbdc861f Semester 1/BEE - Class Materials/Past Questions/BEE - Question Collection.pdf
+e168fb8862ba84b9581769a5eb493d12e0cd2f0e Semester 1/BEE - Class Materials/Past Questions/BEE - Question Collection.pdf
+6abb26534c0a865d424c646030730ec73a3d2d35 Semester 1/C Programming
+bc79e64094a881c6541c6552b402d661db6d8e84 Semester 1/C Programming
+e8e85cdc0643f12f98a9e5c11db61fa9d4011486 Semester 1/C Programming
+692170071ba3686b59a4c35cd9b39526cbe29787 Semester 1/C Programming/1. Introduction.pdf
+e384f4a7457bf462e986be35d6ca005951b8f6b5 Semester 1/C Programming/1. Introduction.pdf
+8a1eea3f6d93c2656da22615f3be5ad405666c47 Semester 1/C Programming/2. Programming Logic.pdf
+c857eff0cc99841e873b657443c6c9be87faedcc Semester 1/C Programming/2. Programming Logic.pdf
+94f913b00321b2848e06aa1a0f81204f0e4abf3b Semester 1/C Programming/3. Variables and Data Types.pdf
+9e3aa2eec8eb82d81e133cabb36e5f8be8c79ad5 Semester 1/C Programming/3. Variables and Data Types.pdf
+0efdadaca806a0d1f0ba5e785177a02601bd4c48 Semester 1/C Programming/4. Control Structures.pdf
+1ebd85476e276dd266559575198dbbfa6e71aa7a Semester 1/C Programming/4. Control Structures.pdf
+aa82a020b32a92b5f90365bdba342e3aadb28a32 Semester 1/C Programming/5. Arrays and Strings.pdf
+aec37068d335fbefa9895336c1db67bb005ff43b Semester 1/C Programming/5. Arrays and Strings.pdf
+188c518656abf69d792a1232d6d56f62de739eb5 Semester 1/C Programming/6. Functions.pdf
+725f961a9c62221a5839592dfdb0fd67e1774c4a Semester 1/C Programming/6. Functions.pdf
+0094a94f8d680f0fc8b2122ff18df70faa46c7c3 Semester 1/C Programming/7. Pointers.pdf
+c7625d135a20f5575c8b3306b0cb4281aed0c52a Semester 1/C Programming/7. Pointers.pdf
+4296ec94a6ced8354bffdc2edee1a59101c561f5 Semester 1/C Programming/8. Structures and Unions.pdf
+f8d78bc764ace66ab476c1e9f3e5688c4dcc5aa1 Semester 1/C Programming/8. Structures and Unions.pdf
+7742fc6d0fba70b0f954519c9e5984a1e8b0dd28 Semester 1/C Programming/9. File Handling.pdf
+d06a3ee8643eda134989602df86cde037bd4a085 Semester 1/C Programming/9. File Handling.pdf
+4743e00d665e552d7427452a6d4589fea2799da1 Semester 1/C Programming/AlgorithmFlowchart.pdf
+ae225ab77ff7125d5a17205c3613941857da2d36 Semester 1/C Programming/AlgorithmFlowchart.pdf
+375bcca25380ce17926c533c83714d4e1bae86d1 Semester 1/C Programming/C Programming Syllabus.pdf
+c0720663a6e273de2234558baab5230789d97f02 Semester 1/C Programming/C Programming Syllabus.pdf
+970edd8f336dc9db9b7925f2bf21d73e96662aa5 Semester 1/C Programming/extra_notes.pdf
+97981674d61d9e5afbbacca7c67dd866d08e6dc8 Semester 1/C Programming/extra_notes.pdf
+1dbdbe56b6da953651c39dc10daa519756067d21 Semester 1/C Programming/untitled folder
+f76825aafecb1bc8ffa63e614bd10731c469bfcc Semester 1/C Programming/untitled folder
+04e45ec85a2706a19503d2e392295ec95c66c0d2 Semester 1/C Programming/untitled folder/C exam solutions-PU TECH CLUB.pdf
+64fa2fffa11c4f9dfbf686482b67d9e5f922bb84 Semester 1/C Programming/untitled folder/C exam solutions-PU TECH CLUB.pdf
+3f408d830322d59e0366145ecb8c30cd7390f28e Semester 1/C Programming/untitled folder/CNoted.pdf
+94df8a3ae8aabe151f22b53f843fdf272aced1a0 Semester 1/C Programming/untitled folder/CNoted.pdf
+24c1110aaaf9878a1cf4ac399788a62a4718a2d0 Semester 1/C Programming/untitled folder/c-programming-70-programs.pdf
+59ac8c4777be9697a6bc12ecdf672c39b2c5050b Semester 1/C Programming/untitled folder/c-programming-70-programs.pdf
+03328c2942ec1efd37005d297791d218e8752744 Semester 1/C Programming/untitled folder/c_notes.pdf
+fab9e5d57e8348e2126bfd1d1fd3f3ca84ca9950 Semester 1/C Programming/untitled folder/c_notes.pdf
+8b3ae2e1988868a2ea660ef07872cc10d18d9cfc Semester 1/Calculus I
+c0db93c04fe6ef4429687e981bb3e151be77fbd2 Semester 1/Calculus I
+db134978c8b02265f62d3b2a4c6e1d4bb477721c Semester 1/Calculus I
+34395c154ee0c2136dff3fe74b4e8adc4851136c Semester 1/Calculus I/Calculus I Syllabus.pdf
+d5feb31ba3941359000070948ba2763d9d4c258d Semester 1/Calculus I/Calculus I Syllabus.pdf
+622002db84185b7dd5dc5647fc6830ef1bcd3ca0 Semester 1/Calculus I/Past Question Collection
+d42895268cf813c947a248d11a8eb5a81659e8a6 Semester 1/Calculus I/Past Question Collection
+5c74d5f0e3b8398c64e8e0fed7f829141a4b1173 Semester 1/Calculus I/Past Question Collection/154c2bb9-94d9-4444-8b27-283426682cd4.jpeg
+f5bdf7158efb66f324847595ca2f02808563c1bb Semester 1/Calculus I/Past Question Collection/1fff6807-cf0f-4f19-b219-adbb9baf0e62.jpeg
+d986798b112f65cca7c1fe1ed84005457f6a15c0 Semester 1/Calculus I/Past Question Collection/2a2bd69c-83d5-4ba5-82a6-5011647af53d.jpeg
+640bd1b3648682bf779ac1ce99bfd8d88f93db4a Semester 1/Calculus I/Past Question Collection/404333a8-5426-40ca-85c6-136fa1a42b69.jpeg
+8b73b10fb4cb7a658217ba867707d90960ece601 Semester 1/Calculus I/Past Question Collection/75c730a4-6370-4f8e-9f3f-d47e0bf76585.jpeg
+6c727e5993f32a8f122b86ea7b6057d45f80385d Semester 1/Calculus I/Past Question Collection/Calculus I Fall 2023  (2) (3).pdf
+ee7196d9a584e63977498e05015b2501b02657a7 Semester 1/Calculus I/Past Question Collection/Calculus I Fall 2023  (2) (3).pdf
+8699723c4e061d0559bdd6cd04d20ede7e4adef2 Semester 1/Calculus I/Past Question Collection/calculus paper solve.pdf
+ce40b44772298abffe77ac23b908dbeccc6532c1 Semester 1/Calculus I/Past Question Collection/calculus paper solve.pdf
+64235e7cad36e3155a96e7bde66fffab15edb5fc Semester 1/Calculus I/Past Question Collection/calculus-I-sem1.pdf
+749d247d8475dc2b88f6a13a2367cfd382701658 Semester 1/Calculus I/Past Question Collection/calculus-I-sem1.pdf
+281f8fb309b38d611075442f62526e04a6c59d1a Semester 1/Calculus I/Past Question Collection/calculus_I_most_possible_sets_for_exam_️!_best_of_luck_Buddy.pdf
+bd89f164690eae8d3ba06187946977eddc90869c Semester 1/Calculus I/Past Question Collection/calculus_I_most_possible_sets_for_exam_️!_best_of_luck_Buddy.pdf
+492864c308d995e535c0fa18da92c252814049aa Semester 1/Calculus I/Unit 1.pdf
+d501af7b4e5ff33c31cb89e3529ea50df6095213 Semester 1/Calculus I/Unit 1.pdf
+19487fdae1f3f07b6c1190fc8bbea027b7a2941e Semester 1/Calculus I/Unit 2.pdf
+197d7a535b59113dbc482f768da39112e71fccbe Semester 1/Calculus I/Unit 2.pdf
+376ae4e73a91e01a103ce226653e5f3adc1b5043 Semester 1/Calculus I/Unit 3.pdf
+b0b81b61c0384e3e6992fc09b5b2319265d9cf52 Semester 1/Calculus I/Unit 3.pdf
+cc3baf5bbe4068a905f3d831459ec7a27647a849 Semester 1/Calculus I/Unit 4.pdf
+fea28cf2b97ead641c3fd28e4e9a6b7d136ab4cb Semester 1/Calculus I/Unit 4.pdf
+8190e05430a24c44c95123fa58369f498db922b4 Semester 1/Calculus I/Unit 5.pdf
+8d8e33fbb6fb5381ca974500b0a589320d00e485 Semester 1/Calculus I/Unit 5.pdf
+168d5d7793bc7ebf4df8a09b409b80f23dd42967 Semester 1/Calculus I/Unit 6.pdf
+1d8d3a410665997710c37648aeb43ee55218c601 Semester 1/Calculus I/Unit 6.pdf
+4ac8b8d7f471fdafc5690fd423982dbb5b8431c4 Semester 1/Calculus I/Unit 7.pdf
+a6f75e27d588446ba4acc71770d06e3f75366fa9 Semester 1/Calculus I/Unit 7.pdf
+2bb0b4e3309e0acd0094e213932f3af39ca30372 Semester 1/Calculus I/Unit 8.pdf
+c95d8f46163ed2efba35db2436ee60ca2eda8841 Semester 1/Calculus I/Unit 8.pdf
+285458a5b64dc35e060238e8e33fb01efe314d7b Semester 1/Calculus I/calculus-1-note-sem1.pdf
+fabd1b82b0ce283b23bca0cb441d24d9bc1d9f38 Semester 1/Calculus I/calculus-1-note-sem1.pdf
+2adc9c57eb25f1edba3d908996ac679a2454f73c Semester 1/Course Code.docx
+9357963e01fe488843bffb0bf26339872b098118 Semester 1/Course Code.pdf
+abb87f33e5f6c089c9ef317dafdd6af97bea1406 Semester 1/Course Code.pdf
+e9347ddf066b5d3ceffd0e0423a02613ffb18357 Semester 1/Course Code.pdf
+7583f8fb167ec91a9d1a8d32744e64a726e9ac08 Semester 1/Digital Logic
+dbd12e1309964ee14d1b0eeb3ff877b9152070f2 Semester 1/Digital Logic
+7ac90fb5c3746621d3c6914dc09a793e874d6ee9 Semester 1/Digital Logic/Digital Logic (2).pdf
+e81670833fa12e9e93a3dba544204dec13b49b6b Semester 1/Digital Logic/Digital Logic (2).pdf
+86fed8e762048b408ba20b52118e363743a94e21 Semester 1/Digital Logic/unit-5.pdf
+e20327bff60ca075ac64670f81c997f93e892db1 Semester 1/Digital Logic/unit-5.pdf
+331557d854ae10986963f7f8f7625e8cdab16faf Semester 1/Digital Logic/unit-6-logic.pdf
+c402dc80914e0bbd729c9d86d12c656d0e400518 Semester 1/Digital Logic/unit-6-logic.pdf
+11598207a83714cecdcc8057d6b8612c90bba475 Semester 1/Digital Logic/unit-8-logic.pdf
+5978a64d945410ff021c41e717235b469f9da06b Semester 1/Digital Logic/unit-8-logic.pdf
+83b8d7d3841ebefeb4b70063996e98ce63d33ec6 Semester 1/Digital Logic/unit-9-logic.pdf
+93995ff3ea5098bafad3584598292d6a4b4129f1 Semester 1/Digital Logic/unit-9-logic.pdf
+107e2f30bdf7b8b20c4706d370da72dbfb776b9e Semester 1/E.D.C
+1c63144a7efbab1ac4f85edfe58266552753565c Semester 1/E.D.C
+417fec435fce41e89791bb7a75c49af0a0e7a5cb Semester 1/E.D.C
+cf1ecc0388f8332f5e19cf2ec5214d336e32bce2 Semester 1/E.D.C
+05e9e15299337dab00b254e306a3fb538475d094 Semester 1/E.D.C/1681699259943_1681479392434_TUTORIALS.pdf
+f2f5340cdbf5d6496ebe77cd504e40af89c0698b Semester 1/E.D.C/1681699259943_1681479392434_TUTORIALS.pdf
+d39e1e88ba27fa920664ffaa3784b0b7b3aa9d20 Semester 1/E.D.C/AIO _compressed.pdf
+ffc62451324abda3de61a83bc5207d4d53269586 Semester 1/E.D.C/AIO _compressed.pdf
+5dad90256327b3e978a3a9c790e7f4611e6b4bcd Semester 1/E.D.C/DC_AC_load_line.pdf
+e03cbf9a6b1763b9b23e6c56d03f8da3b1302a0b Semester 1/E.D.C/DC_AC_load_line.pdf
+ac13de45f0cf54bddbed8bc4afae9bc2f3b998d5 Semester 1/E.D.C/Diode resistance.pdf
+bac1e27fa903dcc7547b6db02db5f0f96ebc8580 Semester 1/E.D.C/Diode resistance.pdf
+3a40262a8d655a08d6ddf613f2601428cb58edbe Semester 1/E.D.C/Electronic Device and Circuit.pdf
+a6a117711384df38a80da5373febeb05570c7e89 Semester 1/E.D.C/Electronic Device and Circuit.pdf
+104f64e1c956d61196f1b084dd01439da761b6f1 Semester 1/E.D.C/Handwritten Note
+d8c18b1734c198dc7776f9da82223f33b75fd6fb Semester 1/E.D.C/Handwritten Note
+b5f6ef2b92d7d3179dd79fce0fbcf89fa13f9867 Semester 1/E.D.C/Handwritten Note/1 ED Semiconductor.pdf
+fc65815305c376301219f0c3408a65f01553da21 Semester 1/E.D.C/Handwritten Note/1 ED Semiconductor.pdf
+2cef3135e4972d6520668e3554fbeb6d5626e4d8 Semester 1/E.D.C/Handwritten Note/10 ED Large Signal Amplifier.pdf
+496a1d4b810f007e62740bcf6b730658d3cd0e63 Semester 1/E.D.C/Handwritten Note/10 ED Large Signal Amplifier.pdf
+78535d10b1ba01f3392e03f8585a417bc3ae9560 Semester 1/E.D.C/Handwritten Note/11 ED Feedback Amplifier.pdf
+acba649c7f5c525fbc0b5808d05d899d18d702c2 Semester 1/E.D.C/Handwritten Note/11 ED Feedback Amplifier.pdf
+89b0ccaf1952f5471a99564de11b0a30f8a6d7f6 Semester 1/E.D.C/Handwritten Note/12 ED Operational Amplifier and Oscillator.pdf
+cb8c111b9cf20fab914a3b40ecda4bd5295b6bbc Semester 1/E.D.C/Handwritten Note/12 ED Operational Amplifier and Oscillator.pdf
+e05a77c236d65c4d61b6aec28445a6cc7b289615 Semester 1/E.D.C/Handwritten Note/3 ED BJT.pdf
+ecf8ba2ed29510bcd30c64d7472bfc73aa0f7e46 Semester 1/E.D.C/Handwritten Note/3 ED BJT.pdf
+8d3e123ae302fd6ef9561e86a77fe209a902d9f6 Semester 1/E.D.C/Handwritten Note/341953066_166743986031247_1607951847932316880_n.jpg
+b7e494311a6eec2c0b94fe01235a063eeb735176 Semester 1/E.D.C/Handwritten Note/342037337_6237194676346283_1949873732035043479_n.jpg
+854d690ba329e354de2e656d16ea6ed487f13418 Semester 1/E.D.C/Handwritten Note/4 ED BJT Biasing and Thermal Stabilization.pdf
+aa00c8f5bfd6eb20fb59874bc81e87e2c6a8848d Semester 1/E.D.C/Handwritten Note/4 ED BJT Biasing and Thermal Stabilization.pdf
+5c9593354eebc8f85f2f9aae4b2ac9e6c27f33f1 Semester 1/E.D.C/Handwritten Note/5 ED DC power Supply.pdf
+9eb5e286ede44381847a818c3e82e2ec66a9413a Semester 1/E.D.C/Handwritten Note/5 ED DC power Supply.pdf
+7563406e3782a52f6460cbc198282f19b114bc56 Semester 1/E.D.C/Handwritten Note/6 ED JFET.pdf
+9dcf0807822bf988f640ea60ceaf8ab802e90aab Semester 1/E.D.C/Handwritten Note/6 ED JFET.pdf
+317fd89d79ea8c29d6a11ec45d11c9c9ec74899b Semester 1/E.D.C/Handwritten Note/7 ED MOSFET.pdf
+972762f20ee1a3dd50fd06b0de900a0d7c36a15e Semester 1/E.D.C/Handwritten Note/7 ED MOSFET.pdf
+9f872d463e13fd7ab934accc4842f28a7e7cea44 Semester 1/E.D.C/Handwritten Note/8 ED Small Signal Analysis.pdf
+e110c5f63887f0d43a5e83c71998e37284df10e6 Semester 1/E.D.C/Handwritten Note/8 ED Small Signal Analysis.pdf
+2dc538fe98395cf8c5b35145e5648a8b4a38e492 Semester 1/E.D.C/Handwritten Note/9 ED-Multistage-Amplifier.pdf
+bdac4974dee6c5e30a495d3ac4cd0dfb99e4658d Semester 1/E.D.C/Handwritten Note/9 ED-Multistage-Amplifier.pdf
+8b137891791fe96927ad78e64b0aad7bded08bdc Semester 1/E.D.C/Handwritten Note/h.txt
+a6ff5d55e7f8932d25ccf17407517f37fe8d26a8 Semester 1/E.D.C/ch 1 Semiconducting material.pdf
+cf7434718b20f02ffeb3eca7b814864e09444969 Semester 1/E.D.C/ch 1 Semiconducting material.pdf
+02ef43007a3aa30362693e334a5a9f2a73504bb1 Semester 1/E.D.C/ch 2 BJT.pdf
+f027fb95c67c5a9f135ceb9ae7a3ad701a1b8c3e Semester 1/E.D.C/ch 2 BJT.pdf
+46a45814b913580d72f498dec5472825321c1331 Semester 1/E.D.C/ch 3 DC power supply.pdf
+47c2809a75a13af0fa160bd202d26ca0f0eab4ae Semester 1/E.D.C/ch 3 DC power supply.pdf
+4fcfb36a80b391852d6e541d6457f1d8b0f3497c Semester 1/E.D.C/ch 4 FET.pdf
+ece89ad476fc105e5461991036a596e94a0a1896 Semester 1/E.D.C/ch 4 FET.pdf
+2a72a22222a7f1185c80dbd4da7a466f92eb5ee7 Semester 1/E.D.C/ch 5 Small signal BJT.pdf
+cfa92bfe0bdbdba403b4025b77bd11e44e73fcf6 Semester 1/E.D.C/ch 5 Small signal BJT.pdf
+646f6a71e921a82b3bbb908c006ed82cdd736e61 Semester 1/E.D.C/ch 6 Multistage amplifier.pdf
+6eeb2cbc4fbd8d09ee611f040e37747410e7f601 Semester 1/E.D.C/ch 6 Multistage amplifier.pdf
+6162bba5fd55c04eb17f15cefb6499818527c5da Semester 1/E.D.C/ch 7 Large signal amplifiers.pdf
+f7c700ba657eb254c795b724efe4fae7b4415f09 Semester 1/E.D.C/ch 7 Large signal amplifiers.pdf
+84a1a5d68d02f90a2ce9e1be640d382c17a83004 Semester 1/E.D.C/ch 8 Feedback amplifier.pdf
+f663446cde2d247aa20da12360135861e0a6c11d Semester 1/E.D.C/ch 8 Feedback amplifier.pdf
+3adeb08c45466c50574c3739cd398713b38a081c Semester 1/E.D.C/ch 9 OP amp.pdf
+dad2ea4e65bb9b9ddb8ad2bf4160d6b724b20634 Semester 1/E.D.C/ch 9 OP amp.pdf
+256869429a2c7e8f7b95fa78348c84fac5ae0fd0 Semester 1/E.D.C/ch2_BJT_biasing_continue.pdf
+3f4d52b01f1cafdc62211d9c0d2e0b320e81219b Semester 1/E.D.C/ch2_BJT_biasing_continue.pdf
+e6c461888682fd71f270b6cf4023ae1c250b9aa8 Semester 1/IMP LINKS
+01a1dbecd9115ca5025cfbcd5ba4b53c8c195009 Semester 1/IMP LINKS/EDC.rtf
+1ed7b402cf8ef394069d2143c6956c57e4a583a8 Semester 1/OLD QUESTIONS 
+4e311247296e632034d5c03ef83b6ef8294fe4fe Semester 1/OLD QUESTIONS 
+69b81ba5c20e7ab26679fb5ccaa83017b1724b0a Semester 1/OLD QUESTIONS 
+d48cd5ab0c08f14de7a7bc6a578163c8e061b8d1 Semester 1/OLD QUESTIONS 
+e219f539af1c3c442e0d03db47555bd7452ede5f Semester 1/OLD QUESTIONS 
+ebec62121a49d5c6f2a0ebfff4d78f3422d3fb55 Semester 1/OLD QUESTIONS 
+5be849a0d10114be50521eaa08f95d70a8aa6da8 Semester 1/OLD QUESTIONS /.DS_Store
+9e1dcf2c83a51936e13cfb4e61484e878b51f217 Semester 1/OLD QUESTIONS /.DS_Store
+beb9b1436b2d1eea0c0d465cc111a17b673f8cc6 Semester 1/OLD QUESTIONS /.DS_Store
+63b0cf5a111209a052225c444df93b76660fca1f Semester 1/OLD QUESTIONS /Basic Electrical Engineering
+b61d5b7d886452007a364da6182d8d8af1353271 Semester 1/OLD QUESTIONS /Basic Electrical Engineering
+c9df05c0d87a471859d2c1e984a944cbe042dcc9 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-13 Fall.pdf
+cbb199ac75ca158583c8683de5888405267567f5 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-13 Fall.pdf
+480a566a3b1b69d73cda219428b8730f65e2a1d8 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-13 Spring.pdf
+70ba27ee7de6e9bd184f5425efc8af420b11253a Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-13 Spring.pdf
+33c9849e4f45d12e3cc9dab4ffc9cb44c8c5bf7b Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-14 Fall.pdf
+ea67e5d99599856492824a015dade7a6fc011cd0 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-14 Fall.pdf
+09697239120ca85c9758aef67b7529df223933ed Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-14 Spring.pdf
+5276bdc3e6351a76581e2c4114ac82df09b3818a Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-14 Spring.pdf
+23fd29e07d44f058c93856a95fc3fa86b4710b79 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-15 Fall.pdf
+49d116eb5f96fb7a16d872cbc43440164e555d9b Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-15 Fall.pdf
+a441f30c8283509cc8a9905fd97d1ea4496daad0 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-16 Fall.pdf
+dd554140954b19a13be8fbcd9e0236dab201413c Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-16 Fall.pdf
+adf4308890e0ebb4e01b5d9bba3c9ec83a74da8c Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-16 Spring.pdf
+e3d90c3513197370c30d2e6b066311633b540e1c Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-16 Spring.pdf
+53836f89c99fd3427c3fcf9597d1bcbf7b9429bf Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-17 Fall.pdf
+8ed30e6a1597e8570feb9a564c36efdf14c20fcd Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-17 Fall.pdf
+ae1b246ae0a95a4ebe35808a8e30a0690eeeb362 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-17 Spring.pdf
+dbeb2e04b06f36da9a92cc7896c3e14c5beb18f7 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-17 Spring.pdf
+157d33580549547c60f9ceecdb46ce3789ada716 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-18 Fall.pdf
+16aa3320f2bcd4c96204d74e8e6a59540ff453c4 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-18 Fall.pdf
+0c562af86f620d72dffb39385a18bba4d866e268 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-18 Spring.pdf
+c8ba305fff5220d16c391c160a14fd2dc37c9b71 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-18 Spring.pdf
+317735f3335355f09903a92f93f67fbb709f2b46 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-19 Fall.pdf
+a6c92365dda447a884dc7a742c3dcb226df583d2 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-19 Fall.pdf
+34e42b513c2bd7f20aa021c9b2154cef31f8c59e Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-19 Spring.pdf
+ea393a246abfc3482523b6d7a624791475ccefaa Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-19 Spring.pdf
+d3cf7a9bab8a988eb845dd38bf2ad2dacb49ab8e Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-20 Fall.pdf
+fc76039db6106733f2f9be131206fab5ba46c9b6 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-20 Fall.pdf
+24edb946112c713ee73697073f028898adce16e8 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-20 Spring.pdf
+38b015e7b892bc58692a942e5509a3ecc8ee284a Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-20 Spring.pdf
+56de26a78da5c095d881ab085fb610f8d365985b Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-21 Spring.pdf
+db4ddd0c0618783b83cab1b4af8e656b9b8692db Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-21 Spring.pdf
+c4481914ce97e958a213337436572f744a5d5381 Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-21-Fall.pdf
+fffb949e7f27171229a39265a2f10cecada646af Semester 1/OLD QUESTIONS /Basic Electrical Engineering/BEE-21-Fall.pdf
+02405c2be163204969591c0ed22696aa4ba7aa14 Semester 1/OLD QUESTIONS /C
+90c42c4e9f52d43f66cc3d5e351824ee0c92117a Semester 1/OLD QUESTIONS /C
+416c0dc4b183c1fa98a6e7410a56194d769ab782 Semester 1/OLD QUESTIONS /C/C-11 Fall-1.jpg
+c4880f74c3bb11aa2dd281722c81441a7b09a862 Semester 1/OLD QUESTIONS /C/C-11 Fall.jpg
+5a218fcb50c75bf92c8d698d2db9662a8629ae35 Semester 1/OLD QUESTIONS /C/C-11 Spring-1.jpg
+3a5f67fb2d5edaeb034323be310888b0c2d220f0 Semester 1/OLD QUESTIONS /C/C-11 Spring.jpg
+cfb65819f16d200df92019b6fc8ad204ba56423c Semester 1/OLD QUESTIONS /C/C-12 Fall-1.jpg
+64da4141f37988cc6644adcf5ee4b7a7ffeef8f4 Semester 1/OLD QUESTIONS /C/C-12 Fall.jpg
+24b42151da4eff0eb512731fd36cc7c2c9ccf1cb Semester 1/OLD QUESTIONS /C/C-12 Spring-1.jpg
+3ee87fc4611e53781316fceb8edf6bd9484c8b3f Semester 1/OLD QUESTIONS /C/C-12 Spring.jpg
+f03c59dbcc518e6ddfe1f75a0f36cdf0fd36091c Semester 1/OLD QUESTIONS /C/C-13 Fall.jpg
+015bb1f54e6e3506022f199322e511dc1ce9321c Semester 1/OLD QUESTIONS /C/C-13 Spring.jpg
+b5e0f7d11af01c04699a6d1ce96025821fac9252 Semester 1/OLD QUESTIONS /C/C-14 Fall.jpg
+8b5604924d0e031a456d1ab026a816e1d97f1c26 Semester 1/OLD QUESTIONS /C/C-14 Spring.docx
+2d7c5ad681a72dce993a0f25def73bf4d0d8f14e Semester 1/OLD QUESTIONS /C/C-14 Spring.jpg
+ecf99a07b86a4c7461fb13554df4fd9847c20fa9 Semester 1/OLD QUESTIONS /C/C-15 Fall.jpg
+8bfdda34b4a75deca3a79c7853b0837310239921 Semester 1/OLD QUESTIONS /C/C-15 Spring.jpg
+1c9a5948691bcb8a3d1290832ce43c50072b25af Semester 1/OLD QUESTIONS /C/C-16 Fall.jpg
+1d921a108e22c4b9e4d4fd120a5a1b5b5b0f645a Semester 1/OLD QUESTIONS /C/C-16 Spring.jpg
+169ecba6340fd3d8f16117cc860befb138d32c14 Semester 1/OLD QUESTIONS /C/C-17 Fall.pdf
+ce990fc37cdca530c1a313626385395f5ada1961 Semester 1/OLD QUESTIONS /C/C-17 Fall.pdf
+172352900fede01d35d03a335ca64b141b6bd162 Semester 1/OLD QUESTIONS /C/C-18 Fall.pdf
+6b8aa9510ae91019911f7bbfc5a8bef955e81c46 Semester 1/OLD QUESTIONS /C/C-18 Fall.pdf
+bca85c14a4bdab7cba5e51392c34d30a5d244d61 Semester 1/OLD QUESTIONS /C/C-18 Spring.pdf
+db3b32d3f5ef5fe53eb4c7a968d096eb654d452e Semester 1/OLD QUESTIONS /C/C-18 Spring.pdf
+b993c65e194b14c73946f83197eb4e89e8a5bcfc Semester 1/OLD QUESTIONS /C/C-19 Fall.pdf
+c8c00b9c1706971bde1bc8215d86c695f3e0ca15 Semester 1/OLD QUESTIONS /C/C-19 Fall.pdf
+253d26942fa22939f55da478086a296cdebf2704 Semester 1/OLD QUESTIONS /C/C-19 Spring.pdf
+72d7bc14c1832cb03a153e00d7150993f7d3fa49 Semester 1/OLD QUESTIONS /C/C-19 Spring.pdf
+2bbd6866082357302da9d923e3be3a00837b3f8b Semester 1/OLD QUESTIONS /C/C-20 Fall.pdf
+a86f38a4ace466d24116a5b317efcb7383acd967 Semester 1/OLD QUESTIONS /C/C-20 Fall.pdf
+4ce9c2e5b7c33bb4a8a80f9affdcabb7470729c4 Semester 1/OLD QUESTIONS /C/C-20 Spring.pdf
+503dc210d6bd81715d932f05accf0063d862086e Semester 1/OLD QUESTIONS /C/C-20 Spring.pdf
+4eb41c5fa23a51676e64b2329ebc29d29f2dafd9 Semester 1/OLD QUESTIONS /C/C-21-Fall.pdf
+7756b04681c0409aed91ce3762a05609542dcec4 Semester 1/OLD QUESTIONS /C/C-21-Fall.pdf
+119f5cd3ca69707eca247163879620a67563b054 Semester 1/OLD QUESTIONS /CT
+605ab4da3a4053a9160b32fe44539c23dcd5df18 Semester 1/OLD QUESTIONS /CT
+3ee525f5a0c05f4d75fdde21327501e4445d7eef Semester 1/OLD QUESTIONS /CT/New
+8f5160d85410a4a2cf8709849f2a737cacff6838 Semester 1/OLD QUESTIONS /CT/New
+40365398364a09e296fd3fbc4ad9313efd1b2671 Semester 1/OLD QUESTIONS /CT/New/CT-11 Fall.pdf
+f4f68d4fc7b228ad58cf3824233d55bb4174518a Semester 1/OLD QUESTIONS /CT/New/CT-11 Fall.pdf
+0404463e56a82febc0e74692c34a2ec83b26b75c Semester 1/OLD QUESTIONS /CT/New/CT-11 Spring.pdf
+c3bd05d9f007c1c77ea12c8d1ed0695f002b4652 Semester 1/OLD QUESTIONS /CT/New/CT-11 Spring.pdf
+125f706da1e877cf6cb606ec0180aa4d894db9fa Semester 1/OLD QUESTIONS /CT/New/CT-12 Fall.pdf
+9acc8fadd34d3b816a4387e72a4320c51fde382d Semester 1/OLD QUESTIONS /CT/New/CT-12 Fall.pdf
+616fbadc6ee64fb3b931e4e67983bb94829e2fb6 Semester 1/OLD QUESTIONS /CT/New/CT-12 Spring-1.jpg
+d500346c5907f1877d22b88d61fa9879bfec7fc6 Semester 1/OLD QUESTIONS /CT/New/CT-12 Spring.jpg
+71ca96d43783798eb1bccbfe2d4b4b94e5bd83b4 Semester 1/OLD QUESTIONS /CT/New/CT-14 Fall-1.jpg
+d19b3bd24ff834ac049a9dc4fffd746d1a554136 Semester 1/OLD QUESTIONS /CT/New/CT-14 Fall.jpg
+936381c06d541ede832f2ac73ee758b57330274a Semester 1/OLD QUESTIONS /CT/New/CT-14 Spring.docx
+24eb4ce01e609d78b2b2caa9c2103ba5c218c822 Semester 1/OLD QUESTIONS /CT/New/CT-15 Fall-1.jpg
+2e72e753d758b4555414f83b05616c973a4f31d1 Semester 1/OLD QUESTIONS /CT/New/CT-15 Fall-2.jpg
+8b93cc6c31eb48dd65c9dbb60e8c73225ba751ae Semester 1/OLD QUESTIONS /CT/New/CT-15 Spring-1.jpg
+39e12bcffb35552bd803c509e6fc2c62fe8dbefc Semester 1/OLD QUESTIONS /CT/New/CT-15 Spring-2.jpg
+dd987ed8260ccc93c294d4f7e3fb29605b184e62 Semester 1/OLD QUESTIONS /CT/New/CT-16 Fall-1.jpg
+13ae39a954b685723c49683d39ef4295b7b683e4 Semester 1/OLD QUESTIONS /CT/New/CT-16 Fall-2.jpg
+4b881b246cd08bf42664f307213c833e323ef691 Semester 1/OLD QUESTIONS /CT/New/CT-17 Fall.pdf
+d2395d4804361039561c7da59d9cfccdeb20bb03 Semester 1/OLD QUESTIONS /CT/New/CT-17 Fall.pdf
+b08e89464d00e385eb5bd1b95ad91ef55cd28bc5 Semester 1/OLD QUESTIONS /CT/New/CT-17 Spring.pdf
+b3aad4bea5ba703fd42fdf9d2868f32f444efd92 Semester 1/OLD QUESTIONS /CT/New/CT-17 Spring.pdf
+b2c7a30935da243c419af3fbfa778280167a3470 Semester 1/OLD QUESTIONS /CT/New/CT-18 Spring.pdf
+eb14a6bc4a63df482bc41e82b5e20322c67a466d Semester 1/OLD QUESTIONS /CT/New/CT-18 Spring.pdf
+7b974c3c29f46a8c05037fc525dd62eb2a1f1f80 Semester 1/OLD QUESTIONS /CT/New/CT-19 Fall.pdf
+868e90ddfa79fd3406da7ccee688251f5418b146 Semester 1/OLD QUESTIONS /CT/New/CT-19 Fall.pdf
+1f8292783b665e172a27f8b4c8ca4227203b6eed Semester 1/OLD QUESTIONS /CT/New/CT-20 Fall.pdf
+2a6152250a9f183fe029f593d1da562f0a57b89e Semester 1/OLD QUESTIONS /CT/New/CT-20 Fall.pdf
+29e52337b0637cb6c3f4d79704a6ba38c69a0161 Semester 1/OLD QUESTIONS /CT/New/CT-20 Spring.pdf
+38ecf2b793282b878a82d3a7a21208b2327141ac Semester 1/OLD QUESTIONS /CT/New/CT-20 Spring.pdf
+012d510ee1090c54edc1121080f654aaacbc482b Semester 1/OLD QUESTIONS /CT/New/CT-21 Spring.pdf
+95ddcdcf73ac68dd72da3790491e2cf904369664 Semester 1/OLD QUESTIONS /CT/New/CT-21 Spring.pdf
+9ef58a031a6b353e2cd6dec2162aa2d575467bd2 Semester 1/OLD QUESTIONS /CT/Old
+0e410fc5ae3af739484fe7a7cb37b253b34bb705 Semester 1/OLD QUESTIONS /CT/Old/CT-04 Fall-1.jpg
+d384a1d86b6c137d52237b62ce6c6b2e132789b8 Semester 1/OLD QUESTIONS /CT/Old/CT-04 Fall.jpg
+fd9d144c566b1425b70441c0ad67aa7ec6e5581b Semester 1/OLD QUESTIONS /CT/Old/CT-05 Fall_0001.jpg
+a91e9849eaf4b3779405baab6576878e2d3653af Semester 1/OLD QUESTIONS /CT/Old/CT-05 Fall_0002.jpg
+9b53b490ea3c14f0c5daf2010de0dcd9b6485fef Semester 1/OLD QUESTIONS /CT/Old/CT-05 Fall_0003.jpg
+edb2312cd3c303a85763ca531fadc1a974897b13 Semester 1/OLD QUESTIONS /CT/Old/CT-06 Fall_0001.jpg
+4db747cabe78967e1cc267be4e30200bc38f8d90 Semester 1/OLD QUESTIONS /CT/Old/CT-06 Fall_0002.jpg
+043bfc8663a1bb4dd028aa00e401d0d178f445b0 Semester 1/OLD QUESTIONS /CT/Old/CT-06 Fall_0003.jpg
+2e026d4383ddc60968154a607b9de4d4004111f2 Semester 1/OLD QUESTIONS /CT/Old/CT-06 Fall_0004.jpg
+83e3924daad8c5b9a04249d0380ae130c5c12aee Semester 1/OLD QUESTIONS /CT/Old/CT-06 Fall_0005.jpg
+74129794706ad99b072b3acec3cfc0eb78e1bf5d Semester 1/OLD QUESTIONS /CT/Old/CT-06 Spring_0001.jpg
+e5d385d6008b1ba2ff1c5309cb6fb029b9683184 Semester 1/OLD QUESTIONS /CT/Old/CT-06 Spring_0002.jpg
+45eb54137e64a18de508d0437393ba2e4c5d971e Semester 1/OLD QUESTIONS /CT/Old/CT-06 Spring_0003.jpg
+0f6ec1c8e0858fa0751c14dc309bc5e1e3ab309a Semester 1/OLD QUESTIONS /CT/Old/CT-06 Spring_0004.jpg
+f3a3e445210204399fc897411a25417e00fb7779 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Fall_0001.jpg
+666d06a34eb07f3de5cce04a950a8f02cecca487 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Fall_0002.jpg
+c55eded2da7a90bd1ef827d1e807ab62f9065a33 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Fall_0003.jpg
+f379386ed70e063e9b24f76af9478df4353f22ac Semester 1/OLD QUESTIONS /CT/Old/CT-07 Fall_0004.jpg
+afa46ccb0d8aa91dfa746ca274db94ab55efe387 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Spring_0001.jpg
+b7f487003d071f4728ce58608f83ec0ae27ba587 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Spring_0002.jpg
+b20c30e1779a5dac2df90e971bf6e1f3a95ccd4e Semester 1/OLD QUESTIONS /CT/Old/CT-07 Spring_0003.jpg
+ba333a93d9b1121b72d199a1c914f1c99168fe77 Semester 1/OLD QUESTIONS /CT/Old/CT-07 Spring_0004.jpg
+c113e44e71271d8c05e09be33851edfbda110313 Semester 1/OLD QUESTIONS /CT/Old/CT-08 Fall_0001.jpg
+c1eeb4964f2907756ef8be0980dbf74b03924d46 Semester 1/OLD QUESTIONS /CT/Old/CT-08 Fall_0002.jpg
+d86c9625b254c7b8db387a9f0b5fb6fc1dfb6c6d Semester 1/OLD QUESTIONS /CT/Old/CT-08 Fall_0003.jpg
+a53cd447571a19fc1bbd8e652b77d1707b3aa1e0 Semester 1/OLD QUESTIONS /CT/Old/CT-08 Fall_0004.jpg
+6abbd1afe156f193f827ad96d7180de352b7c3ad Semester 1/OLD QUESTIONS /CT/Old/CT-08 Spring_0001.jpg
+d799e870192f8d648cc5c4666d82c7a7a7aa3c75 Semester 1/OLD QUESTIONS /CT/Old/CT-08 Spring_0002.jpg
+6e448977f0188625903ed8c6922ad17c9a34cb51 Semester 1/OLD QUESTIONS /CT/Old/CT-08 Spring_0003.jpg
+1fa4baae766a5045189117260c2d4e8468505f18 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Fall_0001.jpg
+b32cc4f87ef0534ec3085c38c256619677f57705 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Fall_0002.jpg
+bf87e677d6fb846bd9e4df95fdd417e64fba09da Semester 1/OLD QUESTIONS /CT/Old/CT-09 Fall_0003.jpg
+16ff534011f927186449ea307f42705de2c02ee3 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Fall_0004.jpg
+9291a0400d8ea7e0ae4d6cf64e0ea1a0c05940b6 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Spring_0001.jpg
+127ca6ddd9416a3e72d1420f8d32a0f5a82c6505 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Spring_0002.jpg
+a0ade6f2efcaa99913bfb6383f108082676e9fd1 Semester 1/OLD QUESTIONS /CT/Old/CT-09 Spring_0003.jpg
+c5d401413d356aa8b6563f0b57d44abf7584c61e Semester 1/OLD QUESTIONS /CT/Old/CT-10 Fall_0001.jpg
+80d8c8e69db9da67909d40c9f217197f14e779ef Semester 1/OLD QUESTIONS /CT/Old/CT-10 Fall_0002.jpg
+0f78536c19998bf5cbdf8d9f76cb21125714be0c Semester 1/OLD QUESTIONS /CT/Old/CT-10 Spring-1.jpg
+6e2df47ed0c4c571b856efdcc3e04bc284ae8c25 Semester 1/OLD QUESTIONS /CT/Old/CT-10 Spring.jpg
+0745f6016cf8daca8fcb6a27e41bba50219806b1 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits
+14309f473c0e68b4ccbd134a7ed0b14794ac3a40 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits
+8fbb2d140250355850a342d5d03ffe5b2bd77683 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-19 Fall.pdf
+947a3dae882156c69968100cdc233ed67304442a Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-19 Fall.pdf
+4d7ffee1110e8f085b46c8c11a2f71667ecff9bf Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-19 Spring.pdf
+57b054992663f08eb4ee0b788bcee15e945a206c Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-19 Spring.pdf
+a19717c48da32edf7f4e63673fc6e6f6732907c1 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-20 Fall.pdf
+a5a24a3b731ac7a466626c7e5ebe578215fdab51 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-20 Fall.pdf
+99c71d3f9bba6b54c15e25a20fad71bb7ad3a05c Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-21 Fall.pdf
+e7dcaaf628f4e125a5fd4bfad06590734a4292be Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-21 Fall.pdf
+04b4dae02d9711716a51e970316a5e6f60d050cd Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-21 Spring.pdf
+3ca7ecdb21c412a983bcaedbd1da02d5411757b5 Semester 1/OLD QUESTIONS /Electronics Devices & Circuits/EDC-21 Spring.pdf
+83f052dae5ff66998c0fb5dd55946aba99539372 Semester 1/OLD QUESTIONS /LC
+c1f561a9b4d8842aa11dba0ffd230e7f994dc318 Semester 1/OLD QUESTIONS /LC
+fdfeda05a4cc4c67c43e012501e31d1b88c3218d Semester 1/OLD QUESTIONS /LC/-LC-12 Spring-1.jpg
+ca1b2bdf7fb97e0d9ff9748f81810ad84bfa2cd7 Semester 1/OLD QUESTIONS /LC/-LC-12 Spring.jpg
+5358011f7d962b3fb475ad622f295b4803b16ad4 Semester 1/OLD QUESTIONS /LC/LC-11 Fall-1.doc
+382b08939f68f25cf976562d1a40f6ff4752d24f Semester 1/OLD QUESTIONS /LC/LC-11 Fall.doc
+47bd10cda238bbf194a882662d590e46f604b2c5 Semester 1/OLD QUESTIONS /LC/LC-11 Spring-1.jpg
+7faa5312a8e18d1811e4ca2a4eefd4b8ee1968a5 Semester 1/OLD QUESTIONS /LC/LC-11 Spring.jpg
+97920584a3fb07a0d080a0c99a9af12ac21ae0d1 Semester 1/OLD QUESTIONS /LC/LC-13 Fall.jpg
+c19a476a84f51ab4c2e6af97b00f65cdf5d5fe49 Semester 1/OLD QUESTIONS /LC/LC-13 Spring.jpg
+053bf988a7e5f597efcfd8d4dbe36172f15ecb6f Semester 1/OLD QUESTIONS /LC/LC-14 Spring.docx
+2693a0eaa2c80db5f3efb4cd4a94d921c4666985 Semester 1/OLD QUESTIONS /LC/LC-15 Fall.jpg
+54d8a35ff7fb4a41efcf7175c415449c8537f6e3 Semester 1/OLD QUESTIONS /LC/LC-15 Spring.jpg
+19cfd7289a700bc66a60643df054c5943a92ad08 Semester 1/OLD QUESTIONS /LC/LC-16 Fall.jpg
+2e37a1b86aa4ef77e587c1f2e982e7eef3d9eb53 Semester 1/OLD QUESTIONS /LC/LC-16 Spring.jpg
+0a162c861a36ea1347189c06f5ffc1fd82fe2fd8 Semester 1/OLD QUESTIONS /LC/LC-17 Fall.pdf
+4d0eb609c82bf361b0c6dac3541bdb1dea782340 Semester 1/OLD QUESTIONS /LC/LC-17 Fall.pdf
+307a58fff15a58482400c566d33ee076c864bc9c Semester 1/OLD QUESTIONS /LC/LC-17 Spring.pdf
+ae24a1a65885fe399e05e78d18765b368ea8e9a2 Semester 1/OLD QUESTIONS /LC/LC-17 Spring.pdf
+c6b318877849259343e3705531c51738ce4ee392 Semester 1/OLD QUESTIONS /LC/LC-18 Fall.pdf
+fe39443be5d0da6e1b9c7c7257523715b5fd1748 Semester 1/OLD QUESTIONS /LC/LC-18 Fall.pdf
+9fbbce01ef31c6dffae0f0a6cd623da508453287 Semester 1/OLD QUESTIONS /LC/LC-18 Spring.pdf
+b04eef889e87cfe841b883b4c1ab24dd650aca3d Semester 1/OLD QUESTIONS /LC/LC-18 Spring.pdf
+a066759a1fb35fa73974ebb7e0cc270c8e78226d Semester 1/OLD QUESTIONS /LC/LC-19 Spring.pdf
+b2e69e512fb4c6f55f86e3d551a4cb39dde16fc1 Semester 1/OLD QUESTIONS /LC/LC-19 Spring.pdf
+93659cf1bd31b7537ccb2af7be9a7cbd307c2d00 Semester 1/OLD QUESTIONS /LC/LC-20 Fall.pdf
+f21f65847beff748dbb95edaca673552d0b27fd0 Semester 1/OLD QUESTIONS /LC/LC-20 Fall.pdf
+7f3439a99f3cffff93477924741345698006c3fd Semester 1/OLD QUESTIONS /LC/LC-21 Fall.pdf
+ad9998033cb68cee476613a09c5334bfb676400c Semester 1/OLD QUESTIONS /LC/LC-21 Fall.pdf
+13ffb46d78582bfb3c81ad8f4c90dcbd500e3ce2 Semester 1/OLD QUESTIONS /LC/LC-21 Spring.pdf
+74bfa7cbc23d1167d9808072746d13cfaa25af94 Semester 1/OLD QUESTIONS /LC/LC-21 Spring.pdf
+4dd3c7bd7daee8cce3c58267cc1b40f25f425a05 Semester 1/OLD QUESTIONS /Math I
+91ace226a3567a5c33c031b1723117bd438c96e3 Semester 1/OLD QUESTIONS /Math I
+c6d88e2b4b1426e2bbf96e85cbda2c34d2389f2c Semester 1/OLD QUESTIONS /Math I
+215a681e06fd9e04aa4fa454bc76fe96ddaeb5f0 Semester 1/OLD QUESTIONS /Math I/Math-11 Fall.pdf
+460d50a21655cdcf561f0d3dc89bb1e55ea33d5d Semester 1/OLD QUESTIONS /Math I/Math-11 Fall.pdf
+4d7931955b51f6fff67fac2f5d1d89758c483c6f Semester 1/OLD QUESTIONS /Math I/Math-11 Fall.pdf
+d3ec5447f03828aa94b1608e47eda036d047b27e Semester 1/OLD QUESTIONS /Math I/Math-11 Spring-1.jpg
+ec9b065261a81da0d8244a03f3a20b99d80236be Semester 1/OLD QUESTIONS /Math I/Math-12 Fall-1.jpg
+0fc4c04b845676ea72b7dca5dac0cef2cc7e8d1b Semester 1/OLD QUESTIONS /Math I/Math-12 Fall.jpg
+60408d1fb257d98c2f3d436bd351f4c3358959be Semester 1/OLD QUESTIONS /Math I/Math-12 Spring.jpg
+a05a3eb2e350ac3784eb78974556117e52d8e8f0 Semester 1/OLD QUESTIONS /Math I/Math-13 Fall-1.jpg
+8051b7470e9070fe627205cce029ef189d2e77ce Semester 1/OLD QUESTIONS /Math I/Math-13 Fall.jpg
+e74be0136d28894e82c8603672e7d096a5e3b309 Semester 1/OLD QUESTIONS /Math I/Math-13 Spring.jpg
+e7ea07fb6509a1e66436ea942857a323c9eef0c4 Semester 1/OLD QUESTIONS /Math I/Math-14 Fall.jpg
+253483dc1a39b07f0807ca5b877a808d5a447b27 Semester 1/OLD QUESTIONS /Math I/Math-14 Spring.docx
+82d1a2c0c43ac33ffceb571a692acb91f7c6116e Semester 1/OLD QUESTIONS /Math I/Math-15 Spring.jpg
+6b36f07c14ea60d9b196fe3bca0331a32976cf22 Semester 1/OLD QUESTIONS /Math I/Math-15Fall.jpg
+f928bd2f638b88b9f83f2ba494b18e36224a0a4a Semester 1/OLD QUESTIONS /Math I/Math-16 Fall.jpg
+1785418064273fb08c44142c9edda1af48c81291 Semester 1/OLD QUESTIONS /Math I/Math-17 Fall.pdf
+4aa95efcf939268422960e353d14bd3f0a9f9ab1 Semester 1/OLD QUESTIONS /Math I/Math-17 Fall.pdf
+8fe9672bc5984d7f878b353f32560ed9bcde23e0 Semester 1/OLD QUESTIONS /Math I/Math-18 Fall.pdf
+9c05304c972d4c90ed9e5a760d4253ff75a59548 Semester 1/OLD QUESTIONS /Math I/Math-18 Fall.pdf
+0ae8da936dd6f18a8e50e38c483d65ee53f203b6 Semester 1/OLD QUESTIONS /Math I/Math-18 Spring.pdf
+84990dea813b4b5021ebf24f1181539c50c9b670 Semester 1/OLD QUESTIONS /Math I/Math-18 Spring.pdf
+5f9fac52b0353b9c6d7135c40fe13ba3865e2400 Semester 1/OLD QUESTIONS /Math I/Math-19 Fall.pdf
+af6210758b4f550f38cdc35f6a84837f078875c7 Semester 1/OLD QUESTIONS /Math I/Math-19 Fall.pdf
+0f77d69ff59d4f15ea7d953ce24cccb7d6709266 Semester 1/OLD QUESTIONS /Math I/Math-19 Spring.pdf
+c7d54008600c167b8890f882dceb6a54f4336c84 Semester 1/OLD QUESTIONS /Math I/Math-19 Spring.pdf
+5cb64cc906f4d0862206b97fdf88e04fde77d1b4 Semester 1/OLD QUESTIONS /Math I/Math-20 Fall.pdf
+eda96afe61a4157f2f20d914773812f21b4cbc44 Semester 1/OLD QUESTIONS /Math I/Math-20 Fall.pdf
+00890ec87fa3ac51249337d6d497e9b06bcee50d Semester 1/OLD QUESTIONS /Math I/Math-21 Fall.pdf
+81b8c54f31e49c6036a63479a2da5c694f323b68 Semester 1/OLD QUESTIONS /Math I/Math-21 Fall.pdf
+6ea1a27a2a7e958032c367de1ef3f26ad78d98fd Semester 1/OLD QUESTIONS /Math I/Math-21 Spring.pdf
+a3ae56a4f64b03f62099a97e80cba09c49c13552 Semester 1/OLD QUESTIONS /Math I/Math-21 Spring.pdf
+66a475e6de71c1769e8604cb1bee367b98ff21cb Semester 1/PTE
+fc95baf987f07595f24b164f57dc729daee7229b Semester 1/PTE
+613e66b3e2b4e8aa89631d36f536a7e9812cef9a Semester 1/PTE/APEUni Describe Image Template.pdf
+ec9d973a97806d27dda773036f44f26c3ebe4842 Semester 1/PTE/APEUni Describe Image Template.pdf
+90c226edf174d4b4d17d2eeeccdcf94382ed516a Semester 1/PTE/APEUni Re-tell Lecture Template .pdf
+c980e482077d2717b2b2919c2a54df636108e285 Semester 1/PTE/APEUni Re-tell Lecture Template .pdf
+4650d345876cbd3ea31c888fecefa8d9af7b984a Semester 1/PTE/APEUni Summarize Spoken Text Template.pdf
+e1c65dbe9f3a3d9135144256be7beebcbd4d8318 Semester 1/PTE/APEUni Summarize Spoken Text Template.pdf
+cebd0d38e3b37962cd3ac1f88716a9f6dd93e852 Semester 1/PTE/APEUni Write Essay Template.pdf
+df2ee62d35a28b0044975b4f1c9d8bfa5ba32e76 Semester 1/PTE/APEUni Write Essay Template.pdf
+384b39a7ce3ee712dd4e79f81b1b2f72cddfd2ed Semester 1/PTE/Information
+19262e249046768e26b4310c2d0426fb785741e3 Semester 1/PTE/PTE-Scoring-Structure-1024x560.jpg
+405bddbead7587e6ea7b299ab5629047117397ae Semester 1/PTE/PTE.pdf
+a88801a0d695500b8e12307ec33ac9ad056ff106 Semester 1/PTE/PTE.pdf
+3236b938add09b168c12fb57cbef858af3ee6df4 Semester 1/PTE/barista.pdf
+7b803e2cfccba08d86030c6bdafcd4ee43ecf93e Semester 1/PTE/barista.pdf
+b4e543d822f90e40a9bec676bac0e7fe7de86de2 Semester 1/Programming In C
+dd04376252401955b92243a7aed5cdb5c5078636 Semester 1/Programming In C
+c7edbfc1aa3c472f1c9e10d5d4561f63faf182de Semester 1/Programming In C/Cslides7structurestnotes1.pdf
+d97194af7db96cf94d07ea0bc2f011ac386fc8df Semester 1/Programming In C/Cslides7structurestnotes1.pdf
+0ee41fb5ab22783f789318983f50d95718a15672 Semester 1/Programming In C/Handwritten Note
+92cc9780cfde95793fb57012186cbedf3097cee8 Semester 1/Programming In C/Handwritten Note
+6a8a2caa0fee5a6afe848b9f1b6569c545c7570e Semester 1/Programming In C/Handwritten Note/6-8.pdf
+87ea0862be8e870a01e73b62d3702c8ac2d85baa Semester 1/Programming In C/Handwritten Note/6-8.pdf
+0d545f75b6108233e30f0d188c344361c7be51ea Semester 1/Programming In C/Other College PDF
+37c332bfa79df95333c7a59e9c8161b8ffabcfe6 Semester 1/Programming In C/Other College PDF
+8d718e2508a05eab81b01bb98330e92a00cd395f Semester 1/Programming In C/Other College PDF/1. Introduction.pdf
+981a69a6ae38223e9d7ff766001bc6139b556058 Semester 1/Programming In C/Other College PDF/1. Introduction.pdf
+686dc42afd06627dfd266e49c8e2399673301fc2 Semester 1/Programming In C/Other College PDF/CinOneShotPart1.pdf
+a402efdc79d9e87fa54180a1649f8d6c4c153c1f Semester 1/Programming In C/Other College PDF/CinOneShotPart1.pdf
+4f64cf8c10ca1cd05f2f6d536adb0e089ea5c709 Semester 1/Programming In C/Other College PDF/Computer-Programming Note.pdf
+aec09e5fa13f13365fef91ba98bf21aa22716d27 Semester 1/Programming In C/Other College PDF/Computer-Programming Note.pdf
+3a80f8b80b6143e6f60bfa7460b7ce931c2efa12 Semester 1/Programming In C/Other College PDF/History of Programming Language.pdf
+75b4fd56847c0aa852b367c90182b38f39547e7d Semester 1/Programming In C/Other College PDF/History of Programming Language.pdf
+a4aa620149843d4cf150dcd253b577e3cc370270 Semester 1/Programming In C/Other College PDF/Unit 2 Programming Logic.pdf
+f0c8da0d555601a57d1091184f8f85765c970af1 Semester 1/Programming In C/Other College PDF/Unit 2 Programming Logic.pdf
+0123f5f98d4e9909c57f164c82a90e9b077119ca Semester 1/Programming In C/Other College PDF/Unit 3 Variable and Data Types.pdf
+f5ad85fc60b8d4c1fc27a289da8243a21899441f Semester 1/Programming In C/Other College PDF/Unit 3 Variable and Data Types.pdf
+8c89536abdf255f3ba5d8d8d0e4b3a6f6d5a65b2 Semester 1/Programming In C/Other College PDF/Unit 4 Control Structures.pdf
+ecd5774cc0c370ccd36748af4414ced2c41ab11b Semester 1/Programming In C/Other College PDF/Unit 4 Control Structures.pdf
+2afe36fa9e31c96c3914b68f89a0a2d13b12c446 Semester 1/Programming In C/Other College PDF/Unit 5 Array and Strings.pdf
+41ea69e86d75ae1d2aad0eddf32c1fc8c2c9f099 Semester 1/Programming In C/Other College PDF/Unit 5 Array and Strings.pdf
+2d2b59c1ab2666c8db5694412d0737f1b83cdb9b Semester 1/Programming In C/Other College PDF/Unit 6 Function.pdf
+be1f5608eec2bd36b3a2879f260a85025a097bcb Semester 1/Programming In C/Other College PDF/Unit 6 Function.pdf
+9b9ff80a38e48032b0421ee6e9cb71ec7412169a Semester 1/Programming In C/Other College PDF/Unit 7 Pointers.pdf
+f3d5c5b7e60810f03209aeecdfe04228d4f61df1 Semester 1/Programming In C/Other College PDF/Unit 7 Pointers.pdf
+25c6993e52250acd3877c2e9dfc2ca5664b21a49 Semester 1/Programming In C/Other College PDF/Unit 8 Structure and Union.pdf
+7f49e9f5a3b174c8efa05fe9b6806207e0c434f1 Semester 1/Programming In C/Other College PDF/Unit 8 Structure and Union.pdf
+46621f03366ff2d78a0a96f82148335220b39730 Semester 1/Programming In C/Other College PDF/Unit 9 File Handling.pdf
+4e550770b419980b93788d9620c48861a79971a6 Semester 1/Programming In C/Other College PDF/Unit 9 File Handling.pdf
+2e1ebdf2354628436996048aec5f6255ebcd4ca2 Semester 1/Programming In C/Unit 8 filehandelingstnotes.pdf
+dcc684e5a53766076922b3b8d4761c9000945e9b Semester 1/Programming In C/Unit 8 filehandelingstnotes.pdf
+15c669d30dd19cbd22ba3e1c70eeca99896d12ff Semester 1/Programming In C/function.pdf
+504d3eefbae21a3b4498f030c36e40575bec5a13 Semester 1/Programming In C/function.pdf
+04b5d34c473a78dcac6ab6f540d5ccdfc055c374 Semester 2
+0ba48542d81fcc595329eb587a2ed6af19654ac7 Semester 2
+32cd38f3868e0ce01c665b46afc3fdff820aa0ad Semester 2
+34066bf07751b21b00e8cef39480d6fe1ad24a2a Semester 2
+3f53c8eb302b7991d577e1221c5a6ab6660a2ba3 Semester 2
+42f475151072ac87ac420c4e3e4ce69eb530a8f2 Semester 2
+602c1d1cbef4023bdcc57bd83f2d0a37335aeae8 Semester 2
+612c0181ed9739c8d96b8e28661bc84fffa30aeb Semester 2
+62e765230a6d77d4f766559ae55b11908be46392 Semester 2
+685bab35547dc72adec379c79f5965ec2003050c Semester 2
+7e82ddc8b8658bf5bc4c25cb85c72a8d56bf0a96 Semester 2
+9b4a08ec7ea5a702d46a5085e5d856c8710396fb Semester 2
+9cf96fadc658ba0914ceb0f8bd7dd896cf8534ec Semester 2
+a68ef32f32eee4bb4a7375af5c97a0d107f80b9e Semester 2
+ae2a3fcd8476f346f8c98a40994c79bbeb30e0cc Semester 2
+c2ff9656c3532de77d2725b5adedc56100ea6595 Semester 2
+caa14e31e4377e8998b39288b6696cd5cc4d6169 Semester 2
+d39362071988118ea1e60442d4853848954180f6 Semester 2
+e5ac1ae955f8685b56881a5231d916ae3dd0852c Semester 2
+e9284d5faf889633f7632c894855ab960c96575b Semester 2
+fa28a42c6ced66f090f23e91247726bd361b288b Semester 2
+fcd7b5c08bdcd79f1b9564400af83e4758673558 Semester 2
+09c8d04b4ec3f7e977d4610f9a6bbc9f11df7e12 Semester 2/.DS_Store
+0e9315fba1d65c3ca995de138af73b0946f96551 Semester 2/.DS_Store
+1b1441fed49311db3c5c6d411d680dce5a39006f Semester 2/.DS_Store
+1b405515e68e5dfe7038c92a25e88e0b6cf133f6 Semester 2/.DS_Store
+208b00cca0c6566b74199dcc8de512ec286b25a2 Semester 2/.DS_Store
+4819877e93cbf52b275b8ea719250cba4c90f873 Semester 2/.DS_Store
+58da276669f49b32cc8aa27b73e3c0acacf69d2a Semester 2/.DS_Store
+6db01c41f58c8ed2b43e480bc4b3be6de64df68f Semester 2/.DS_Store
+7139767a612c167c439866057ec32a8ad803fc13 Semester 2/.DS_Store
+78e6f1e827546d724bbe4c946ff325156d736a35 Semester 2/.DS_Store
+7e787aa407aee1de9e453e2cec549ef181d40389 Semester 2/.DS_Store
+8688ad20164fa93a68ef9080250d32b2f15de04b Semester 2/.DS_Store
+be28dadfd66d380fd0b2d451bab7fad59df8aac7 Semester 2/.DS_Store
+d5f137e9eaf6698e2cf773a55c666603edc93f0e Semester 2/.DS_Store
+d9eb0681d5fb5f01277b183890a1e3219288a6d8 Semester 2/.DS_Store
+fbef912f50aa30df0ddc7f75f5f82c4cd92be315 Semester 2/.DS_Store
+5a234ab84b4390ca97b0cc0c19423dd3b2788e8b Semester 2/2023PU_Notes
+be5cfc6c13a31604254d293bb62882255b40377f Semester 2/2023PU_Notes
+c1723982c1c0d6ec04f58912b27d61bc5338b3c5 Semester 2/2023PU_Notes
+2f817408f56901e3ae655a19ea69f80b4ee826b8 Semester 2/2023PU_Notes/Instrumentation-by-Upendra-Yadav.pdf
+7e7a6ec4651fbeb7bf77fa762073f2a4234544da Semester 2/2023PU_Notes/Instrumentation-by-Upendra-Yadav.pdf
+4a71b35bd392a0604531619ad158d67cd56bfd41 Semester 2/2023PU_Notes/Instrumentation.docx
+c9d7c71e19633571a4face5eb81f8a984dc74105 Semester 2/2023PU_Notes/Past Question Collection
+f2094ba105a2b1c6893ef50b99e300778a3d4198 Semester 2/2023PU_Notes/Past Question Collection
+19be1022ec46aa09261b4226101a878489b1c6e1 Semester 2/2023PU_Notes/Past Question Collection/Instru_past_numerical_solved.pdf
+e440c17b78d244a44336a7fe48a95b0c09db379e Semester 2/2023PU_Notes/Past Question Collection/Instru_past_numerical_solved.pdf
+ace90710011dfb8d527db36559fde3261e4659ba Semester 2/2023PU_Notes/Past Question Collection/SOE pape solve 2080!.pdf
+fbed03fa1ec1d4435a2a5aa09d223a6afd202aae Semester 2/2023PU_Notes/Past Question Collection/SOE pape solve 2080!.pdf
+13faa5b52b8d2e43a39d35d47b8b52821fe26c99 Semester 2/2023PU_Notes/Past Question Collection/instrumentation internal exam (all clz).pdf
+96ffd233f8ec09328ae5cf3b8806b95d4e9ee8aa Semester 2/2023PU_Notes/Past Question Collection/instrumentation internal exam (all clz).pdf
+9d220fcd403ceae891a381fa49ac928ab22d5d78 Semester 2/2023PU_Notes/Past Question Collection/instrumentation_preboard-1.pdf
+e13d3691969528d8be3fef7ddda36db585b252d3 Semester 2/2023PU_Notes/Past Question Collection/instrumentation_preboard-1.pdf
+2b6e5559d9a6743e8a04bdd4fd3e69cade8139db Semester 2/2023PU_Notes/ch567-upy-sir-2.pdf
+c20034a1de4a1bece338f0cf7127e28abc9e10c9 Semester 2/2023PU_Notes/ch567-upy-sir-2.pdf
+22487a84aebb578d536472b4ce22d5c12782c9b2 Semester 2/2023PU_Notes/chapter-7.pdf
+8bf062d7c3d0de6a0bb6bb96f16c9f5504e33b49 Semester 2/2023PU_Notes/chapter-7.pdf
+0e716d8bb3396b4c3f9e6acfeb7027a50cdf84b7 Semester 2/2023PU_Notes/insru note latest syallabus-1.pdf
+11eb1135ddaefcbc35aee31f306ad36038a94daf Semester 2/2023PU_Notes/insru note latest syallabus-1.pdf
+3f3d531e647d3f062e15b622a62f46e2722c1aa8 Semester 2/Algebra and Geometry
+5dd745d344773d3728bc054d164ad87ffdd9e3e1 Semester 2/Algebra and Geometry
+5f13f1c7b8b83e2a5a249028abbf3b51fbda7c1b Semester 2/Algebra and Geometry
+764109f6aee8a28fad8064660c39248c8edce3f8 Semester 2/Algebra and Geometry
+f021eb62a7ae60e9451d6ac5e0fd7f302f7d4a42 Semester 2/Algebra and Geometry
+921bc8fe66d7783ff0b4d7729a5d32ca83872f8d Semester 2/Algebra and Geometry/01 Algebra and Geometry.pdf
+e3b786764ee745e52eeab22c7dca44e6cf08faf8 Semester 2/Algebra and Geometry/01 Algebra and Geometry.pdf
+439285dfd1be6de3e0232d2fdbdbebc30ced9998 Semester 2/Algebra and Geometry/Algebra_and_geometry_notes.pdf
+fca77ba422d23f5dc030f9b482f38d3e0765978e Semester 2/Algebra and Geometry/Algebra_and_geometry_notes.pdf
+3f4a13fe87eb1bd8394e95bbadb01d82881c916c Semester 2/Algebra and Geometry/UNIT 6  Two Dimensional Geometry.pdf
+d4b068d9234916c20a3eee043d4eae2fd9c81ffa Semester 2/Algebra and Geometry/UNIT 6  Two Dimensional Geometry.pdf
+a337fbf956e3cac4f22c0a58771d7a0c9fdb2190 Semester 2/Algebra and Geometry/UNIT 7  3D Geometry or 1st Order Ordinary Diff. eqn..pdf
+f6f0a65a422c4ed96f31aa973567ee6cf5120431 Semester 2/Algebra and Geometry/UNIT 7  3D Geometry or 1st Order Ordinary Diff. eqn..pdf
+625b1bf7b96cd6b65a8e40b3800504b465e2bc80 Semester 2/Algebra and Geometry/UNIT-1-Matrix-System-of-Linear-Eqn..pdf
+fc8fdb19354a5b112ec0830e4b3e90d099c72195 Semester 2/Algebra and Geometry/UNIT-1-Matrix-System-of-Linear-Eqn..pdf
+92275f0b2eed112382f4513dca5a37b525aeb0eb Semester 2/Algebra and Geometry/UNIT-2-Vector-Space.pdf
+e9291a545892fba366984e1b79227e134d7ac55f Semester 2/Algebra and Geometry/UNIT-2-Vector-Space.pdf
+32669f3cdf56adc0da6e2ff9a715d7e96194e8ad Semester 2/Algebra and Geometry/UNIT-3-Linear-Programming-Problem-LPP.pdf
+88179f699cb512af031ac55d472a1900a9c12895 Semester 2/Algebra and Geometry/UNIT-3-Linear-Programming-Problem-LPP.pdf
+38d12c63a87ba0f19b18af2fc0c8717b42900276 Semester 2/Algebra and Geometry/UNIT-4-Vector-Algebra.pdf
+71e46269bfa2c52eeeb04e1e26d25594b31a0ed3 Semester 2/Algebra and Geometry/UNIT-4-Vector-Algebra.pdf
+b18b909f51988c13413110e112f598b6a4b98a91 Semester 2/Algebra and Geometry/UNIT-5-Infinite-series.pdf
+b7d985bed38fce02445767f968819b27ec71f80e Semester 2/Algebra and Geometry/UNIT-5-Infinite-series.pdf
+18b726813e525040cc6135341abc7452734324c7 Semester 2/Algebra and Geometry/algebra and geometry question paprer.pdf
+64c41d65b1f3f4482e318aa83fee38a07429abe6 Semester 2/Algebra and Geometry/algebra and geometry question paprer.pdf
+3edfb98959e44dda35fad151c56ab4020a621b4b Semester 2/Algebra and Geometry/preboard_practice_questions.pdf
+e53229ac267f1e6ccc6e5140b89e411570d5e3e4 Semester 2/Algebra and Geometry/preboard_practice_questions.pdf
+4c4b52d75d6df60c9c924e8b9bf6c21976dd49bc Semester 2/Applied Chemistry
+9a7ada15e84612d6ddf97ca756801aca3f86083d Semester 2/Applied Chemistry
+b15cc7aeab826580e2b431b55a968a9e5e2bbd16 Semester 2/Applied Chemistry
+e3ebe0c70c68038db7be69a35628e24b5599b4f9 Semester 2/Applied Chemistry
+c6a8c999689d2965db7bd188e2fb8f789edcf215 Semester 2/Applied Chemistry/Applied Chemistry Question Paper.pdf
+d4cc555ecf3cd7a8df4b0071828f7486909e643e Semester 2/Applied Chemistry/Applied Chemistry Question Paper.pdf
+75bdd63678af53e3cc2314731a2ec38d3931f6a6 Semester 2/Applied Chemistry/Chemistry Note.pdf
+db94fd0da9566b62500dfa97cc6785667e14ce13 Semester 2/Applied Chemistry/Chemistry Note.pdf
+3373c0f6c131428f0ec93a7aebc949d68a9328e9 Semester 2/Applied Chemistry/Chemistry Syllabus.pdf
+b227829748313af1892d90b9ecb6e6803ff52535 Semester 2/Applied Chemistry/Chemistry Syllabus.pdf
+523c4ac2da53cea7126594a7af1b1b0b8a341205 Semester 2/Applied Chemistry/Chemistry2.pdf
+6ba568c31ddb87f0a1b850a8c47c12dba6063c68 Semester 2/Applied Chemistry/Chemistry2.pdf
+0a758f6967ac18164a2af96b165497747a69de0b Semester 2/Applied Chemistry/batteries-And-neoprene.pdf
+30f2d5a7adbf3116cecab6450909fd1fa6a9979c Semester 2/Applied Chemistry/batteries-And-neoprene.pdf
+120a83aa9ecc17da2feb7d0b6806475d996bc59f Semester 2/Applied Chemistry/chem-remaining.pdf
+c0605927fc501904fcb0e3e85e920eaeb026c346 Semester 2/Applied Chemistry/chem-remaining.pdf
+2ebc02f814c27f101c6871d47b45e206d0bfc4a7 Semester 2/Applied Physics
+98d42507291a2ee90d3296e0dca7ec5a100cf747 Semester 2/Applied Physics
+afce7f055501e7cd5d2c638ae5e1bcba70bf569e Semester 2/Applied Physics
+09976455a109d64e3c75f56d59cebce52e8f3bdb Semester 2/Applied Physics/SP BoCE Physics Note.pdf
+44233b15580c970661b397e389c8b569a6501479 Semester 2/Applied Physics/app physics notes.pdf
+5f23cb82102512a41bdf01a789849ebb5d065999 Semester 2/Applied Physics/app physics notes.pdf
+1e359e004a26bae33fed98a4621155dc45639145 Semester 2/C++
+3e488da899dcdd77a3586d79ffc2e493aa45d983 Semester 2/C++
+428fd20a1037030e7fe4250d6181bc1cbfc430bc Semester 2/C++
+1ebc9c7de7a86b876fc465f72436b7406b69c750 Semester 2/C++/C++ (2).pdf
+e5c327d7a0fb5aef357335d9242a12bf18baf9e0 Semester 2/C++/C++ (2).pdf
+3d49d0e15be47ddf3b96ac19a414d053455f7fd9 Semester 2/C++/GCES note
+ba5393d277a6b030c42c0781c1c00dbc87ff0073 Semester 2/C++/GCES note
+353cd61c37f5576f9fbc86f67a1b4b3d934f0b1b Semester 2/C++/GCES note/Chapter-1.pdf
+f718249193d924ca1b7cd31d614d3b5212eab3ec Semester 2/C++/GCES note/Chapter-1.pdf
+90f63fc8f334f2a2d01eedc0614d0f9c66cde4c1 Semester 2/C++/GCES note/Chapter-2.pdf
+f264bbacbe17790005ad200aeff47987fc310b06 Semester 2/C++/GCES note/Chapter-2.pdf
+853f0315d0f8e418be5a039980d60016b8c2b7fa Semester 2/C++/GCES note/Chapter-3.pdf
+d48d05985f917c2fc1f6b368c9f7851c902667cc Semester 2/C++/GCES note/Chapter-3.pdf
+76e0962a14707bfdc8c139af1696ea28a0b9bf48 Semester 2/C++/GCES note/Chapter-4.pdf
+a910a32571bd357142b9d1ddbe1dc27ff2ea8a3f Semester 2/C++/GCES note/Chapter-4.pdf
+3a2fe62d13294853d453bf27bccdb35af395ebd2 Semester 2/C++/GCES note/Chapter-5.pdf
+3d5217f8a7cb436c8711840e79082e3530bd8a26 Semester 2/C++/GCES note/Chapter-5.pdf
+d51012e0c514285f859a2a99dfb050d906222300 Semester 2/C++/GCES note/gces.txt
+3b2bc3b30bb3a3a70257094eaa96e2ad8d0e6857 Semester 2/C++/Object Oriented Programming in C++.pdf
+413888818ab680ff0309f7dc5831b3b8b7020de6 Semester 2/C++/Object Oriented Programming in C++.pdf
+63e1be40f3026603e08bf30f18f2046330e7e603 Semester 2/C++/Untitled document.pdf
+96c76f5edd72d9d30425f7971adf2ae6ada1151f Semester 2/C++/Untitled document.pdf
+00e9304e88f6ee8e396f5ad13d0d25e9d106485a Semester 2/C++/chapter 1  - object oriented concepts.pdf
+99739bfebb629a15cb868a54f2f398810abbed9f Semester 2/C++/chapter 1  - object oriented concepts.pdf
+4652e836fcd99d382cea0e67382628816be7c235 Semester 2/C++/chapter 2 - class and objects.pdf
+d350878777847d8f622e1eecae0e464e1af9340a Semester 2/C++/chapter 2 - class and objects.pdf
+41c42006766aec8dcfe74b124cac966c72246727 Semester 2/C++/chapter 3 - inheritance.pdf
+978c61cedaaf1b659b9bb1d45307f2414afb4255 Semester 2/C++/chapter 3 - inheritance.pdf
+a68bc9f24bd23d7ef69dd72073bd76821347833f Semester 2/C++/chapter 4 - polymorphism.pdf
+e51a49ad77baadbbde971576b8f0c772e88fe1a1 Semester 2/C++/chapter 4 - polymorphism.pdf
+67f7a9d0ce456b54384912aab311ec8882d7e461 Semester 2/C++/chapter 5 - templates.pdf
+f82155346c4137ae08e9f308d3df4e8fcf5416c9 Semester 2/C++/chapter 5 - templates.pdf
+a187e8b071cde8bbabed9947f5ac0f8fa593970d Semester 2/C++/chapter 6 - exception handling and file handling.pdf
+b0e42356e66426ef4c3a7a93d8ff6eadef2cbca3 Semester 2/C++/chapter 6 - exception handling and file handling.pdf
+dd5b004e2af80ff8e37a0bd11e7338837d76ad0b Semester 2/Chemistry
+18854e09f92c6fa77692264e433f4a8e312f9735 Semester 2/DSA
+29cfe87f44309a295cdf7706bc9d9e02ae45fac6 Semester 2/DSA
+3685d3d2cc0350e66b7a73003bf72ba834fbf2e8 Semester 2/DSA
+6cbf6fe4f0b68f0600c7e530084047dda653f6fa Semester 2/DSA
+dc4b24a265f6fd95f82c7086bd7f77613739760f Semester 2/DSA
+e232520ca9d7db551bc4d2df566fb494e0d0e44a Semester 2/DSA
+fa8a88d2aabf449a54b30c568a3c8312b539922a Semester 2/DSA
+aaf65772beb773a4eded8f49a6b892af2c41bba4 Semester 2/DSA/Assignment2.png
+2e00147556af5dfbbe0c094a88299d00ec94cb9a Semester 2/DSA/DSA IA Soln.pdf
+3011344bc5e69b4b022c85e5b6f84b97c83d6f6a Semester 2/DSA/DSA IA Soln.pdf
+0bd15cd533c06c36622a62e043702447bd34b25f Semester 2/DSA/DSA Syllabus.pdf
+33ebd01daf1662d7140a0edd9c3ae05b574a9c6e Semester 2/DSA/DSA Syllabus.pdf
+9384cb94209035de744c3aa8211973ca23b8bf2e Semester 2/DSA/DSA Unit 1.pdf
+c9461a9736224af6bce3535bb681ef63a6f59074 Semester 2/DSA/DSA Unit 1.pdf
+4d8366078fb31f019e1910b2022d5d38ba5ca537 Semester 2/DSA/DSA Unit 2.pdf
+b1eb2ad468087189e3f3566cf03fb66080c9a9dd Semester 2/DSA/DSA Unit 2.pdf
+a126c19a37726d6fa7c9076875b828eb8b098eda Semester 2/DSA/DSA Unit 3.pdf
+cb2d279eb516e30045368fec48b14ebf518c9103 Semester 2/DSA/DSA Unit 3.pdf
+5ddd618d3c62453d35b70fe22b5801740fe25a73 Semester 2/DSA/DSA Unit 4.pdf
+72afd805c8441f8596ac937b3e08e453746b04fa Semester 2/DSA/DSA Unit 4.pdf
+bd1a690782c4c81ac9a8c0e076d8d39181d847a6 Semester 2/DSA/DSA Unit 5.pdf
+f240ffee80be973de686b29d488737bf532ef700 Semester 2/DSA/DSA Unit 5.pdf
+030313ac73c4176b4ea07f9ac9d13131d71e495f Semester 2/DSA/DSA Unit 6.pdf
+a93618474d05b24bc11b3e3c1713e69459a2d42a Semester 2/DSA/DSA Unit 6.pdf
+0648e5698aadb1562b5e7b62868ed7ed7ffb7873 Semester 2/DSA/DSA Unit 7.pdf
+6a8f453e948f24e615b5b6e400fe2f466869c2ef Semester 2/DSA/DSA Unit 7.pdf
+6c82819849fc8361b823b95503ee16d4b8ac43fa Semester 2/DSA/DSA-2022 Fall.pdf
+f7f71e5002fed09096faa05f8e904f90ed8dc0ae Semester 2/DSA/DSA-2022 Fall.pdf
+53cb22777df583387e71f029bf566a0ec7281209 Semester 2/DSA/DSA-21 Spring.pdf
+ef572c14b214b8722767824d5c99654ab51f91a4 Semester 2/DSA/DSA-21 Spring.pdf
+6b8badd9cceb59840cac4bd18b7e31a5761644a5 Semester 2/DSA/DSA-23 Fall.pdf
+875a31d830fb440e822dbfbb1b48bedb430b6fc1 Semester 2/DSA/DSA-23 Fall.pdf
+5a9eb4a405b67dff2260b27a327c8173f6320c97 Semester 2/DSA/DSA-Assignment1.png
+5862df3ebe30eb4e9643d5994ce9005dde44090b Semester 2/DSA/GCES note
+65d12b3a23cdf7f730fc7aeeaf83b49e63f7a51c Semester 2/DSA/GCES note
+31a83e167e5892287052933de423e1feefa1c766 Semester 2/DSA/GCES note/Chapter3-Queuestudentnotes.pdf
+5b3b39a7417eeb94843e9d413e1830479b7a0bab Semester 2/DSA/GCES note/Chapter3-Queuestudentnotes.pdf
+20ea7870b9950224bc3b8d24cc8a1111277f9b6d Semester 2/DSA/GCES note/Chapter4-listandlinkedlisstnotest.pdf
+b91de0b3d375a03f504c2d16ea41f3fa8cb033cd Semester 2/DSA/GCES note/Chapter4-listandlinkedlisstnotest.pdf
+6b200d28974b7e15938f972e4140236489636be9 Semester 2/DSA/GCES note/Chapter7_Graphsstnotes-1.pdf
+ca09039355f2a2939330254e0552122a266edc2a Semester 2/DSA/GCES note/Chapter7_Graphsstnotes-1.pdf
+1fd5f498e7598f848ef085be249c72d1799bae93 Semester 2/DSA/GCES note/gcesnote.txt
+8ee3ab7069129a5a012ba8671aacd882c5992d4e Semester 2/DSA/IMG_4848.heic
+1ead97f8ef2c4137173bfb58bc056d757968248f Semester 2/DSA/Manish Shrestha DSA.pdf
+8ba706d38d12ee61d54ed3ec853c68415d248f3f Semester 2/DSA/Manish Shrestha DSA.pdf
+a259e77680d205999eaef89baca9142e0b99944b Semester 2/DSA/Past Questions Collection
+bbbf1789280ce4cef09234c85759a042040529f1 Semester 2/DSA/Past Questions Collection
+a17c12072afacdf8d8d666175273e9f9bc3ab821 Semester 2/DSA/Past Questions Collection/DSA-RT-portion.pdf
+ab42018d55ec0aa3a345d531c55893fed7fd880a Semester 2/DSA/Past Questions Collection/DSA-RT-portion.pdf
+7b41faa7f9f42b898e4efa97b62cb26dc571069a Semester 2/DSA/Past Questions Collection/dsa-assignment-2 (1).pdf
+a3c1dc1379e218e66947939ed1d88a5fafc5bef0 Semester 2/DSA/Past Questions Collection/dsa-assignment-2 (1).pdf
+3148db78d200f6c46dcad8590701bbfc123218ab Semester 2/DSA/Past Questions Collection/pastq.txt
+526a2e88c90d5734004a03736caf5c82db4d1f3c Semester 2/Instrumentation
+52ebfef2d6caa1e11b766c320952953040cad8e8 Semester 2/Instrumentation
+d63a031cb3b15acef34fcb027d63f50097e7329d Semester 2/Instrumentation
+fb136df99ae3daee9fda3ed0f671f1515a7940a0 Semester 2/Instrumentation/ELX231_Instrumentation_Basic.pdf
+6f66a9efed6703bf5909b6bcacc86c485a0ad9b9 Semester 2/Instrumentation/Instrumentation Manual.pdf
+c0ebeeb13b878d83c86c3989e9fe2a31cb0b02c3 Semester 2/Instrumentation/Instrumentation Manual.pdf
+0fb1b3e4a391367cdc68dea249aae415bfb6e775 Semester 2/Instrumentation/Instrumentation Note.pdf
+7fc9be5b45d09850aa7e0e5df69d2146166e8b44 Semester 2/Instrumentation/Instrumentation Note.pdf
+3b3c042986011da8150470a57ed4d4857c39c02e Semester 2/Instrumentation/Instrumentation Syllabus.pdf
+49ce7235f7ddcaf4b6646010187aa1b2aa393b33 Semester 2/Instrumentation/Instrumentation Syllabus.pdf
+1a06ff83034ba2632c850a7e1be48ee729f0ce53 Semester 2/Old Questions
+23f08331500b3dce00c6b3638ccaad690a6d268b Semester 2/Old Questions
+6bfa3ae15b22c42252d46cd07a8e0b8643b80e94 Semester 2/Old Questions
+7bbb35215f1f7e74e9adde7b63e375fd992289fa Semester 2/Old Questions
+e9a65ea6732805843977f8cfafec31b9f52b1b95 Semester 2/Old Questions
+eb260630f9c556d9380c6550efb49036877f8d7a Semester 2/Old Questions
+ec9a7f01b59443a1843903b915842f486926536f Semester 2/Old Questions
+1f1a6614a6c8f78299929ceb05f3e1c26c5fe021 Semester 2/Old Questions/.DS_Store
+ee17a0bacb2191f85510b5926b41ea4bbc63cf11 Semester 2/Old Questions/.DS_Store
+5917704699a6299566869f97ecba2625bea267bc Semester 2/Old Questions/2023 Algebra Spring
+7eb39c5507cc631f99397498d4c92bc82da6d239 Semester 2/Old Questions/2023 Algebra Spring/PU algebra 1.jpeg
+87f247977a8588d9237f165de59cd9f2a4332526 Semester 2/Old Questions/2023 Algebra Spring/PU algebra 2.jpeg
+563d43a0b68627d6e73ca94918cc5ceb98a40a9b Semester 2/Old Questions/Algebra and Geometry.html
+286b9c5133293b1012f5dde9cf383390d95da9db Semester 2/Old Questions/C + +
+69633d54a4544fc10ef9a72baf0cd61e249ab2d5 Semester 2/Old Questions/C + +
+53ba033c53168a0b10e13e284166d72f04e65b85 Semester 2/Old Questions/C + +/C ++ -11 Fall-1.jpg
+41dd705551e6601337da3338c71851d92c95489c Semester 2/Old Questions/C + +/C ++ -11 Fall.jpg
+d5dfd7cf6b6b49a5501b090fd5f6c636a195b1e5 Semester 2/Old Questions/C + +/C ++ -11 Spring.jpg
+994f586ff511a807567cbb284366eda60b844b5e Semester 2/Old Questions/C + +/C ++- 18 Fall.pdf
+fc5c28deac10cbfbac4bfd3a876eafa028c9cd92 Semester 2/Old Questions/C + +/C ++- 18 Fall.pdf
+a22907c2b85eefd30e522a9538796411ad220129 Semester 2/Old Questions/C + +/C ++- 20 Fall.pdf
+f3bd295a40b0353952a8252cb9834f33e71ff674 Semester 2/Old Questions/C + +/C ++- 20 Fall.pdf
+263e650516b4378a5a6f7bb37c03722d1745bf51 Semester 2/Old Questions/C + +/C ++- Fall-19.pdf
+abc49a86f1fb07febc77e5314478bc42eda1c2a9 Semester 2/Old Questions/C + +/C ++- Fall-19.pdf
+1bc1a3d26fc66b89a5c48507a75edc1e98356e67 Semester 2/Old Questions/C + +/C ++-12 Spring.jpg
+6adbb07ef63f8010a31b26d02a27835cef7b9d1f Semester 2/Old Questions/C + +/C ++-14 Fall.jpg
+78c6fb88a962975dcdf6bd2c40efbeb5bb5d2a6a Semester 2/Old Questions/C + +/C ++-14 Spring.jpg
+78b640a7721c17644faa40c89db194eba183f4d1 Semester 2/Old Questions/C + +/C ++-16 Fall.jpg
+e12d05e7ee769562607836735b1c4482e0d5619b Semester 2/Old Questions/C + +/C ++-17 Spring.pdf
+ff9de1ea959839595835e51d79ffa9394dd0a2a5 Semester 2/Old Questions/C + +/C ++-17 Spring.pdf
+564a5f1956b4ed976959a395d2b0e96e667486ff Semester 2/Old Questions/C + +/C ++11 Spring -1.jpg
+a468b6a24223bc05de9ed9696348fc2bdb0971e9 Semester 2/Old Questions/C + +/C++-12 Fall-1.jpg
+566c61e651856ee9299b9083756d64e44aa58de9 Semester 2/Old Questions/C + +/C++-12 Fall.jpg
+a7255678616c0bef6ee0d18dc76917ae999a52d9 Semester 2/Old Questions/C + +/C++-13 Fall.jpg
+28a281e2df538fa39b15616c56c432755a02ab3f Semester 2/Old Questions/C + +/C++-15 Spring.jpg
+49db5a7b5726aef891473e270684e0e0ee18a202 Semester 2/Old Questions/C + +/C++-17 Fall.pdf
+eb0fd70ce2d694468d6faf7d234df2bea2452e90 Semester 2/Old Questions/C + +/C++-17 Fall.pdf
+7c74a3e25365487ed59fe8974644aa15d12a8ead Semester 2/Old Questions/C + +/C++-18 Spring.pdf
+acca36bdf9e6a8e3ed3699eefffc6577d4ef7132 Semester 2/Old Questions/C + +/C++-18 Spring.pdf
+7fc27d89d8f7ae406e1fa42ce4e0ec454dc3dcab Semester 2/Old Questions/C + +/C++-19 Spring.pdf
+be1c8d4cfb512dbd8dc402f140ae4134217440ae Semester 2/Old Questions/C + +/C++-19 Spring.pdf
+4a6a9043acbf4e63821df313778d0bf041116bb1 Semester 2/Old Questions/C + +/C++-21 Spring.pdf
+8f7ab807d333f1d6c6a8e6e074110ebac51eda93 Semester 2/Old Questions/C + +/C++-21 Spring.pdf
+3103be746d61a56fc944a9bdb614a923d2ff63b0 Semester 2/Old Questions/C + +/C++-22 fall.pdf
+728c0946c7cd173fda5b75e49225ec2dbbc8f303 Semester 2/Old Questions/C + +/C++-22 fall.pdf
+0167056468e1b5a62e0cda85b8c230e2aad590e3 Semester 2/Old Questions/C + +/C++11 -Spring.jpg
+23bb0e71f255e169dbeb19ebc1ebb4859b1cae9e Semester 2/Old Questions/C + +/C++11- Spring-1.jpg
+2d117e02aaac494b6339cb395a87630ae9db069f Semester 2/Old Questions/C + +/C++15 Fall.jpg
+c60aeb31c734b086d40e99996600a37bb96003bb Semester 2/Old Questions/C + +/c ++-16 Spring.jpg
+6e1a6398b7f1819e8af2e023dc6b8eb27f081095 Semester 2/Old Questions/Chemistry
+9949a5319d92a29fdadc12da6f3caa8d32c22684 Semester 2/Old Questions/Chemistry
+169ae40fe74e5889d64d6c437971da3df2eecd09 Semester 2/Old Questions/Chemistry/CHY-13 Fall.Pdf
+dac63ea6030884d68ae04c3a74e42aff0e30791a Semester 2/Old Questions/Chemistry/CHY-13 Fall.Pdf
+088a985da26788dfb686f454cc517ac0f892df91 Semester 2/Old Questions/Chemistry/CHY-13 Spring.Pdf
+2361d0139c7beb21a7a64763edd058c694948b10 Semester 2/Old Questions/Chemistry/CHY-13 Spring.Pdf
+0482e89d9683eb8c9b0e85d6ddfdca709f90bf04 Semester 2/Old Questions/Chemistry/CHY-14 Fall.Pdf
+650e8a6047cd9817e02ce6b7086936a1fcc5ae0e Semester 2/Old Questions/Chemistry/CHY-14 Fall.Pdf
+444dbd2a21a5ea419a39677a0fc418df47b9993d Semester 2/Old Questions/Chemistry/CHY-14 Spring.Pdf
+a228dd09653e76286aff296a3ec0f430148ce9e5 Semester 2/Old Questions/Chemistry/CHY-14 Spring.Pdf
+ba32d40b4cacaec2fd40bda7efe2d2e4b19867c6 Semester 2/Old Questions/Chemistry/CHY-15 Fall.Pdf
+fcdda64866af06c2d8f76d08d062109fa5b88baf Semester 2/Old Questions/Chemistry/CHY-15 Fall.Pdf
+18dca66489f527127ae726bd108154dc3df18734 Semester 2/Old Questions/Chemistry/CHY-15 Spring.Pdf
+534e9e7c76637250f5c7dbf36ba3df86cddd71ed Semester 2/Old Questions/Chemistry/CHY-15 Spring.Pdf
+599f87a3ed80666bc37fdcffa34719b2df62ad44 Semester 2/Old Questions/Chemistry/CHY-16 Fall.Pdf
+b9674b4c125f1e8e209e79107ba0251d66aa6aec Semester 2/Old Questions/Chemistry/CHY-16 Fall.Pdf
+2cfb71b9303e279fd4203bfc53bf71717f81e813 Semester 2/Old Questions/Chemistry/CHY-16 Spring.Pdf
+b3c0942bd43ffaa9a9f1d4b16dee28b2b9b7cab2 Semester 2/Old Questions/Chemistry/CHY-16 Spring.Pdf
+8d6f9d53a499dcb9bb20e2f07c4d1c86c220d5c4 Semester 2/Old Questions/Chemistry/CHY-17 Fall.Pdf
+efb5bceb4d06a30237d6f9c02e4f2bc9dbc6d376 Semester 2/Old Questions/Chemistry/CHY-17 Fall.Pdf
+31e1c7a1e6d3cd141cd6dd81beed53603206266a Semester 2/Old Questions/Chemistry/CHY-17 Spring.Pdf
+42a8c09e1e9c9e462ad024c51419aa9e560c9de1 Semester 2/Old Questions/Chemistry/CHY-17 Spring.Pdf
+5bb7fded3e65e04005bb74398762af7f1def3fec Semester 2/Old Questions/Chemistry/CHY-18 Fall.Pdf
+922f672749467bdcedc3881bbd4522784f1d3b4f Semester 2/Old Questions/Chemistry/CHY-18 Fall.Pdf
+7d87f03723592b593b7fd1ed0a2e7c5b235cce24 Semester 2/Old Questions/Chemistry/CHY-18 Spring.Pdf
+bb42b300d29b5919023a58709524b1804537efda Semester 2/Old Questions/Chemistry/CHY-18 Spring.Pdf
+1dbebf1599d6a07d1bf3b872657c835a9a3fd95f Semester 2/Old Questions/Chemistry/CHY-19 Fall.Pdf
+f981bdf2e321fa6f540395ccc9bebf3e11ec0bd2 Semester 2/Old Questions/Chemistry/CHY-19 Fall.Pdf
+4b408ba5b0aa871a626c8e42581ad186d2d12bab Semester 2/Old Questions/Chemistry/CHY-19 Spring.Pdf
+f6326587764486b2e348ad39c34e40457fb8c268 Semester 2/Old Questions/Chemistry/CHY-19 Spring.Pdf
+550393b43e372cb457422aa7f10b2264f33a3872 Semester 2/Old Questions/Chemistry/CHY-20 Fall.Pdf
+82be76d9fd5eed10c933f1469b12cf77987d1cfa Semester 2/Old Questions/Chemistry/CHY-20 Fall.Pdf
+2c38523be9a965a4125894553dfd70316fbfcb8f Semester 2/Old Questions/Chemistry/CHY-20 Spring.pdf
+f93dc0b87df13c00738ed6b12a71d82255dfb3f8 Semester 2/Old Questions/Chemistry/CHY-20 Spring.pdf
+54d9e29a15ef9c443240dcbc591751ff51a8c15e Semester 2/Old Questions/Chemistry/CHY-21 Fall.pdf
+8d4236ec60b86ede4f33186472444986cd90740a Semester 2/Old Questions/Chemistry/CHY-21 Fall.pdf
+433d19ceede61dd49ca4ca83f6f58198028f0279 Semester 2/Old Questions/Chemistry/CHY-21 Spring.pdf
+d04edceba72194d5d72752728d0d3eb13b9f9d9b Semester 2/Old Questions/Chemistry/CHY-21 Spring.pdf
+0693359cf0574e031e08ecaee880c45cf2485a7c Semester 2/Old Questions/Chemistry/CHY-22 Fall.pdf
+ec902bb87f8386ed4c7ce6b99ae71284f565ef1a Semester 2/Old Questions/Chemistry/CHY-22 Fall.pdf
+30587203933d7e08210381ff13a40079a8fce3ed Semester 2/Old Questions/ED
+71393b21452192246f6673ce58bc23c2eb33e20c Semester 2/Old Questions/ED
+4681bc71ae35ad16e1bf1c74e8e72b1244807224 Semester 2/Old Questions/ED/ED-12 Spring-1.jpg
+72694ccbc798c31aa45a565d440da609db128637 Semester 2/Old Questions/ED/ED-12 Spring.jpg
+47c357ffeae7701ec68a5a8bc94f24a152ae7937 Semester 2/Old Questions/ED/ED-13 Fall-1.jpg
+43d95e9337f00f7f92e9c4052759f56a4b9b170d Semester 2/Old Questions/ED/ED-13 Fall.jpg
+aafdbbc331dda90b9374025d1372de1d0c8faa75 Semester 2/Old Questions/ED/ED-13 Fall1-1.jpg
+dbb02b291b8203fb69b99062c1d2615d28ce61b5 Semester 2/Old Questions/ED/ED-13 Fall1.jpg
+fc0d893df92ab1f606968547d20c344c12f40ea2 Semester 2/Old Questions/ED/ED-13 Spring-1.jpg
+f4f1770fe8995df31a0d20a6244e7529cfb1d92e Semester 2/Old Questions/ED/ED-13 Spring.jpg
+7a55f20e0916c62485420c32da3b698d0ec0c163 Semester 2/Old Questions/ED/ED-14-Spring-1.jpg
+33e40356fde90f73bc45cbc48f4a53dfabca3f50 Semester 2/Old Questions/ED/ED-14-Spring-2.jpg
+38d1bd990af6dc7b35c412de0357c3b61abeeaa4 Semester 2/Old Questions/ED/ED-15 Fall-1.jpg
+1662d41f380577dc8817aab5d6a8cb56a6d5300a Semester 2/Old Questions/ED/ED-15 Fall-2.jpg
+47bf0b1e3321f3280e530344cd63ab0c783bddd3 Semester 2/Old Questions/ED/ED-15 Spring-1.jpg
+a4853344e871ddf9647f7908fb7217f86f1060f0 Semester 2/Old Questions/ED/ED-15 Spring-2.jpg
+4a15ea19ee1a89ebb2fc92d09703d389af840955 Semester 2/Old Questions/ED/ED-17 Fall.pdf
+e7577ba9f1dff2669b48354fe25ba115ceef5b9b Semester 2/Old Questions/ED/ED-17 Fall.pdf
+508350f77a9687a474a9a0376cf3592b76c756b9 Semester 2/Old Questions/ED/ED-17 Spring.pdf
+6fc20cd3ee61bd6b2c4ab667d30cdc37a7bb41ba Semester 2/Old Questions/ED/ED-17 Spring.pdf
+c34028fc281f7fc41e901065662bda3eff3295f8 Semester 2/Old Questions/ED/ED-18 Spring.pdf
+da6465bc93e1aba5fb21f9527ba91561d70251f5 Semester 2/Old Questions/ED/ED-18 Spring.pdf
+576591b75a28b673ba73930a3d928d7fda6195a4 Semester 2/Old Questions/ED/ED-19 Fall.pdf
+7d17ed4e681f8d0dc04374715eff9398e9e3620e Semester 2/Old Questions/ED/ED-19 Fall.pdf
+da960428c9fefb500bb57f2c5175188bbb5ea40d Semester 2/Old Questions/ED/ED-19 Spring.pdf
+e583e3fc0a82a45161b1873f4e7fedf44bcf85f3 Semester 2/Old Questions/ED/ED-19 Spring.pdf
+27fdf3ab946cc3809ee568cbcc2ba533deaf8b1b Semester 2/Old Questions/ED/ED-20 Fall.pdf
+f1d188e4cd199f1df04c8d30ba8ebb9f9da439ad Semester 2/Old Questions/ED/ED-20 Fall.pdf
+630452bbae36ed3b5773dabba07323be7ee90d25 Semester 2/Old Questions/ED/ED-21 Spring.pdf
+c6c76c581c0c4fc0355396bd6b2a46e8de3de885 Semester 2/Old Questions/ED/ED-21 Spring.pdf
+ef242402877fe669cf4ff501d306bd2d3a5374c0 Semester 2/Old Questions/Math II
+ef7f66d0e2992fa0ec49f367aacd85b70bec752f Semester 2/Old Questions/Math II
+2afb7497e4a7139b5628b7df452b2e57097136e5 Semester 2/Old Questions/Math II/MTH-19 Spring.pdf
+e4212a8be4afeff84d3d04e12a6b4732535209c3 Semester 2/Old Questions/Math II/MTH-19 Spring.pdf
+3006d396865e98b15c20a040dea2340ecc1f937b Semester 2/Old Questions/Math II/MTH-20 Fall.pdf
+6088b4d37b90941e3437fe55874ada3bf2ccc2e0 Semester 2/Old Questions/Math II/MTH-20 Fall.pdf
+93ee6cb53e2bb3b4a2fd08d0e298fe78029e7db0 Semester 2/Old Questions/Math II/MTH-21 Spring.pdf
+f7a43f1dbaaabc4fec47adb336b399ac47addff6 Semester 2/Old Questions/Math II/MTH-21 Spring.pdf
+009d56ad7e262678f35c8c11381ab57b999ad0e9 Semester 2/Old Questions/Math II/MTH-II-22 fall.pdf
+a44e79fc03aab5e4ce336d909e29d6d959dbedc3 Semester 2/Old Questions/Math II/MTH-II-22 fall.pdf
+c84eddaea01e704cf7b4a5c83a1c358b1293f866 Semester 2/Old Questions/Math II/Math -12 Spring.jpg
+c8946c3de63c55b0961dadd581170edd4d1e7b20 Semester 2/Old Questions/Math II/Math -13 Fall.jpg
+f826977c77450be4b1c544c4e9d65a4930b322fc Semester 2/Old Questions/Math II/Math -13 Spring.jpg
+41c4210523bd15f9bff89580c754f95b81b588ce Semester 2/Old Questions/Math II/Math -14 Fall.jpg
+f53967e8543b683c007cb5558adf9932aebfcc50 Semester 2/Old Questions/Math II/Math -14 Spring.jpg
+45bebb3e6a40f6cb6d128d5232977c0fbc0fe932 Semester 2/Old Questions/Math II/Math -15 Fall.jpg
+30b45ace0ca7420113a6995f37b6d0d9dbc7f2d5 Semester 2/Old Questions/Math II/Math -15 Spring.jpg
+19f7f691902ef36f5f6a5d59136711d4007064c0 Semester 2/Old Questions/Math II/Math -16 Fall.jpg
+7f4cd5285dc72a958624402cf2c0a98b827ad071 Semester 2/Old Questions/Math II/Math -16 Spring.jpg
+3baa7cf0c2cbb7132d5f2542d58f130da984a86e Semester 2/Old Questions/Math II/Math -17 Fall.pdf
+7101313db75081582854653fe5b30fdd2cecbf72 Semester 2/Old Questions/Math II/Math -17 Fall.pdf
+c73686c46628d609e3f3d89b92af4db8acbe9413 Semester 2/Old Questions/Math II/Math -17 Spring.pdf
+f54827dd24eabf8652a26acb9232a6cbe1624abb Semester 2/Old Questions/Math II/Math -17 Spring.pdf
+48097ac50ed94cbd296737d7e38cf9cfcd695b7f Semester 2/Old Questions/Math II/Math-11 Fall-1.jpg
+a4f864bbed13e636907704ae887144983f1028e0 Semester 2/Old Questions/Math II/Math-11 Fall.jpg
+20ebcddc1dc931ae3c85c395bfc848b21c8ef16c Semester 2/Old Questions/Math II/Math-11 Spring-1.jpg
+de8a0f0d9f258eeadf9af464f27f94d8ed3976c0 Semester 2/Old Questions/Math II/Math-11 Spring.jpg
+682968ba1ae8302532375f71ca14d57e1457e805 Semester 2/Old Questions/Math II/Math-12 Fall-1.jpg
+16584d64fbcfda0e564266f4a50d83a91866f524 Semester 2/Old Questions/Math II/Math-12 Fall.jpg
+532c343920f5e3a11cb0c74f22a6f99f0c680ff2 Semester 2/Old Questions/Math II/Math-18 Fall.pdf
+a969af574de037bd4e5835bbbd8db1b1332a334a Semester 2/Old Questions/Math II/Math-18 Fall.pdf
+0a241b0124d752365983bb3b678e8fddd10b6f2a Semester 2/Old Questions/Math II/Math-18 Spring.pdf
+9a74e45bc814cf8e37eb64e8ac3c23b14eb91474 Semester 2/Old Questions/Math II/Math-18 Spring.pdf
+b64515e43b370a0b391184d2a395072ca17c0fe9 Semester 2/Old Questions/Physics
+ba99ef87e0a3b05fd02e186c7ee65499f40440cc Semester 2/Old Questions/Physics
+8870d574788217a50b325ee8f5ca021b363d669b Semester 2/Old Questions/Physics/PHY-19 Fall.pdf
+e282b0ac7f5aa7edf34368b4e41a17fe689a3ca9 Semester 2/Old Questions/Physics/PHY-19 Fall.pdf
+4278619545e50cfdee1e188fa6bb21aad7178a95 Semester 2/Old Questions/Physics/PHY-20 Fall.pdf
+86252e589e9ec8524e702c93124e3a1086ad8326 Semester 2/Old Questions/Physics/PHY-20 Fall.pdf
+b82187038b2941cc188e4ba251d3603c81773202 Semester 2/Old Questions/Physics/Phy-11 Fall-1.jpg
+1e0d09b602353dcb7c704f63f1164a69c1a77e10 Semester 2/Old Questions/Physics/Phy-11 Fall.jpg
+b4e1ecb671f3e87e50afa36a1763e380541958f3 Semester 2/Old Questions/Physics/Phy-12 (new)Fall.jpg
+b899b3cdd5e47ff639781d6c6025067d1fe6bdf6 Semester 2/Old Questions/Physics/Phy-12 Spring.jpg
+19cc69e227f8b6a91eee747d65242cd39bc4ba2d Semester 2/Old Questions/Physics/Phy-12 fall-1.jpg
+0cfc20aee0de34d85e98e974832841f506dfc788 Semester 2/Old Questions/Physics/Phy-12 fall.jpg
+20a64938b9c8de88322f5fb28e56aca5391b4550 Semester 2/Old Questions/Physics/Phy-13 Fall.jpg
+55fd8febf146c363c43fd7082d93b64b1c6b83ef Semester 2/Old Questions/Physics/Phy-13 Spring.jpg
+b6577d28ce8342d88045edce7f3c8a2c5a99e074 Semester 2/Old Questions/Physics/Phy-14 Fall.jpg
+961fb18dfdf17435ce32968e0480a41a0e7f380b Semester 2/Old Questions/Physics/Phy-14 Spring.docx
+b92f8ec668f23c8fb40462547daadd25932f0ebd Semester 2/Old Questions/Physics/Phy-15 Fall.jpg
+eb15c3b93cdbc444272e9485ae006f90233aa8e2 Semester 2/Old Questions/Physics/Phy-15 Spring.jpg
+474dcce4e513b2dd7ade6df95b374e2953857938 Semester 2/Old Questions/Physics/Phy-16 Fall.jpg
+22a43486b899dbf5b61f18b7b33127f67ffe236a Semester 2/Old Questions/Physics/Phy-16 Spring.jpg
+744acad16f96f37ae1923dcce3dcf387aca100e8 Semester 2/Old Questions/Physics/Phy-17 Fall.pdf
+e503b02356f7d964c5723d419d51b2127c5ba99c Semester 2/Old Questions/Physics/Phy-17 Fall.pdf
+5c46257de002f856c8ffc86161988ed7db244fd2 Semester 2/Old Questions/Physics/Phy-18 spring.pdf
+f042940bd9799c7642ac2fcc3d37734896aa66d0 Semester 2/Old Questions/Physics/Phy-18 spring.pdf
+0847c033b180b11a16699a6836da810ad7aaa779 Semester 2/Old Questions/Physics/Phy-19 Spring.pdf
+ecc46d0133673e9c8c7d71b0eab112770760e019 Semester 2/Old Questions/Physics/Phy-19 Spring.pdf
+a1aab3666c678a71e78c8f97908aed52c0898646 Semester 2/Old Questions/Physics/Phy-21 Fall.pdf
+d0e06d9030ce89b923f1602a82b8ec17b0ba4eec Semester 2/Old Questions/Physics/Phy-21 Fall.pdf
+7e58b50a82b06e0b99f125e0f3bac8d217242cd8 Semester 2/Old Questions/Physics/Phy-22 Fall.pdf
+d185d71131ecaf07508b5028b1b1d53d0d1a4c7b Semester 2/Old Questions/Physics/Phy-22 Fall.pdf
+030e41359d61cd0109ea1d68f57cf2802af61ba0 Semester 2/Old Questions/Tutorial (Maths) Algebra and Geometry.pdf
+a5949a590c5d4f7d2ad0bf789bb5fa04ce9e716a Semester 2/Old Questions/Tutorial (Maths) Algebra and Geometry.pdf
+65d045287692657b5fe139f208da65bc576a5ca6 Semester 2/Old Questions/soln set 1 software.html
+1fcb1834e12e5537a7f3112dab98e6d126699ee3 Semester 2/Physics
+09b554610781f18e39d11598e08a24998e997995 Semester 3
+1349b26cceef2db8a0a267eda9e9380a47009d31 Semester 3
+14e215356dfd33440b0ac271e0ca7f2d7ffe74c1 Semester 3
+15c9e698643c749da0e44d1411ce6c04df41120d Semester 3
+16885d83eae0cc63c9cfa031d782ecaffe4947c6 Semester 3
+5cb266ba7491f1c307b104d6daa4ef584b887175 Semester 3
+64d2be71d0848a8f64d09083317970e5c3cd3848 Semester 3
+7b2573d6dfbba996a1ee4cbdf54cd85c2a06ef90 Semester 3
+7f1e8372588cfd36a4d0ba0ad718d5ee69602fa7 Semester 3
+8085fdd2d0a3606c6e00d746d601c966701970a4 Semester 3
+a967e71b9032b5b064d937e5f1d57e0d53445fec Semester 3
+e0773994d7a7f88ee7846ef9eee507e5f91ca3bc Semester 3
+f08dae6b3a5df5c2b896414dcf5904fdfa8988a6 Semester 3
+7ddeda808aca60bf01001e3fca23835c4342536e Semester 3/.DS_Store
+967752604d33a9c4bd06832802d7bd6b716fc3d4 Semester 3/.DS_Store
+b4d3e8462d166d4ea33dec24a715c0735707f1d2 Semester 3/.DS_Store
+d33475a8860b46ce1e74612d37d043cc88bbaf15 Semester 3/.DS_Store
+e87e3f7fd80a6787c5dfba7040bcc826829ae171 Semester 3/.DS_Store
+0565c29bd6c6c435cd9acbe663271df5bcacd660 Semester 3/Assesment Questions Sem 3
+060177742a9156a66c493e622b606734b43f3730 Semester 3/Assesment Questions Sem 3
+a4994f03306bf00f43077bc641fb7e0d463fa91c Semester 3/Assesment Questions Sem 3
+88f91460aa2ea4a2d8d82241551ced6ce8bcacc3 Semester 3/Assesment Questions Sem 3/Calculus II Assesment Questions.jpg
+567d0fad49e89fc1db4b79e550c71b6ec1c29477 Semester 3/Assesment Questions Sem 3/Computer Graphics Assesment Question.jpg
+a6890119502940033e94e265abad0c3374cb022b Semester 3/Assesment Questions Sem 3/Data Communication Assesment Question.jpg
+eb37761cdb3022f1fab9fbed7fbe2208798dfc5c Semester 3/Assesment Questions Sem 3/Database Management System Assesment Question.jpg
+d09e8acf4beb54cc4f805ef1b38a591eab9f7337 Semester 3/Assesment Questions Sem 3/Microprocessor and ALP Assesment Question.jpg
+218e0c36fe7074fd4a75a9baa383dd38cb22da69 Semester 3/Assesment Questions Sem 3/Operating System Assesment Question.jpg
+c2b711e75dff45b886dc6bb70d8064aa3599b150 Semester 3/Assesment Questions Sem 3/Some-Important-Question-of-Vector-Calculus.pdf
+c3219b33a05cab93435b033cf563759828dd85fa Semester 3/Assesment Questions Sem 3/Some-Important-Question-of-Vector-Calculus.pdf
+46dfc5e793dd020e5a6b493e84a48feffee61746 Semester 3/Board Exam Sem 3
+67eca579b29a15e963e205074cfb3b706fe376a1 Semester 3/Board Exam Sem 3
+e557b03dce6b4e20ad0b4bb03543eb84f8c22bd9 Semester 3/Board Exam Sem 3
+7b0e3f2e6fa8f3d19cc38373d63c2eb1997c85ba Semester 3/Board Exam Sem 3/Calculus-II Board Question.pdf
+8e1754f67de0ec7b78dec360cd8a708f8a812f65 Semester 3/Board Exam Sem 3/Calculus-II Board Question.pdf
+200111e7ccdd4adf24ff74c966d7dd1e8829306a Semester 3/Board Exam Sem 3/Computer Graphics Board Question.pdf
+c134c1c69947468ffaf1bf6c202d91e0d4b43508 Semester 3/Board Exam Sem 3/Computer Graphics Board Question.pdf
+0d4ec553a5d92e90317ed7c7c12bca07070fb488 Semester 3/Board Exam Sem 3/DBMS Board Question.pdf
+ed1029c6a4eb5c617cf876102f64d8635c3d137d Semester 3/Board Exam Sem 3/DBMS Board Question.pdf
+7b37def833dc612d7e456036e277f9bc4ffcb68c Semester 3/Board Exam Sem 3/Data Communication Board Question.pdf
+8225bd94ad857913e568c88275a7d775e5651bbf Semester 3/Board Exam Sem 3/Data Communication Board Question.pdf
+ba5107991b8277834684f036e462d2203d1e1732 Semester 3/Board Exam Sem 3/MP and ALP Board Question.pdf
+e3cf0c08492164e02724783bc0e2f667b933921c Semester 3/Board Exam Sem 3/MP and ALP Board Question.pdf
+9d6d1febe515d589abc9860fd9f10480f646efb5 Semester 3/Board Exam Sem 3/MP and ALP back 1.pdf
+b1972c0ed1faeefe0593f8aa068712b9fc52f460 Semester 3/Board Exam Sem 3/MP and ALP back 1.pdf
+954fd7774e4fd6699ee25b23c2ec361a29879ec7 Semester 3/Board Exam Sem 3/Operating System Board Question.png
+0d9b35fb23fa5ffa100bf7b8a9245c6890f6377a Semester 3/Notes Sem 3
+1904702cc66a76a2c0ed463a9e504d17465720a6 Semester 3/Notes Sem 3
+3fff8de4eedcc2d592583e606509c7e594359cba Semester 3/Notes Sem 3
+4e35a2a85e09218d34ec84f68b94bb89cf12a5c0 Semester 3/Notes Sem 3
+931c004c1f2cd55614892e87a543441cf2522d7f Semester 3/Notes Sem 3
+99e4d5b2dc1c1b61640ae9cdc01e9866bf23cebd Semester 3/Notes Sem 3
+9ab35a74dd8fa602bc910c69cc67247eb95353e2 Semester 3/Notes Sem 3
+b00023e33e2593095271c67d9eec7db4a91ecab4 Semester 3/Notes Sem 3
+e90b3c6ac19a35918899ae95811e5b9b0edbd4d4 Semester 3/Notes Sem 3
+ec38d8eb8597776839c3d8adc2ad8020ec89fe37 Semester 3/Notes Sem 3
+22f40d1b659c3b23103e22336920b29f162c09d5 Semester 3/Notes Sem 3/.DS_Store
+270fe8de3697e81f18da8ef03924ee59cb43004e Semester 3/Notes Sem 3/.DS_Store
+4c4844fb5a054824ed725f7c925ef90f73d91082 Semester 3/Notes Sem 3/.DS_Store
+cd8f8ecc871cd40b004d15d0b87d283f6d7e0a2e Semester 3/Notes Sem 3/.DS_Store
+0967827907de0d02017f9382b7fbebfe3a1e4b91 Semester 3/Notes Sem 3/CG handwritten note
+4dbdcaedec543942f2552d10e3f7ade20271afc8 Semester 3/Notes Sem 3/CG handwritten note
+8dde97e20709f0666e17fbbb6c4ea89c963e5dca Semester 3/Notes Sem 3/CG handwritten note/CG_Binita_Final.pdf
+ea65773c763c6287d24da80f45dac01c6378520e Semester 3/Notes Sem 3/CG handwritten note/CG_Binita_Final.pdf
+7c35237301e969b0cd0fea6b01add1bec01e73d5 Semester 3/Notes Sem 3/CG past questions
+a785fc417f2cc67852ccc250668e6a7ec643b1c9 Semester 3/Notes Sem 3/CG past questions
+80239358646df632f7257aff56426d0b3c8dd262 Semester 3/Notes Sem 3/CG past questions/CG-past-questions.pdf
+d82209559da1929a25ae99d3ebd631ed35577a46 Semester 3/Notes Sem 3/CG past questions/CG-past-questions.pdf
+0991c7fd616c0124496914499da02eed46a6da77 Semester 3/Notes Sem 3/CG past questions/Computer Graphics all college.pdf
+a2f84086a595a3a5408176042604f111f6a7a6ca Semester 3/Notes Sem 3/CG past questions/Computer Graphics all college.pdf
+2cc4a503031285b1a1c0c92a05b0804935d4d3e3 Semester 3/Notes Sem 3/Calculus II
+38564cc6acb5fc423e687e429c33e899a9732154 Semester 3/Notes Sem 3/Calculus II
+60a97cfea8d7fb58a3946f79f25cffc17c44c107 Semester 3/Notes Sem 3/Calculus II
+69abc8131643603b15c533869d773129816b1adf Semester 3/Notes Sem 3/Calculus II
+e787077d165486edd6a8096976b38f675aa4b291 Semester 3/Notes Sem 3/Calculus II
+c80c5e8c3dcf8ef1917835ed0131d739ad4e185a Semester 3/Notes Sem 3/Calculus II/Calculus II
+1f001309938a1314e88d62928303697a19c15749 Semester 3/Notes Sem 3/Calculus II/Calculus II_bookd-compressed.pdf
+876897b00d62976a9835684a656ad6be8862df2a Semester 3/Notes Sem 3/Calculus II/Calculus II_bookd-compressed.pdf
+62764bdd28f9cd803a2a419ab0c879c6216f2417 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes
+edae5c4de6a7eef3275d72ba12e6b97ba6fcaf3f Semester 3/Notes Sem 3/Calculus II/Handwritten Notes
+f6acdc07a59c7f714b9139aad63cffac1968f022 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes
+f9f0aa6d9c290d61350986a88b0c8b2692e74a03 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes
+0c9c313111fd372359043f001a0a7d971f976c4d Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/CamScanner 02-23-2024 13.17.pdf
+0cf440f35d0f8df0092873985346da0012de30a8 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/CamScanner 02-23-2024 13.17.pdf
+46b9d677bab8d534c1b8c3c009229d9d92ad13db Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/Question-Collection1.pdf
+72194addf4309999442eb5024c0500c00fe86611 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/Question-Collection1.pdf
+8eb39209145a523fab9fa3b983f562fb1f2aa353 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/Question-Collection1.pdf
+17e32ab29190234e8b37064d967b0b5ca19eaa55 Semester 3/Notes Sem 3/Calculus II/Handwritten Notes/f5d9e8a5-46ea-4788-9c6f-7367e3bfafbc.jfif
+600792ccf9011c4a4c7e4c67eeb1116c1ab66321 Semester 3/Notes Sem 3/Calculus II/calculus 2 chap5 (1).pdf
+ffe21b50237e65f2b1ecc90b3235364f283e5b8a Semester 3/Notes Sem 3/Calculus II/calculus 2 chap5 (1).pdf
+3bd2e938ce7815fc39e42f762b9eccf07f907e52 Semester 3/Notes Sem 3/Calculus II/calculus-ll_note.pdf
+c45cdc140d96961b32dd38b8f40fc6a78635864f Semester 3/Notes Sem 3/Calculus II/calculus-ll_note.pdf
+404147e05c051c377e885cb46097211292ab0356 Semester 3/Notes Sem 3/Computer Graphics
+7d4fe1a92131a2fc6427c0e7ded8f82375c2608c Semester 3/Notes Sem 3/Computer Graphics
+33c1911aecb3d3e0cf1c36d6e09c9eaac3d01c8a Semester 3/Notes Sem 3/Computer Graphics GCES
+38d7961253c62b3c529ab919c52bf99aab3108ee Semester 3/Notes Sem 3/Computer Graphics GCES
+63484874278d87fd68751b09752b606830273d07 Semester 3/Notes Sem 3/Computer Graphics GCES
+9d3d6a91552e15f50b8ecade14d4bae4f886d45f Semester 3/Notes Sem 3/Computer Graphics GCES
+2161db6016adf6adf067374172d6ece9bcfac9af Semester 3/Notes Sem 3/Computer Graphics GCES/01 Overview of Computer Graphics and Graphics Systems 3.0.pdf
+267f1ab3977e33a857846c8d2193b048c9b97b41 Semester 3/Notes Sem 3/Computer Graphics GCES/01 Overview of Computer Graphics and Graphics Systems 3.0.pdf
+42e3636c669bb5d532b4f38d9b05c7b04d8f9836 Semester 3/Notes Sem 3/Computer Graphics GCES/02. Scan Conversion Algorithms 3.0 .pdf
+493e42b702f7e7feb14a21d5d6205373505c5048 Semester 3/Notes Sem 3/Computer Graphics GCES/02. Scan Conversion Algorithms 3.0 .pdf
+0a9be497420e19f78c9c76a42a7e5936a905ff42 Semester 3/Notes Sem 3/Computer Graphics GCES/03. Two-Dimensional Geometric Transformations and Viewing 3.0.pdf
+f1ceb9642cbee684f682df23ae7ce241365afce4 Semester 3/Notes Sem 3/Computer Graphics GCES/03. Two-Dimensional Geometric Transformations and Viewing 3.0.pdf
+36b012c1aeb9e2f2d9ded0b171e8589b08a3c30c Semester 3/Notes Sem 3/Computer Graphics GCES/04. Graphics in 3-Dimensions 3.0.pdf
+37da6be20002d4b8f65b2a2b6bf1930648e3e984 Semester 3/Notes Sem 3/Computer Graphics GCES/04. Graphics in 3-Dimensions 3.0.pdf
+0491276b7408aca83cfb2701686000a2a6051fde Semester 3/Notes Sem 3/Computer Graphics GCES/05. Visible Realism 2.0.pdf
+d123754138ffdf253e40003fb65eec12ecbf876e Semester 3/Notes Sem 3/Computer Graphics GCES/05. Visible Realism 2.0.pdf
+64b1c6cedd587061d825dbb477dfe8a1cceeaa85 Semester 3/Notes Sem 3/Computer Graphics GCES/06. Graphics Standards 1.0.pdf
+88d2dea75b2f89345f9a898cffab83bfcb148643 Semester 3/Notes Sem 3/Computer Graphics GCES/06. Graphics Standards 1.0.pdf
+4b1618c87165272a8b073e3de14e1fe6da630b42 Semester 3/Notes Sem 3/Computer Graphics GCES/07. Introduction to OpenGL..pdf
+51b1062130f59f1f6aa6d8b4399602b4d0aab9cd Semester 3/Notes Sem 3/Computer Graphics GCES/07. Introduction to OpenGL..pdf
+1edc202d43c72bd5f017b7f71a907d7c3479f69a Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT
+2d959025c095ee9586417df732eaa822ff280a4f Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT
+97d77c8b064afc3a46a4ce6a3f527d2b1b4fc8d9 Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT/CG Assignment 1 -Revised.pdf
+d2f522107177eeac8023c162807f62cef3f3978b Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT/CG Assignment 1 -Revised.pdf
+754c2896e2d0466ef8f5a1d27cbceeb2720f30ef Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT/New Doc 01-09-2024 20.55.pdf
+db8f93fea116dae0d8912ed401edc306fb8d15e7 Semester 3/Notes Sem 3/Computer Graphics GCES/ASSIGNMENT/New Doc 01-09-2024 20.55.pdf
+442e478268abad321331ea98ea8d259ba3135a47 Semester 3/Notes Sem 3/Computer Graphics GCES/graphical-standards.pdf
+704379c4742bad8b5c34f49999bbe2314074c46e Semester 3/Notes Sem 3/Computer Graphics GCES/graphical-standards.pdf
+d36e9915353c9b7419c7dbea92072747327133d1 Semester 3/Notes Sem 3/Computer Graphics/CG 1 Computer-Graphics.pdf
+e60609efc1ff4414f75cd195b7ca39bccaffae1c Semester 3/Notes Sem 3/Computer Graphics/CG 1 Computer-Graphics.pdf
+def6be42496f23040e0d2712358d6054eb1c7cb0 Semester 3/Notes Sem 3/Computer Graphics/CG LH 1.pptx
+ddc7b28a55472438400f6e3fdc1bd5e8d80854f6 Semester 3/Notes Sem 3/Computer Graphics/CG Unit 1 LH 2.pptx
+c92df8014586ae0bedce21ee7cec2b3e2f5feb51 Semester 3/Notes Sem 3/Computer Graphics/CG Unit 1 LH 3.pptx
+f16a5a72594d6a3fe9f777c45ebadcb51971e21c Semester 3/Notes Sem 3/Computer Graphics/CG Unit 2 (LH 1).pptx
+08f0652dfb7f572c05c37329b5df93acbd424836 Semester 3/Notes Sem 3/Computer Graphics/CG Unit 2 (LH 3).pptx
+a804bca3126b58935700d25df6461b39ad185b62 Semester 3/Notes Sem 3/Computer Graphics/CG Unit 2 LH 2.pptx
+deffbee9457a8f0cef869a109f51d387c5973c9b Semester 3/Notes Sem 3/Computer Graphics/CG old question.pdf
+f8c49d759244f44046556944d08a9610eef8e037 Semester 3/Notes Sem 3/Computer Graphics/CG old question.pdf
+4948a8b9ec8c783e91d6e5af32983f8a1d93914c Semester 3/Notes Sem 3/Computer Graphics/Unit 2 LH 4.pptx
+0b3ec4fc9e14cfd85ac7926f94824fd007bded74 Semester 3/Notes Sem 3/Computer Graphics/Unit 3 LH 1 .pptx
+5435e1115bbb4b98bb2afc70cea5e729e5a94faf Semester 3/Notes Sem 3/Computer Graphics/Unit 3 LH 2.pptx
+52388c8209668a678d20655bc3c04cf33e8cab93 Semester 3/Notes Sem 3/Computer Graphics/Unit 4 LH 1 .pptx
+d6190a9563890158439c8ea22faae48b8ecffe83 Semester 3/Notes Sem 3/Computer Graphics/Unit 4 LH 2.pptx
+2c15f32321718f238d06347a774d038c96ccc2b5 Semester 3/Notes Sem 3/Computer Graphics/Unit 5 LH 1 .pptx
+0d3ae9b3966fdf1b7b7f748107c64466946d8bb3 Semester 3/Notes Sem 3/Computer Graphics/Unit 5 LH 2.pptx
+2e818c7123031ea6a9af939090ca078e814c6158 Semester 3/Notes Sem 3/Computer Graphics/Unit 5 LH 3.pptx
+a3e1a294a90ad480918b7e7f04ff9a81f04cf09f Semester 3/Notes Sem 3/Computer Graphics/Unit 6.pptx
+2c6cf09615247dc21e30c55450a627c38c281b72 Semester 3/Notes Sem 3/DBMS
+40c73638e5266fe76aa8b1f74ba12ddee66608e2 Semester 3/Notes Sem 3/DBMS
+54c225cb946cb7f622aca580b897dcd1724cbfdb Semester 3/Notes Sem 3/DBMS/Lab-Reports
+bb8c8044d147e0383b14676c888fc0bb521f8ed9 Semester 3/Notes Sem 3/DBMS/Lab-Reports
+5cd2cc9f5392eabf20def348cc08abd50ea8e9ae Semester 3/Notes Sem 3/DBMS/Lab-Reports/HamroPasal_Practical_Database.pdf
+99df0a1527a31247b650a7852ced449a28b251eb Semester 3/Notes Sem 3/DBMS/Lab-Reports/HamroPasal_Practical_Database.pdf
+759f419cf401ea0e076de333f88fe48af4e1b633 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-1.pdf
+e257ddf731e91b20d8546bede925f025ee9826aa Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-1.pdf
+901195ad24d31f08081794f224cb412f360e21de Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-2.pdf
+bf6bcf52634dba8b3ae72b24785d90d575875506 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-2.pdf
+0b80935b194208571fe987a5f688472381a93626 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-3.pdf
+abd99e6fccee2257a925f40cbffb1a0cdda6dc08 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-3.pdf
+6fa94bd1bc88020f87acdf9fe53526ed8210efc5 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-4.pdf
+817c271aaceb08b43bb019c5d8eaf53a0ec61bc5 Semester 3/Notes Sem 3/DBMS/Lab-Reports/Lab-4.pdf
+0624a86e5b37db9bd4954d846bae2ebd32e37f2e Semester 3/Notes Sem 3/DBMS/Notes
+5036bba0aabd441b376a6347692e120d965ab17a Semester 3/Notes Sem 3/DBMS/Notes
+5380409df36b827318d53ee7e640ceaaea1e2031 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 1.pdf
+5c9e20f8aac5648b5b4db27befdbcdf4b9b2e1d5 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 1.pdf
+549491effc0c0d73c3860b970960250f0240ee73 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 2.pdf
+e1d83a9970a23445e346c64b921613dcb563a508 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 2.pdf
+e4ac2e829444e208ff94db98076990de47f51b0a Semester 3/Notes Sem 3/DBMS/Notes/Chapter 3.pdf
+eb51d96b199ab41e1e9b332e2d6454035e4558d6 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 3.pdf
+c2e61cb8840a0ffd6710a38f4ce6e85739c8e00f Semester 3/Notes Sem 3/DBMS/Notes/Chapter 4.pdf
+f09233de1b3307c418520a7215287cb2754d2d22 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 4.pdf
+264084a9b4de6431e923dce824e328f564abceeb Semester 3/Notes Sem 3/DBMS/Notes/Chapter 5.pdf
+9197001bf2431c1f1fca75a49dd92340e87604e7 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 5.pdf
+8ffb373d55f182be50944efdf989e548aa93f32f Semester 3/Notes Sem 3/DBMS/Notes/Chapter 6.pdf
+b3f10a40450331b86d800fa0a1868d824fe02267 Semester 3/Notes Sem 3/DBMS/Notes/Chapter 6.pdf
+d60c2c91807ebaea1230f7430be3db10e1d7c06e Semester 3/Notes Sem 3/DBMS/Notes/Chapter 7.pdf
+d9ae73ba3fc0b00c98d3ef7a82576c13feac389a Semester 3/Notes Sem 3/DBMS/Notes/Chapter 7.pdf
+2f216aa6a7e8ecb813f527ec87d7993393c2f0ff Semester 3/Notes Sem 3/DBMS/readMe.md
+d746e98598421ae147d9ba7d0650a0c16577ea3a Semester 3/Notes Sem 3/Data Communication
+ddd3a338dcbc6c1584bdd9796d1f2356b7c13522 Semester 3/Notes Sem 3/Data Communication
+231d1b33b3c6dfb62d6f34ac1ae9cc1824dfed5c Semester 3/Notes Sem 3/Data Communication/Chapter 8 Data Link Control and Protocols.pdf
+3d78dbc14c1c5e4bb70abcb902aa885e0b490c70 Semester 3/Notes Sem 3/Data Communication/Chapter 8 Data Link Control and Protocols.pdf
+2c62431df07a4ab6504f15275afa2c83758609e7 Semester 3/Notes Sem 3/Data Communication/Chapter9.pdf
+2daf12c4832acc37061e1a2ed600334d339be3a7 Semester 3/Notes Sem 3/Data Communication/Chapter9.pdf
+612ce25cebf9d88a264b79669c2c21dd4646a6c6 Semester 3/Notes Sem 3/Data Communication/Data-Communication.pdf
+7fa7ce37b015c400ef92cd4ec1faf04ae7fe8bb9 Semester 3/Notes Sem 3/Data Communication/Data-Communication.pdf
+1573b4fa637a466559247d2f2ec8660cc909e2a9 Semester 3/Notes Sem 3/Data Communication/Signal and Systems.pdf
+d33817139a247ccf85aae5a2f4ea509ae168a4a0 Semester 3/Notes Sem 3/Data Communication/Signal and Systems.pdf
+0bfc6453b1af5c37d866827d9286a35ba73e0233 Semester 3/Notes Sem 3/Data Communication/Unit 1 Introduction.pdf
+6f973fa50d0e647aeec6a4750b5cfdb698fb0201 Semester 3/Notes Sem 3/Data Communication/Unit 1 Introduction.pdf
+b0b0b6257db9261d50b6cbc8a23388c4027f17dc Semester 3/Notes Sem 3/Data Communication/Unit 2 Data Transmission.pdf
+d6ff05544b49d75ccf91161d85469ec11c4412f6 Semester 3/Notes Sem 3/Data Communication/Unit 2 Data Transmission.pdf
+4e3d3f2ee3724582d4fa0484d83e31c2c17e7408 Semester 3/Notes Sem 3/Data Communication/Unit 5 Overview of Data Communication Networking.pptx.pdf
+ebb1924cc7d855df8e1f8715c5eb81faa47e6211 Semester 3/Notes Sem 3/Data Communication/Unit 5 Overview of Data Communication Networking.pptx.pdf
+79cb84145fc31f6f7c33852f81f1273c36ccd93f Semester 3/Notes Sem 3/Data Communication/Unit 6 Transmission Media.pdf
+ada4ca7b59e628e6fb03a091ff282e055f4a18e0 Semester 3/Notes Sem 3/Data Communication/Unit 6 Transmission Media.pdf
+74a262f64c55da4859fb3751cd956a7603d21d18 Semester 3/Notes Sem 3/Data Communication/Unit 7 Impairments , Error Handling and Compression Techniques.pdf
+fad413d67c0827d1c608761cf060feb706b2c730 Semester 3/Notes Sem 3/Data Communication/Unit 7 Impairments , Error Handling and Compression Techniques.pdf
+4c75607132b281f63ca81f41a498d96c4161bb17 Semester 3/Notes Sem 3/Data Communication/Unit 9 multiplexing.pdf
+55fc69bc49647475263a0c6d3f5deb3da8a424d8 Semester 3/Notes Sem 3/Data Communication/Unit 9 multiplexing.pdf
+141bc9ad7e4925eb237f6692a07c437fdb3f89f2 Semester 3/Notes Sem 3/Data Communication/Unit III pdf scan.pdf
+279d8dd948d0bdf5900c120d4ab632e440b17340 Semester 3/Notes Sem 3/Data Communication/Unit III pdf scan.pdf
+aa3be7400f958ad1f73ead82957cbd728f19792b Semester 3/Notes Sem 3/MALP GCES
+d7bcfa91eb70aecbe1a319f4e62f411141faa172 Semester 3/Notes Sem 3/MALP GCES
+fd6adfeb1f46da4e134e275bc6128f9f35aacfcb Semester 3/Notes Sem 3/MALP GCES/8086 ALP.docx
+a595546ed4bd04df708c0e1af5590c37baa265d0 Semester 3/Notes Sem 3/MALP GCES/8086 Lecture Notes.doc
+02af5875fa7defa52519be3544b636bf47816af4 Semester 3/Notes Sem 3/MALP GCES/8086 MAL.docx
+8371b39c03a9e49b41e4305706ebb837637ca44e Semester 3/Notes Sem 3/MALP GCES/MALP_manual.pdf
+9d44cbd9c8ea9e2d8f53ddf48af4fc72de228521 Semester 3/Notes Sem 3/MALP GCES/MALP_manual.pdf
+1bb0c09f3af884da6aa0b5fd8012a8385bebf231 Semester 3/Notes Sem 3/MALP GCES/Sample MALP.doc
+cc1595daa2c42b0245f41862b23d50edbbcd2c11 Semester 3/Notes Sem 3/MALP GCES/Timing Diagram.pptx
+0d734abb316f4fe2b954724e2d09696a256b9a01 Semester 3/Notes Sem 3/MALP GCES/micro.pdf
+b55fd0bbcaa90c8d987f24c152e1e4e5341f02dc Semester 3/Notes Sem 3/MALP GCES/micro.pdf
+23e61ea9ac823745d161aa2070399c8754d4f306 Semester 3/Notes Sem 3/MALP GCES/microprocessor.pdf
+fe4a0777c6633ff51cd461031674bb276c745337 Semester 3/Notes Sem 3/MALP GCES/microprocessor.pdf
+e0d5663d62d734ff0be9f6a774b2c49b852ec5f1 Semester 3/Notes Sem 3/MALP GCES/some topics.doc
+2e5bba92f0e2c383ddb36205adf4457d1afa19d5 Semester 3/Notes Sem 3/MP and ALP
+3e598a5adc29b53582ef5a232088a4096506975c Semester 3/Notes Sem 3/MP and ALP
+a781988da92877af335430c40c03cfb5159f2239 Semester 3/Notes Sem 3/MP and ALP
+0bffdb2ac5eeff298beaeccee7862f206ee2a1a1 Semester 3/Notes Sem 3/MP and ALP/8085-architecture.pdf
+dc61b3f1c3b1dc32a7aa9773805986af06519531 Semester 3/Notes Sem 3/MP and ALP/8085-architecture.pdf
+352adad16a2dc517442921ca7c5d8706f1e29210 Semester 3/Notes Sem 3/MP and ALP/8085_microprocessor.pdf
+fbb6034a55edfdf76f0042894a47ab7d255e5c40 Semester 3/Notes Sem 3/MP and ALP/8085_microprocessor.pdf
+1aaf009c2b451ea5164d52cf64c9e9f6c30bcb1c Semester 3/Notes Sem 3/MP and ALP/8086_instruction_set.pdf
+587b5a4652aae7d0e4d0feeeaa6d04fa8eec11ff Semester 3/Notes Sem 3/MP and ALP/8086_instruction_set.pdf
+b408b1a099d06fca104f42e8ae8676caa300cd61 Semester 3/Notes Sem 3/MP and ALP/8086imp (1).pdf
+dcef0e41ba72d3109a46efda1dd1517beae142df Semester 3/Notes Sem 3/MP and ALP/8086imp (1).pdf
+83253a673d919726b07bd62dc7ade2620433c081 Semester 3/Notes Sem 3/MP and ALP/8255 PPI.pdf
+b191eb8a59e9af2ceab7b6bcf058aa8c554f4914 Semester 3/Notes Sem 3/MP and ALP/8255 PPI.pdf
+9a5676ac99a28365cdcd60cfd3a0c715e077eafc Semester 3/Notes Sem 3/MP and ALP/Assembly Language Program Development Tools.doc.pdf
+bd232e220c8308b4daec6a4fad5b303376be266d Semester 3/Notes Sem 3/MP and ALP/Assembly Language Program Development Tools.doc.pdf
+9fe6f58d2a02195025b537ddaefba9bcc174e53f Semester 3/Notes Sem 3/MP and ALP/Chapter-5-Interrupt-Operations.docx
+5069037215c5ce7d3cd6b558cd07b3e4ebd0c2f8 Semester 3/Notes Sem 3/MP and ALP/GCES PDF
+b974669e1539147ae160de017efb920f53ab9f48 Semester 3/Notes Sem 3/MP and ALP/GCES PDF
+efff023c99989132da1ca7faa56f0b39042b443c Semester 3/Notes Sem 3/MP and ALP/GCES PDF/Introduction of 8237.docx
+38a2b8a741087b154f25852e511610e515a2131c Semester 3/Notes Sem 3/MP and ALP/GCES PDF/MALP.zip
+5694ebbd9fdc2448fff7448c8c21e80486c61870 Semester 3/Notes Sem 3/MP and ALP/GCES PDF/Synchronous Transmission.docx
+ded0f14de8f43b27d0ba63ab285c77d1830a9923 Semester 3/Notes Sem 3/MP and ALP/GCES PDF/malp-bus (2).docx
+3c717aa6f266bd83507e29aa77bf199b12947f9a Semester 3/Notes Sem 3/MP and ALP/Intel 8251.pdf
+819af92147bbddce07e10b0ca78f798c7e2ebf51 Semester 3/Notes Sem 3/MP and ALP/Intel 8251.pdf
+1ffdf2c52e123d913da0a6ed701f5c1bb0e1c8e9 Semester 3/Notes Sem 3/MP and ALP/MC4.pdf
+a0fd6638783933517e8ca3227753c54fe343f721 Semester 3/Notes Sem 3/MP and ALP/MC4.pdf
+18fa13ffb8289680acb94d4fc1ae0b1e977b2408 Semester 3/Notes Sem 3/MP and ALP/Microprocessor.pdf
+c8f333cf623a0f30ff430210ce104c26377311f4 Semester 3/Notes Sem 3/MP and ALP/Microprocessor.pdf
+53cf5c548a3cd4b3ac51042a190a81fa8c82cacc Semester 3/Notes Sem 3/MP and ALP/Note
+8dce27e3af4d39b41cf5e5820dfde044dda3c879 Semester 3/Notes Sem 3/MP and ALP/Note
+2954b7761d6eaa8c6b5cf7d8f14bdb877c075ee1 Semester 3/Notes Sem 3/MP and ALP/Note/8086-program.pdf
+d60fa21478d3fbba8d6fd5d7aab4e9aae076172a Semester 3/Notes Sem 3/MP and ALP/Note/8086-program.pdf
+50c9626aa43da94011f702a366e0cda14594a30c Semester 3/Notes Sem 3/MP and ALP/Note/mp-program.pdf
+8fc00fedaac8bd3d5dc3f2380935af71755d5748 Semester 3/Notes Sem 3/MP and ALP/Note/mp-program.pdf
+2f52282d474340ac9b457d01829afd0d1d00f2e7 Semester 3/Notes Sem 3/MP and ALP/Past Questions
+4eabf083e7f682dfa8176734449f5e1a9b87ccad Semester 3/Notes Sem 3/MP and ALP/Past Questions
+7b2bf77da030f887db3e16d8103880e63bcb8563 Semester 3/Notes Sem 3/MP and ALP/Past Questions/Microprocessor-past-questions.pdf
+e0ffc247b1195b092e834ee83c8aa958144f851d Semester 3/Notes Sem 3/MP and ALP/Past Questions/Microprocessor-past-questions.pdf
+92782192bada1adacdaf484be35b3ba1ac8f4115 Semester 3/Notes Sem 3/MP and ALP/Past Questions/mpalp.pdf
+a8312d4a7108ed4250478c8eb4de9f83e61fbb60 Semester 3/Notes Sem 3/MP and ALP/Past Questions/mpalp.pdf
+47e57e4684c9683e96d2ffa74506ccbb59f5aacd Semester 3/Notes Sem 3/MP and ALP/ivt_8086.docx.pdf
+8ef189fceed7594a2dcc25e2526b3a4f43b7af0d Semester 3/Notes Sem 3/MP and ALP/ivt_8086.docx.pdf
+175dff294a60ed49fa0c548dde8229bef23e5f84 Semester 3/Notes Sem 3/MP and ALP/modular_porgramming.pdf
+231ed042b2c58014369af1e7c1c7c46cb0d8a795 Semester 3/Notes Sem 3/MP and ALP/modular_porgramming.pdf
+611e8c60d4562ec1fcbf46e9839bd984cdcc0a9c Semester 3/Notes Sem 3/MP and ALP/parallel interface.docx
+76c51165c0e42851887074ea275f2e4d4de4ab19 Semester 3/Notes Sem 3/OperatingSystem
+d5d9ea6687a50d2aec697cd0e40ed8db7657efde Semester 3/Notes Sem 3/OperatingSystem
+89dad6282bbce725b2d08cdfdb6b566504f867cd Semester 3/Notes Sem 3/OperatingSystem/Chapter 3.pdf
+ed98d269e8f686b41b04355cec69369ea80a1085 Semester 3/Notes Sem 3/OperatingSystem/Chapter 3.pdf
+40178dacd0cbdb0d949606501514d8ed8350ebc3 Semester 3/Notes Sem 3/OperatingSystem/Chapter 4.pdf
+efdfdd75a743c095f74f5784aad8fa025ad67370 Semester 3/Notes Sem 3/OperatingSystem/Chapter 4.pdf
+0b0e62a97ab29b95337b207ee46b5a4fb5d9cf3c Semester 3/Notes Sem 3/OperatingSystem/Chapter 5.pdf
+e97043ab88d456a91c883f0ca9ab087eea7a2a06 Semester 3/Notes Sem 3/OperatingSystem/Chapter 5.pdf
+0284ce5265c3b1688a5f430a2789904b37b1d6e5 Semester 3/Notes Sem 3/OperatingSystem/Chapter 6.pdf
+b290b1f11048722758f83d40dd025f4ba32a334a Semester 3/Notes Sem 3/OperatingSystem/Chapter 6.pdf
+2cad26f8d207ab42e8782937b126103c08d04f4c Semester 3/Notes Sem 3/OperatingSystem/Operating-System.pdf
+80e2ae5234d1ac22a9a9e5766ba34d16b825f865 Semester 3/Notes Sem 3/OperatingSystem/Operating-System.pdf
+1afab2964e3da7628618d72fd8802479da62a4d3 Semester 3/Notes Sem 3/OperatingSystem/chapter 1.pdf
+b61c2742d154a15f971424d69c33f42b4ec48b39 Semester 3/Notes Sem 3/OperatingSystem/chapter 1.pdf
+c981a43c14e034e2fb83105d6e3486a4c0ee41cc Semester 3/Notes Sem 3/OperatingSystem/chapter 2.pdf
+e4ef36ea6eb260a22d270c199aab3f28c8ca04ca Semester 3/Notes Sem 3/OperatingSystem/chapter 2.pdf
+01ffac0e746ae138b95042f5b8b5362d5e7d7c40 Semester 3/Notes Sem 3/OperatingSystem/readme.md
+f8a647bbea5c0e8f1e35f48d738342ca6480fe7d Semester 3/UT questions Sem 3
+f5bd5796d876153edc2187e95d8b76f410b3bb97 Semester 3/UT questions Sem 3/Calculus II.jpg
+4f20d2fd23956ead00ec4b74ef41fd6af5bcc858 Semester 3/UT questions Sem 3/Computer Graphics.jpg
+c6908fce6cd670918ecd00fa81ee6f39b0f8b2d9 Semester 3/UT questions Sem 3/Data Communication.jpg
+349edb9837099bda0a3dd0c8d9f837dad681ea21 Semester 3/UT questions Sem 3/Database Management System.jpg
+e30ba805423889dc9f150dbfdd1d028765929a22 Semester 3/UT questions Sem 3/Microprocessor and Assembly Language.jpg
+0b6450bdda41df3721f6526f7adf1782fc89887b Semester 3/UT questions Sem 3/Operating System.jpg
+09eadb79c18862a6c1a306ab6bd0bc021f159385 Semester 4
+16150ecef0595bfcbf049f9a6b48b43e5d18ce6c Semester 4
+17a30e168444e1d95e7b17d336c09fe37e168bdb Semester 4
+1dbe5daf0568b359b8ef611ee9f73f627ad82cf1 Semester 4
+29b66a54689c2833a2880e52a940d9de8a509c53 Semester 4
+32de1745b3822a0b2ecacd17806d503526ac3456 Semester 4
+468981442c97fcadad9cbfe6450915d9e05958f2 Semester 4
+5274200c6b5c0603cfa550b20f4364ba345d9e3f Semester 4
+5a760d863c037e5b593a11f0eba28188ff410418 Semester 4
+6876d86d1a8a77902ee334a155bbcc08af164573 Semester 4
+7432bb77f0dac67bf314434604bb02a76660dea1 Semester 4
+8920af93c680a093b1f223c9a744cbd594e6eefd Semester 4
+96fa2c44ee05369aedf9fddd06c09a31c772983f Semester 4
+990ad92cf2988d2dbc18daefce026cfe891c05dc Semester 4
+a579b1b8e6e50208e79a85377b6165feb729e786 Semester 4
+a8539a5e34481e1b32d8eb339e8c114b70f32f33 Semester 4
+be95ddd984fc361d8aa6aac6c5794279769ea076 Semester 4
+d481c327ff3092ad4e36e28c121955ae2bee0fcf Semester 4
+d8614cc3d58eab3665dbabf7220f54b92111e743 Semester 4
+e91a43da4f5fe736d03735c50b95015489a45600 Semester 4
+f16dd539563d5aa1083bc956ec1693b1ecc016a0 Semester 4
+373d91ae4344bfa19869e8bc918b9be0a69a7826 Semester 4/.DS_Store
+3b8d330378c55def94cdf790f6d100d68c105a5e Semester 4/.DS_Store
+413cd096b1bd332133e349c75e0ed687fe4f82ac Semester 4/.DS_Store
+4418e683181f5ace93683ecb6e39d1f31c2d0917 Semester 4/.DS_Store
+80c2de0a0deabbbf1e7a532667d5c2b6e8f8149f Semester 4/.DS_Store
+841fd794de93408b7a74d26f418400445dfcd83f Semester 4/.DS_Store
+9da0078af84f698c2a530ff9164657a08a882475 Semester 4/.DS_Store
+a3630426d96f6eeb44874bbf174626465d73c6b7 Semester 4/.DS_Store
+af4ca38b403aa97cc8138a30bda6b5e0b424c56c Semester 4/.DS_Store
+c70cae280f15f43d2419c757fa5e157b84add2d3 Semester 4/.DS_Store
+d493a96d8402901ed5a4e30219fa160fd65003f0 Semester 4/.DS_Store
+fb50e0b70cfdba4ef3b11160056f4352210d2e21 Semester 4/.DS_Store
+13701dd603d8a4038172c7f435150c2f550b939c Semester 4/Applied Mathematics
+142d65c0a63ffd6a86eebebeac3f12e29c2ae3a1 Semester 4/Applied Mathematics
+245de8526a45cbcc38d217567e336a3058fdbadc Semester 4/Applied Mathematics
+337e0f9309f77f346d1038afb9fcfc7190ce269a Semester 4/Applied Mathematics
+3b10a2854d996edb501296656152b90e51bb6cc0 Semester 4/Applied Mathematics
+6234820a0083f49edfce8b76ed29f79c66850066 Semester 4/Applied Mathematics
+81dac3f9117c7841229372760fb9b36dbf530fd3 Semester 4/Applied Mathematics
+9aad1cbf4e39201fec413a771658c19fe78eb203 Semester 4/Applied Mathematics
+9bfd5f49719186fb9c1bdf7a490f2d6cd1173feb Semester 4/Applied Mathematics
+c1f488328862b71bed5443832918a007aadecf89 Semester 4/Applied Mathematics
+4d9a59cf6856993215a5c040416c6763d502e8cb Semester 4/Applied Mathematics/.DS_Store
+6b72fc43ed25d17a0f3fddc0f979351a1fdb3c9a Semester 4/Applied Mathematics/.DS_Store
+6c13d11fcc65913c70f25155e306f793fb928462 Semester 4/Applied Mathematics/.DS_Store
+79a23fd6c2af1c3b76d369f87b2490b1854e6395 Semester 4/Applied Mathematics/.DS_Store
+1a9d1cbf6bd15c44b824252f4b1df25fc23d977c Semester 4/Applied Mathematics/1.jpeg
+efa51fea7f7051ddcbf35ad63347d0decb205e42 Semester 4/Applied Mathematics/2.jpeg
+2d80cb5c6b91a7c0cc48ba9094789c9f2267f2a6 Semester 4/Applied Mathematics/3.jpeg
+6904a53295bfe1d83a1e80dd160cd76aa94b7374 Semester 4/Applied Mathematics/4.jpeg
+cbb8312f3d6c289c69e9159bf1295dbd486b48f5 Semester 4/Applied Mathematics/5.jpeg
+be51ac4b99b714073da112bc4422513030b08cbb Semester 4/Applied Mathematics/AppMathematics_assgnmnt.pdf
+e2a7d5e39a19bec1e4cd89aabfc1e4d5c82a2301 Semester 4/Applied Mathematics/AppMathematics_assgnmnt.pdf
+c238a5d3771e85c4f33a7f9913ce28ab82ea969f Semester 4/Applied Mathematics/Applied MATH IMP GCES.pdf
+ee3162cae71b29e8a97f1264369211aca82a20d3 Semester 4/Applied Mathematics/Applied MATH IMP GCES.pdf
+4ee80a92ce5d6fc46519fe687e1f4f332a95a81c Semester 4/Applied Mathematics/Applied Math handwritten note sem 4.pdf
+c9fcc016a5e22253f878e657076b4ef72d80ee08 Semester 4/Applied Mathematics/Applied Math handwritten note sem 4.pdf
+31494bf50f7936c116188c521227956807d1492f Semester 4/Applied Mathematics/Applied Math notes.pdf
+c020ef0d5a34f8a156eae40b61af2577ee12f870 Semester 4/Applied Mathematics/Applied Math notes.pdf
+211f22ddf479a419cad866a4ece75439010491f9 Semester 4/Applied Mathematics/Applied Math old question.pdf
+758952841bfdd0df280b329ae44f09adcce591c8 Semester 4/Applied Mathematics/Applied Math old question.pdf
+2d9f8be516b059fe1f12215677d5584c073b4e6f Semester 4/Applied Mathematics/BOOK
+5491ada4fdd69547f7c893be92d1d9c320698eef Semester 4/Applied Mathematics/BOOK
+db9e8f63ebfa29f7366a333db1fa8b0e065e5331 Semester 4/Applied Mathematics/BOOK
+433225c5b88600db4f6d420dcc65c04b3e71c687 Semester 4/Applied Mathematics/BOOK/Applied Maths ch 2.pdf
+62200ac1495cbd82ed00a39361da94fe00714b80 Semester 4/Applied Mathematics/BOOK/Applied Maths ch 2.pdf
+151120ce75177a05d7f6cd2226984e7f298208e1 Semester 4/Applied Mathematics/BOOK/Applied math chap 1 (1).pdf
+c55e09990f4a85a16236fb58e7574b085f5392cc Semester 4/Applied Mathematics/BOOK/Applied math chap 1 (1).pdf
+314c2f1a412c2c1519ca9a1a11ec997a3d0b2828 Semester 4/Applied Mathematics/BOOK/CamScanner 07-16-2024 18.45.pdf
+6c99b103a90e957eef499243e2fddacffa765033 Semester 4/Applied Mathematics/BOOK/CamScanner 07-16-2024 18.45.pdf
+b27fe23ba2a713bb84b66027b1383a949cbb2366 Semester 4/Applied Mathematics/BOOK/CamScanner 07-16-2024 19.14.pdf
+c6f9fcd2e5cb466208cc6653589ce5c822d7402b Semester 4/Applied Mathematics/BOOK/CamScanner 07-16-2024 19.14.pdf
+0671e13ca7c561c041d43ece8089c6fbaa065685 Semester 4/Applied Mathematics/BOOK/mathematics-4-guid-engineering-math-4-solution-pdf.pdf
+6ee794a85539d6be90063ca44da1f557c01c67a3 Semester 4/Applied Mathematics/BOOK/old book math iv
+c226f446136f1c9cfb69b1231efeae4df1e2702c Semester 4/Applied Mathematics/BOOK/old book math iv
+3669f9621f8b3524aa108bad5e22c9e5ae4a71fc Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 1 AM.pdf
+b385bc88ef63036f6b0a41b49edaec8e42f83a12 Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 1 AM.pdf
+300f0d28e610103fa2cb4b982251f447fa6cc520 Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 2.pdf
+f6903aff9171ab36d02b8b157a9e70987e74384c Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 2.pdf
+84e90621a69e0687e9e1ba4a20ae7906c66ee1fa Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 6 AM .pdf
+d522d5cc027791ee6e5173a80f45901fefa51104 Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 6 AM .pdf
+6b93ea9fafc1ca86a81a66e30e5e5f2eeef501e7 Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 7 AM.pdf
+9a06a8924759d7cb741d376e52ea08f4a456b456 Semester 4/Applied Mathematics/BOOK/old book math iv/Chapter 7 AM.pdf
+07616c5212b34f0ccd0f90b5c7e1db90804efa77 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 3 AM.pdf
+dbc6bbfa64bc77928e3b4f3bb9a403e83befb116 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 3 AM.pdf
+2f4db74d67d06cacefb3d02247c5b94880dcd9c0 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 4 AM.pdf
+3a9769315e7c65273658c1aace7a01644c26c608 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 4 AM.pdf
+0664ac8864488d22055614faf93905b4cbcd2f25 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 5 AM.pdf
+e9a5790f8f8fc011042bcdf04ca7c1af412b4b63 Semester 4/Applied Mathematics/BOOK/old book math iv/chapter 5 AM.pdf
+49c85d1c7ad953dc2143b76270e8fcdf17448623 Semester 4/Applied Mathematics/IMP 2.jpeg
+914473ed80fdf3f5a2d7e52b34ef3b6f4da7969e Semester 4/Applied Mathematics/IMP1.jpeg
+1e30b99641555f775d26a53e219ac2e4e0d0e057 Semester 4/Applied Mathematics/math
+6d4dee232fde206161f5412d7a7e6653a3a41008 Semester 4/Applied Mathematics/math/mathematics-4-guid-engineering-math-4-solution-pdf.pdf
+49ca01f49cff66965cab6dedd8df62a2056a5250 Semester 4/Assessment Questions
+952715099736a26e656330329426a284e9f0c423 Semester 4/Assessment Questions
+beaa3808aebb466b94da5fdce77a1c3c369ad96d Semester 4/Assessment Questions
+c13028e9d41af1678be12aea125590f634da1cad Semester 4/Assessment Questions
+d68b815dce47b3685dcc4b9729e445b05b9c5587 Semester 4/Assessment Questions
+10b243c6bd59a18d7cc953757e6045b828505233 Semester 4/Assessment Questions/.DS_Store
+18f5a2165ba3a0cc983628b4dec6e084a9315c03 Semester 4/Assessment Questions/.DS_Store
+edbfeebb6d512ca05f2b20c62bded9ceb32adc25 Semester 4/Assessment Questions/.DS_Store
+1f789f8d770e903b98780d1a24c5be6e6ec2a71b Semester 4/Assessment Questions/GCES ASSESSMENT
+ff4408ad755e5e32e253f47bc9c47af25106e769 Semester 4/Assessment Questions/GCES ASSESSMENT
+62a8a80dc5d23383ee3747eb7a30030baf68a2eb Semester 4/Assessment Questions/GCES ASSESSMENT/GCES assessment paper sem 4.pdf
+c1bc3bd0467b698353c03ebe198eac7398c92650 Semester 4/Assessment Questions/GCES ASSESSMENT/GCES assessment paper sem 4.pdf
+830bcf493154ff5a09d336a346d94a14edccf2bf Semester 4/Assessment Questions/PEC ASSESSMENT
+977555d3b56834143fbd161b4862bdf500f62901 Semester 4/Assessment Questions/PEC ASSESSMENT
+aba6d422420b067fb6ac191072746010364da8f0 Semester 4/Assessment Questions/PEC ASSESSMENT
+739d9aa4ab09a04bf1306b31885c413c0d899597 Semester 4/Assessment Questions/PEC ASSESSMENT/.DS_Store
+809ab7ead603deff0d226bca7a74dad2141bd630 Semester 4/Assessment Questions/PEC ASSESSMENT/ASSIGNMENT
+9562a9cd8223cd739f5aa4d4a386b344407ac1d8 Semester 4/Assessment Questions/PEC ASSESSMENT/ASSIGNMENT
+eff44a5f8e5c7ae318edc4f1973b75d94b38e993 Semester 4/Assessment Questions/PEC ASSESSMENT/ASSIGNMENT/ASSIGNMENT QUESTION.docx
+d1a553d9f3410330e343dc2a25b72aa18749bcbd Semester 4/Assessment Questions/PEC ASSESSMENT/ASSIGNMENT/Khushi JAVA assignment sem4.pdf
+fc34523ba9aac40381a0bd565b66fbd1b11311c1 Semester 4/Assessment Questions/PEC ASSESSMENT/ASSIGNMENT/Khushi JAVA assignment sem4.pdf
+032ec3c90ee5d5cc1c929bd1d15d8dbcb5628384 Semester 4/Assessment Questions/PEC ASSESSMENT/App maths assessment qn.pdf
+ded7b14c88250096286798cf9085a342e5c58cd4 Semester 4/Assessment Questions/PEC ASSESSMENT/App maths assessment qn.pdf
+86a24d1d5f4442265e62514f271e6be3c76ae9e4 Semester 4/Assessment Questions/PEC ASSESSMENT/CA assessment qn.pdf
+d767ae7bc785e6e1964aef512602ab59240904fc Semester 4/Assessment Questions/PEC ASSESSMENT/CA assessment qn.pdf
+7c5fd849610b4365bd04795b010121f73b40d624 Semester 4/Assessment Questions/PEC ASSESSMENT/Java assessment qn.pdf
+aa6ac36d73b5bd421c0ee486231451c7bcea1712 Semester 4/Assessment Questions/PEC ASSESSMENT/Java assessment qn.pdf
+2726c82d9e9f9154a2ae95acd38910de43dc6e75 Semester 4/Assessment Questions/PEC ASSESSMENT/NM assessment qn.pdf
+9c0f5065950ca77e976dcf417627dfa0d3f8edec Semester 4/Assessment Questions/PEC ASSESSMENT/NM assessment qn.pdf
+3f16249c8b925f1f42e90266598f1b9d462ad5cd Semester 4/Assessment Questions/PEC ASSESSMENT/TOC assessment qn.pdf
+c5f85379000b586e5b20430c6bb58d1a64b472ee Semester 4/Assessment Questions/PEC ASSESSMENT/TOC assessment qn.pdf
+bfb9ff6fb4279051f8032036cbcb2dfb919e8bbe Semester 4/Assessment Questions/PEC ASSESSMENT/research assessment qn.pdf
+d77058d231150e545655d2ee96fbc2060b59b392 Semester 4/Assessment Questions/PEC ASSESSMENT/research assessment qn.pdf
+05d2764ab31c578a6db3d20f48214becb73f7df0 Semester 4/Assessment Questions/PU ASSESSMENT
+4484598221d193a8db74daf60f5169e4ce8b9f40 Semester 4/Assessment Questions/PU ASSESSMENT
+96ee3fd9f52948569269f5af13fcfd693041ec77 Semester 4/Assessment Questions/PU ASSESSMENT
+3a0bf46d57795ae7fece27881e43895c9ac2ea91 Semester 4/Assessment Questions/PU ASSESSMENT/Am.pdf
+b70cfa4ed7f6ce3184fce8125d597544749bef84 Semester 4/Assessment Questions/PU ASSESSMENT/Am.pdf
+9a4a62e2531d3ea33d67fcae6829b7e107da3f2c Semester 4/Assessment Questions/PU ASSESSMENT/PU assessment questions sem4.pdf
+da02a189773d132272c7883aafc519c1f66d72ac Semester 4/Assessment Questions/PU ASSESSMENT/PU assessment questions sem4.pdf
+5dbfba3efdb158c15b302e53128592b9026494bb Semester 4/Board Questions
+680947b1340c5eac0aa81366549a9042fd356749 Semester 4/Board Questions
+e9cbe229c5c9ad718a0bf85c02ae76c8256d7e19 Semester 4/Board Questions
+0bee3aa657d9abdbc272756819908e7f1fce44ec Semester 4/Board Questions/Applied maths board question.pdf
+5071c54c9c665a6fdd9db21432274e1984c1e865 Semester 4/Board Questions/Applied maths board question.pdf
+21b3592316ff5cb4dd2494e112db065e4999ebc6 Semester 4/Board Questions/Computer Architecture board question.pdf
+21b6bf0ce716fbb18bef71771354d8afbbd5b1dd Semester 4/Board Questions/Computer Architecture board question.pdf
+619e33b34341902f6a8d14fae23a04367b861e85 Semester 4/Board Questions/TOC board question.pdf
+62b91ba0518393e570885f7b8d20128abd2ea07e Semester 4/Board Questions/TOC board question.pdf
+3376e5f6af07fe143c7079b157d4d098b87b63a3 Semester 4/CA
+48bb2341bded8158c75dd2a0a7d689b92439f220 Semester 4/CA
+6da022e92387781c2bcf2672616ad8af09900ea3 Semester 4/CA
+ed0247902986d524ecb5ba989ed98d9c5039bba6 Semester 4/CA
+76abfce7289b0aec85541f7a32a9ad35ea67707b Semester 4/CA Handwritten
+9e10c6b24b782002a4ddde52e4232b2af193df7c Semester 4/CA Handwritten
+bdf9c5a8b27c60fe9bbdab13d5cc4d8c70271deb Semester 4/CA Handwritten
+d1ec127a82e9d9048b6905bee86e6c05ce785e53 Semester 4/CA Handwritten
+ef69b31071b0128f022c394fb2e81adee6c76e5f Semester 4/CA Handwritten
+9352c958cc4c2c37717d6e7a949a06dc958a0660 Semester 4/CA Handwritten/.DS_Store
+05f9b41c45a1fe1d11eda73db20cd27de8434e27 Semester 4/CA Handwritten/Barsha Pokhrel Goggle CA sem4.pdf
+33b69a574bf7131639c2b65158c09f7dd34cec67 Semester 4/CA Handwritten/Barsha Pokhrel Goggle CA sem4.pdf
+61efe9fc0f8572d603dc2c0400536f3470c161cb Semester 4/CA Handwritten/CA Questions.pdf
+cb037599d355b4fef642c84eae31fa36c66c9c2f Semester 4/CA Handwritten/CA Questions.pdf
+1727dc7a6f76cd18863bc966386eab6180f469e6 Semester 4/CA Handwritten/CA chapter 1 and 2.pdf
+3f50f6f1a7e2481b2e1389467178c58012bf1624 Semester 4/CA Handwritten/CA chapter 1 and 2.pdf
+09cf6dad048e1ce2f9154f17b4cff9111df1efca Semester 4/CA Handwritten/CA chapter 3 4 5.pdf
+4493fda39c532fb17c7e12251bb398c166ee0f96 Semester 4/CA Handwritten/CA chapter 3 4 5.pdf
+006b465c82b6ad82460c080f4d8b891f9f71b1e1 Semester 4/CA Handwritten/CA chapter 6 7 8 9_compressed.pdf
+9f9c4340ab6e2c3e24873c98d81466f437a9351d Semester 4/CA Handwritten/CA chapter 6 7 8 9_compressed.pdf
+20e021cae3be9349819419e41ca434c2cfad0359 Semester 4/CA Handwritten/CA2023_set_solution.pdf
+270cd67d8bb9d75387fcef44263dc4297490ac3e Semester 4/CA Handwritten/CA2023_set_solution.pdf
+165d9d505e746a494e8a005630056541d25c5db8 Semester 4/CA Handwritten/Manas_Set.pdf
+1904177db6ebed5acc6c38ecb7ec0110f8852e76 Semester 4/CA Handwritten/Manas_Set.pdf
+b697ccd9f688806f79964040c0615ad8aeef2527 Semester 4/CA/Computer Architecture.pdf
+de4cb2e78c1c7f5c0500b0c847a003af8408f4e0 Semester 4/CA/Computer Architecture.pdf
+9366418d0378d7beeea94c3bfd725ab62d46f994 Semester 4/CA/NAST college
+b7ae853d5a85b43ca68f85998c8fc3a302de5e3f Semester 4/CA/NAST college
+194709c4c131bb053f014cf30b3c00007c447fc1 Semester 4/CA/NAST college/CA- Chapter 1 Introduction.pdf
+9e2069cade1a305ad2ac3cd047d55726595ed358 Semester 4/CA/NAST college/CA- Chapter 1 Introduction.pdf
+44cad9ad41be1745abe415b1f14e8b144435c3b2 Semester 4/CA/NAST college/CA- Chapter 10 Multicore Computers.pdf
+8b3a0e803a0f1aed557f8c554955ab192a7d4023 Semester 4/CA/NAST college/CA- Chapter 10 Multicore Computers.pdf
+1e4c2c7a5659144ec0508fb147ab9e1cd187430d Semester 4/CA/NAST college/CA- Chapter 2 Register Transfer and Micro Operations.pdf
+8e283254d08b05e475cf6606adbb88fed15a37f2 Semester 4/CA/NAST college/CA- Chapter 2 Register Transfer and Micro Operations.pdf
+317a5ce7f7278fecc549637d79cda00edfe77f32 Semester 4/CA/NAST college/CA- Chapter 3 Central Processing Unit.pdf
+359d0558ebfd4feac43aef845e579aa131029287 Semester 4/CA/NAST college/CA- Chapter 3 Central Processing Unit.pdf
+2f3d1a0d2a70b0168a04d1e09f3ef586594ccd7e Semester 4/CA/NAST college/CA- Chapter 4 Computer Arithmetic.pdf
+ee2add1a0eb252e1abb13267f6e9d4ad29bc0e67 Semester 4/CA/NAST college/CA- Chapter 4 Computer Arithmetic.pdf
+16cfb9791e657fb783bd3d45b40927aaf3f25cfd Semester 4/CA/NAST college/CA- Chapter 5 Control Unit.pdf
+8d5668f9aebb6d1cc7acd46fac285e916cefe029 Semester 4/CA/NAST college/CA- Chapter 5 Control Unit.pdf
+12062ab3fd00ae0d0b7804d724ece6640faa0dfc Semester 4/CA/NAST college/CA- Chapter 6 Memory Organization.pdf
+36534483e9eed65277b09e3d9cea0be6f410291f Semester 4/CA/NAST college/CA- Chapter 6 Memory Organization.pdf
+8f339c3db7162dc1f0f3be01a96fec17a2a36c65 Semester 4/CA/NAST college/CA- Chapter 7 Input Output Organization.pdf
+951f9ac0147916c8fcc76a699fa1538606ffeb5b Semester 4/CA/NAST college/CA- Chapter 7 Input Output Organization.pdf
+482698102ac486e920184cc64b5e441e5b77f86e Semester 4/CA/NAST college/CA- Chapter 8 Reduced Instruction Set Computers.pdf
+fe9a616025b2f4f138797ecfcd08328ec83ffb4e Semester 4/CA/NAST college/CA- Chapter 8 Reduced Instruction Set Computers.pdf
+4cc92e7d91e72b2ca9e666f6977150262213fddb Semester 4/CA/NAST college/CA- chapter 9 Introduction to Parallel Processing.pdf
+9c5d9b97be77ff944863cb4267ede506506a1bb4 Semester 4/CA/NAST college/CA- chapter 9 Introduction to Parallel Processing.pdf
+32a21f2e6d70391ddf9e0435dfec57ef5b9dcaf0 Semester 4/CA/Past Question Collection
+a832be8d89c436202074259bda76ab35c1dc3d5b Semester 4/CA/Past Question Collection
+a7dd5b1fd81187feb249ff72246f2a08ef3df19f Semester 4/CA/Past Question Collection/CA syllabus with vvi and marks distribution.pdf
+b6b5fd84444c9f010c3a3152586d9b260f953bf8 Semester 4/CA/Past Question Collection/CA syllabus with vvi and marks distribution.pdf
+98f2e5707ca9a4e6ab083e04e7deacaf6f064521 Semester 4/CA/Past Question Collection/CA-1 past questions.pdf
+feb6e6875452020ab2d8dff7325fe0e7bd70cd6b Semester 4/CA/Past Question Collection/CA-1 past questions.pdf
+717e86f193f272b81336a5c4b81ccbc8a5834dcb Semester 4/CA/Past Question Collection/CA.pdf
+e536a8867efa54b68c6edb4598900e32993ae8cc Semester 4/CA/Past Question Collection/CA.pdf
+5743a7283fdea9e2ea08a8e71642205c6cd3ab9e Semester 4/CA/Past Question Collection/CA2023_set_solution.pdf
+74a39d54749a54a2bc803a9833b8307644708a2e Semester 4/CA/Past Question Collection/CA2023_set_solution.pdf
+246ed292bef1fcd4c51a82e8a6416725fc1b99c2 Semester 4/CA/ch 10.pdf
+c1a63688997846ba6461e4da4d74ad9e9e26e01c Semester 4/CA/ch 10.pdf
+0c146ae63725fa05b09b4a3b581abbf6a47b8b15 Semester 4/CA/ch 2.pdf
+d81158fd8b289423b0337211a9cba6ac6e81c55a Semester 4/CA/ch 2.pdf
+58575287a09ecb5035d4344b72aa2422927b5f32 Semester 4/CA/ch 3.pdf
+bfcef3fc952a444e5492597e839713bde663b9f5 Semester 4/CA/ch 3.pdf
+bae2dd61ba44f3c245a2af2e4ce1036ce17c4100 Semester 4/CA/ch 4.pdf
+c0d012bf0f9513c1589b6d99c72deff3fa31cbe0 Semester 4/CA/ch 4.pdf
+97cf0a3719690374c90014fc99fe7f51ba002fe8 Semester 4/CA/ch 5.pdf
+b5b904deff4f7ee2f68929381a8e347966b1ab23 Semester 4/CA/ch 5.pdf
+79bcc1396229aeb3bfb4d0ba836af00423289aa9 Semester 4/CA/ch 6.pdf
+be1456f3c951f29aadfb8668380dc4148e341249 Semester 4/CA/ch 6.pdf
+3f8a4531b0763c6a6be2c7bb56b9a57db172deff Semester 4/CA/ch 7.pdf
+43dbc2dcff2f55bbef0475744caa29484f7da2eb Semester 4/CA/ch 7.pdf
+35fe763fd62b3fe0145a5f79be5545fc189c2a11 Semester 4/CA/ch 8.pdf
+d10295480bbab9345df4d92c903ec5915581c5bd Semester 4/CA/ch 8.pdf
+9a86c55352170a9c0ba9c0097b26003d257a4015 Semester 4/CA/ch 9.pdf
+fa6aa9c672761363c0d86f80803fb9e8396d7d96 Semester 4/CA/ch 9.pdf
+08844084953501642c99ee9ca1ad49af89c1159b Semester 4/CA/ch1-2.pdf
+2937f672dc4246daa4d296377ade864b49f6476d Semester 4/CA/ch1-2.pdf
+27a6e6abc94c02e56e049ae8525289c9fb5c6bb9 Semester 4/CA/ch1.pdf
+46a4713ee12db4f67e819aee844ec17db7f5ecd7 Semester 4/CA/ch1.pdf
+329e8a34c642026c01ea82584387eae01806917d Semester 4/JAVA
+8107b8883517c4e2a14bbae8e03c8e4bd58ab2db Semester 4/JAVA
+b74f3792d37d85fc4f87eb2178fdbe4e2207f258 Semester 4/JAVA
+fc1c4dc929defb9ba6a5057033f7460eb72a5518 Semester 4/JAVA
+d5f21a9474746e886c1fff010216f29417d9ea5e Semester 4/JAVA GCES
+7cfa9abf23ba8fd653bdf5b25dade966a8127b09 Semester 4/JAVA GCES/Java-W2-C1.pptx
+3faa1f075c580c5d326cfefcb4880ed0100acf63 Semester 4/JAVA GCES/Java-W2-C2.pptx
+e1c5acb34bfd069807e86eb54e3b8cfe89063240 Semester 4/JAVA GCES/Java-W2-C3.pptx
+2007ade9a253c44b5981ced6bd95029202479b78 Semester 4/JAVA GCES/Java-W2-C4.pptx
+424b8dd07a99d88f1b25def268188013c1b364a9 Semester 4/JAVA GCES/Java-W3-C1.pptx
+55f1d15d76b75fb3ca571b03dfb526f90c289f98 Semester 4/JAVA GCES/Java-W3-C2.pptx
+81c94d586b5e7d374aa9b355bbea0652a2fb72be Semester 4/JAVA GCES/Java-W3-C3.pptx
+6ccdb651b73dad9b10a5ab09cf360c4a90e997c3 Semester 4/JAVA GCES/Java-W4-C1.pptx
+0586ec899f3aa60ca331d073046fff8ba932795a Semester 4/JAVA GCES/Java-W4-C2.pptx
+6784fe696f7970ce86973921528292c2f168d724 Semester 4/JAVA GCES/Java-W4-C5.pptx
+c1857d8c740d63c6ac1ab0e35aee540f43187336 Semester 4/JAVA GCES/Java-W4-C6.pptx
+0a3ea4e9d938d83462207631b92f932d80f42764 Semester 4/JAVA GCES/Java-W4-C7.pptx
+045d6979a3df707ad62a26420557c01ad6f73113 Semester 4/JAVA GCES/Java-W5-C1.pptx
+1adf874864db4a5a1bd2dd7a685bcca41996466f Semester 4/JAVA GCES/Java-W5-C3.pptx
+fc8ecb64f7652fa32f270b48a2f4925a7dedd25c Semester 4/JAVA GCES/Java-W6-C2.pptx
+39be8d7f27fcbe7e5d87b40d8477a140badace1a Semester 4/JAVA/1. Basics of Programming in Java.pptx
+6651990750d09e7632f3fd9d2ccdae4ffd095213 Semester 4/JAVA/2. Object oriented Principles in Java.pptx
+47e4b2feef992e69da9f65dc73b7be2ca101e592 Semester 4/JAVA/3. Building Components using Swing and JavaFx.pptx
+62b1ddccd0ff042eb8c95729e306427148bc1f00 Semester 4/JAVA/4. Distributed Network Programming.pptx
+afafd23f816d9b91929976647414ec40c3847701 Semester 4/JAVA/5. Database connectivity with Java.pptx
+29267abf70f5e4c5071877eafeccdaff1982e5f6 Semester 4/JAVA/6. Servlets and JSP contd...pptx
+f58c75203f693c4caa57f5c4156886aa4dd1a121 Semester 4/JAVA/6. Servlets and JSP.pptx
+d44e3bf5a6f9face9f5dc23a8db3b39e0ff3886d Semester 4/JAVA/7. Advanced Topics n Java.pptx
+0e141f90b9162dd7071b150cffc5a7181627a344 Semester 4/JAVA/APJava-23-Fall.pdf
+9e88ebf95efe43f93b637a31fc3e7833a5bcc5b8 Semester 4/JAVA/APJava-23-Fall.pdf
+1b593e246090e834d26c862da44a7a083ffad1ad Semester 4/JAVA/Advanced Programming in Java.pdf
+5f553a8f8d1b29e562ae0d16de75b5f0e845a535 Semester 4/JAVA/Advanced Programming in Java.pdf
+ef2684383445abd5429b2ab5a41c2357d741eeac Semester 4/JAVA/IMG_4571.heic
+6919bec814769376e8499ebe50849dc91d7641e9 Semester 4/JAVA/Prakriti JAVA assessment sem4.pdf
+e27a8d2df94ef3ff0601782ee1dbc8820191a914 Semester 4/JAVA/Prakriti JAVA assessment sem4.pdf
+a616a57445dde682dde85c404921de3e4649916e Semester 4/Java Slides GCES
+63f45e85daac7251ca21ce5237aa0d034fe91814 Semester 4/Java Slides GCES/Java-W1-C1.pptx
+6ada49b0d3467f51148278610b12e41b0e1cbaa7 Semester 4/Java Slides GCES/Java-W1-C2.pptx
+85f3710badf4b4b0507281ac6390a68f8ec057a5 Semester 4/Java Slides GCES/Java-W1-C3.pptx
+cedc9c09cfb32d8035195db951ea269e110a306a Semester 4/Java Slides GCES/Java-W2-C1.pptx
+53ca441fb75b0d940d5e2c9f7225d4c3450daa54 Semester 4/Java Slides GCES/Java-W2-C2.pptx
+9e6d32f92fe4c44bd025331e3708f2b8cc174618 Semester 4/Java Slides GCES/Java-W2-C3.pptx
+1871d972d783e7d36b3f40b2aeddac0f343a2350 Semester 4/Java Slides GCES/Java-W2-C4.pptx
+b6ea6fd89dc2b82c466bcee3a81e1db6ec6f89e8 Semester 4/Java Slides GCES/Java-W3-C1.pptx
+e00cdd80af1c6ccb005c3e8e751d8f245b6e774a Semester 4/Java Slides GCES/Java-W3-C2.pptx
+0f1b6c70a5a15c5451bb74a75746242335980f9f Semester 4/Java Slides GCES/Java-W3-C3.pptx
+18ef53e6d557e485a9b2773a9f9c339d942c74e3 Semester 4/Java Slides GCES/Java-W4-C1.pptx
+a1c6ef10827e6d7e3adde0c0db1e37e46706872a Semester 4/Java Slides GCES/Java-W4-C2.pptx
+7d658bbc9420bdb72c467fc2ba9ebfc5d3cbf368 Semester 4/Java Slides GCES/Java-W4-C3.pptx
+1ffa6d1d82a01608b794c5234465bd5dfa420fdf Semester 4/Java Slides GCES/Java-W4-C4.pptx
+e734b13efea8d68d74193c850a4fb96c9c740e52 Semester 4/Java Slides GCES/Java-W4-C5(1).pptx
+450f76e057de406c1fe18cc98f1707785d1afefd Semester 4/Java Slides GCES/Java-W4-C5.pptx
+47f85f5c1c8c81d4d6d3a041b99203933b47d04f Semester 4/Java Slides GCES/Java-W4-C6.pptx
+9ad4c9747f9d81e749cd7ae695902d593290ecb3 Semester 4/Java Slides GCES/Java-W4-C7.pptx
+d1a46d074eb3c1bb4c0b6d2a0011604582f03e72 Semester 4/Java Slides GCES/Java-W5-C1.pptx
+b48b7d5b23c625eb0dbbfc87a3ab645ac7d4aec0 Semester 4/Java Slides GCES/Java-W5-C2.pptx
+9a55362b5295309f5f4d907509fb50b7378aabcc Semester 4/Java Slides GCES/Java-W5-C3.pptx
+35ea46e7e83f28e90579a8cddc598f439e325c70 Semester 4/Java Slides GCES/Java-W6-C1.pptx
+1bb47b94799bb056a8fa66c4c95d0d4b6402709d Semester 4/Java Slides GCES/Java-W6-C2.pptx
+0f6b398dfdcf4092a12f6f9a4cdacd0507048767 Semester 4/Java Slides GCES/Java-W6-C3.pptx
+a461d9acbea811801b5017750fbb6b604bbe4149 Semester 4/Java Slides GCES/Java-W7-C1.pptx
+5f771abceb4c443cc2d8bcbda2adf141c4330d32 Semester 4/NM LAB GCES
+70bc18b29fa6c7cb7a7af233cd11227aa15b6f38 Semester 4/NM LAB GCES/bisection-method.txt
+2a438571a6f0f91538992bd1a7727915733de6e0 Semester 4/NM LAB GCES/newton-rapson-method.txt
+6b8d851276fd83130aa270a57c8e233df637d4dd Semester 4/NM LAB GCES/secant-method.txt
+a61545b453c4615577d3a3cd70952ca9caddb8ba Semester 4/NM LAB TESTING
+2f3d33b3a75919a5b5a851670910d712c92e2262 Semester 4/NM LAB TESTING/bisection-method
+5b6bcd1e237ac1939c9d91b73506b42f313fe02b Semester 4/NM LAB TESTING/bisection-method.c
+1e390a8eed46ad573feaff48aa0842a71cec4212 Semester 4/NM LAB TESTING/bm
+08f89d4a953e2f1eeefe0dc87d070bc1190fbe33 Semester 4/NM LAB TESTING/bm.c
+0a9f151b2804d2ce678a134948e7759156c6b9d4 Semester 4/NM LAB TESTING/newton-raphson-method
+e0d4fd6b44a139091d20b9efe5509a64ff376f3f Semester 4/NM LAB TESTING/newton-raphson-method.c
+70338208e8b919519e50cd3fcf521e734c165740 Semester 4/NM LAB TESTING/nm
+bb2447942989fc926f033dc6020bce3ce8bba8e6 Semester 4/NM LAB TESTING/nm.c
+660432bfe819b804fe15316729c6dca8cca0b9aa Semester 4/NM LAB TESTING/nr
+a2bd15c5159ef3dd00794f3e8b756c5b2c10d39e Semester 4/NM LAB TESTING/nr.c
+e34cc104f491a5ea5bb1dca3f8ea6c34ff3bb646 Semester 4/NM LAB TESTING/s
+4530f4a6a154da80f02fc791e542102b1542db0e Semester 4/NM LAB TESTING/s.c
+4059eebc5c5436171b25d3a8b4695189937340d6 Semester 4/NM LAB TESTING/secant-method
+f7c26a52d5c3b82be8c43780fc2da7791de1596d Semester 4/NM LAB TESTING/secant-method.c
+1ee0ec64f260e1cea34f026179d5dd141bf34997 Semester 4/Numerical Method
+3e1143042b877b87ad3984bd34524e06233067c1 Semester 4/Numerical Method
+a7b9988fbe5333f0fc56718e890de008a0338c1a Semester 4/Numerical Method
+af7f063386b8123f9d51a71ccc037aafac22917f Semester 4/Numerical Method
+7ff2db18d67b7061b837d920ea22ab93140b2452 Semester 4/Numerical Method GCES
+818224fb773faae9ee4d73139e2af21e003b7ba1 Semester 4/Numerical Method GCES
+b220eec44f87a06d26e0a2f5ccee65bb8f4fac97 Semester 4/Numerical Method GCES
+bc8dad4df5fd87b2b26f8dea5c3c6849525031c0 Semester 4/Numerical Method GCES
+c02af852bf9cc3f9d1a8bb7a099279a845bcffce Semester 4/Numerical Method GCES
+f067bb42face035b775fa93140f60932ac00ad8b Semester 4/Numerical Method GCES
+2e9496b56920668d02bff83d3631c8d05baa567d Semester 4/Numerical Method GCES/.DS_Store
+393a547ccca5113be242b7c3726b516ecbef493f Semester 4/Numerical Method GCES/.DS_Store
+bd402cb7430aab6d52961983b932f480cea682de Semester 4/Numerical Method GCES/.DS_Store
+30866623530e3e030c8882cbbbd4747a48769dc0 Semester 4/Numerical Method GCES/C-prog.pdf
+da8eff09a4288174e0c0e91b73bba746773039b5 Semester 4/Numerical Method GCES/C-prog.pdf
+6b6345784956d6645f7931dfb57d8d16fdb93d0b Semester 4/Numerical Method GCES/nm-up-1.pdf
+7c7ef6bb0ca9e996bb0bb49b219860351119a9a4 Semester 4/Numerical Method GCES/nm-up-1.pdf
+4a4127fbd5868aedb2ea7ec613527022f2a62820 Semester 4/Numerical Method GCES/nm-up-2.pdf
+adc1ae71a7fffc3275c7e9181ccc2a07321400a1 Semester 4/Numerical Method GCES/nm-up-2.pdf
+012db4082c43aef581b5939a700f30f9d838c060 Semester 4/Numerical Method GCES/nm-up-3.pdf
+ccb5784c6b627d4a5a9ba72a9bc9701175592cf4 Semester 4/Numerical Method GCES/nm-up-3.pdf
+004ae41cda60ba068840990d546422997d331bec Semester 4/Numerical Method GCES/nm-up-4.pdf
+f5219a5c37909c093b8d177f60747600fc84e8af Semester 4/Numerical Method GCES/nm-up-4.pdf
+227a8dc7fc1463da6a548e24b85268fab13512f8 Semester 4/Numerical Method GCES/nm-up-5.pdf
+b817e9f7cbf997494b425c8479b35bdf252cc0c8 Semester 4/Numerical Method GCES/nm-up-5.pdf
+c5ed6d5af7757b45c3a17541be021d8ac39dc60f Semester 4/Numerical Method GCES/nm-up-6.pdf
+e5286037d0d723f7c02a714d0e3b17cd623f8dd0 Semester 4/Numerical Method GCES/nm-up-6.pdf
+4592410801282fd38f2eefdb955a9ae1fb5ed27b Semester 4/Numerical Method GCES/numerical Method
+bca3883884d018b227f375d83d2aaa5c8dcbc551 Semester 4/Numerical Method GCES/numerical Method
+72ddc156017f4de4480acb693f83256d8a5ed4ae Semester 4/Numerical Method GCES/numerical Method/Numerical Methods in Engineering & Science with Programs in C, C++ & MATLAB by B. S. Grewal Book Free Download.pdf
+af6372edc695943edf7d2ee70a88a63717869d0c Semester 4/Numerical Method GCES/numerical Method/Numerical Methods in Engineering & Science with Programs in C, C++ & MATLAB by B. S. Grewal Book Free Download.pdf
+0b812533de0f255b3310f4e288f441448401fd98 Semester 4/Numerical Method GCES/numerical Method/numerical method manual.pdf
+85e5950b6f70839d14486c06b6d0e049d38da1be Semester 4/Numerical Method GCES/numerical Method/numerical method manual.pdf
+3568c16e1b144881f7e29be00947394355ef79a5 Semester 4/Numerical Method/NM Notes PU.pdf
+717ac9a949f3ea5deba704782a9c824a9ce3978c Semester 4/Numerical Method/NM Notes PU.pdf
+b4e666584d485edf4bb23edec0505b781a80f76e Semester 4/Numerical Method/Numerical Method note.pdf
+eac765e4e445fbfd23635b31c39cc0371a4772b5 Semester 4/Numerical Method/Numerical Method note.pdf
+3acd430805b06666ae248174d143cf3d42e1cb33 Semester 4/Numerical Method/Numerical Methods.pdf
+d129a9706705dfc0ac3d2dc22b847732d6b5a8d8 Semester 4/Numerical Method/Numerical Methods.pdf
+2d9fdbd789daad0a131f3e67083f10ab1a1eb0fc Semester 4/Old Questions
+388775defa592d718abf244e2596d7ec4f1b2a7a Semester 4/Old Questions
+5609574cfafb1a71e0a781d757ae7f9ccfad9ba8 Semester 4/Old Questions
+88632080f3814e44336edfdd5749ddeab1144956 Semester 4/Old Questions
+8b1a35ebb688e710e8691581c541c9604b98856f Semester 4/Old Questions
+bded4385f1a3fae2ef64da90b280166d2314794e Semester 4/Old Questions
+16237195659d94533fe2f1364c939f50b90fc442 Semester 4/Old Questions/.DS_Store
+7183534307ea8422d07f19eebdbeb39db3a64f74 Semester 4/Old Questions/.DS_Store
+e0aa7f411692f1a88680493acb96ad3ce3ae4a39 Semester 4/Old Questions/.DS_Store
+b9170d81c09e02794f9aabfcead5786f4e15911d Semester 4/Old Questions/Assesment Questions
+e8f41bc889453a1c26532a9adaa3346c98265249 Semester 4/Old Questions/Assesment Questions/.DS_Store
+1442306f9c5c5e4dafe6fd40e223db5fc5b267e4 Semester 4/Old Questions/Board old question
+c846b6e2788093009246ead1af3456e5940e6947 Semester 4/Old Questions/Board old question
+d903be75a7ae01eccb409020b0e0b771b74842cf Semester 4/Old Questions/Board old question
+4aa976f6600f9c6415fb285f76b1fc3117f475c1 Semester 4/Old Questions/Board old question/.DS_Store
+8be189b1babed035696607c35a7de4d08c6c2f7a Semester 4/Old Questions/Board old question/NM
+cc1e83883deade90de0a4fe97d8f6740604ff6da Semester 4/Old Questions/Board old question/NM
+2f77b96303e4c3914078e89892127aa776c7cb97 Semester 4/Old Questions/Board old question/NM/NM-20 Fall.Pdf
+ae6fec500656e85006ac2a6de988a27f8471b2dc Semester 4/Old Questions/Board old question/NM/NM-20 Fall.Pdf
+b71c1e3b4ceaaace43cd9b9b4328105cb06455b9 Semester 4/Old Questions/Board old question/NM/NM-21 Fall.pdf
+d0887b4f3b5c22a7db6eff137edd135e778eb291 Semester 4/Old Questions/Board old question/NM/NM-21 Fall.pdf
+1f59d2b1640cb499548c2dbf86fcf2c3053c8565 Semester 4/Old Questions/Board old question/NM/NM-22 Fall.pdf
+2be8e40ec7bc6f5de890c8512b1676be5d22b949 Semester 4/Old Questions/Board old question/NM/NM-22 Fall.pdf
+145ac2ca1e444f064b2f9c6389468c0118f80085 Semester 4/Old Questions/Board old question/TOC
+e548bc2526b5a0ea0175e92d0863c047d81ef735 Semester 4/Old Questions/Board old question/TOC
+e9d01ae63dfa13b7a184e8353db6386c2a2d28be Semester 4/Old Questions/Board old question/TOC
+6b93c1ce4be4284b17c8f3db425d98bc8abf91a0 Semester 4/Old Questions/Board old question/TOC/GCES_TOC_internal20244thsem.pdf
+985fc8466b76c7a5c56eaac071ab8e14c849ad2e Semester 4/Old Questions/Board old question/TOC/GCES_TOC_internal20244thsem.pdf
+481b58f9068f40fb97dbe8837109bc5ba1c6c23d Semester 4/Old Questions/Board old question/TOC/TOC-23 Fall.pdf
+d9f1c40842f26563251a0b92f181485739479a80 Semester 4/Old Questions/Board old question/TOC/TOC-23 Fall.pdf
+74d32337c00ff6bae6c555fce61e6676de7195b1 Semester 4/Old Questions/Board old question/TOC/toc.pdf
+ecc294a6bdf49be313e62d7d30ede13325f0a339 Semester 4/Old Questions/Board old question/TOC/toc.pdf
+ac754708f46a7e74409b45512fb47d80a3a3e058 Semester 4/Old Questions/JAVA.pdf
+f492b8764e6f99962470e1cf8e4cbab887d24779 Semester 4/Old Questions/JAVA.pdf
+17d03e28887082494d1cc9647f62d5162302ea15 Semester 4/Old Questions/MP ALP.pdf
+cf15dec160cf366953cc4a8f3b832733b276de9c Semester 4/Old Questions/MP ALP.pdf
+5090dfce98b8638a7225f23bfd2ac5c1d35272db Semester 4/Old Questions/NM.pdf
+51fc8687e94ca243079723c27d65cb49632af9a8 Semester 4/Old Questions/NM.pdf
+a466d450a74517112432a4a9c1bbc8d5bc25b0d8 Semester 4/Old Questions/Nm old question soln.pdf
+d2b89e7fee3e0501f44583da57dd7b1e3b762c50 Semester 4/Old Questions/Nm old question soln.pdf
+1bae3ea36c9a9a453b658d83d5ead8096960f8dd Semester 4/Old Questions/TOC.pdf
+37290cf63810cd6362885fdd10bb432970510317 Semester 4/Old Questions/TOC.pdf
+5288569cc6999e7b6e07f8bbcbf05346a926b774 Semester 4/Research
+c901a89b94690e2ef5435a8b240bd4c1160b0ccd Semester 4/Research
+faf255f64da6493e144d4767daa60c55e3fc300e Semester 4/Research
+542b088a3105ab2a6364ff5d32ab10f563680a18 Semester 4/Research/A Proposal on Payment Gateway.docx
+5da08836ed9e4c9cb171f818d6ab639dd1f94d9a Semester 4/Research/A Proposal on Payment Gateway.pptx
+05e717a69268e66dd9975f990c841360bdccc8c2 Semester 4/Research/GCES
+83e276d2387c7df4f98f99cac0d67070ea5d292a Semester 4/Research/GCES/research-note.docx
+901ebbccf72d21f59f0ca610b9a5b28917dd81e5 Semester 4/Research/Research Fundamentals Syllabus.pdf
+e071015f34287bcbb85fedd234953347ba7c8b58 Semester 4/Research/Research Fundamentals Syllabus.pdf
+53bc23be7b7e2c58e24db5f0d64af5bdd6e180b1 Semester 4/Research/Unit 1 Introduction.pdf
+a9ef6010d089da0438e6a8b5d0d497f0fb53de41 Semester 4/Research/Unit 1 Introduction.pdf
+e042d7dd657b406d07ccd69a05a6d796a51bf74d Semester 4/Research/Unit 1 Second Part.pptx
+2c482dde5852005449c42c337e4a4a49175e5205 Semester 4/Research/Unit 2 Research process Model.docx
+be4693cba3d1defd0327945f1cd05dfe9a5b2bf3 Semester 4/Research/Unit 3 Participants and Research Ethics.docx
+3c6795244475aebf6b61a0a2465b93093acd9191 Semester 4/Research/Unit 4,5  Research Proposal and Report Writing.pdf
+60066b24f36ef303a4d03523cdb288b992cca697 Semester 4/Research/Unit 4,5  Research Proposal and Report Writing.pdf
+748589686ab814b0c5bff311a9913d08eadd6f12 Semester 4/Research/research notes by me.pdf
+97c18a6720b8952086d67e81452bd04e36f0e653 Semester 4/Research/research notes by me.pdf
+18ca9dad637eb14536773d382980a65f72bb85c4 Semester 4/TOC
+48b12fad7ecb1785f4a8891087f9c2bd9de5b909 Semester 4/TOC
+acd84fcad184e32024c24155476845a14003fb6d Semester 4/TOC
+bbe7089454b10eb915920a38ebb892718bc42d95 Semester 4/TOC
+60a3c1cd69daf3d6329c907bba0b5bf60d8d64b8 Semester 4/TOC/.DS_Store
+8a1f1d91ab66cd6041e6d521b54c255ec484e716 Semester 4/TOC/1. Introduction.pdf
+c0b94192bea6ed0a6145972ec29efb579da935bd Semester 4/TOC/1. Introduction.pdf
+f07f141e5beaab2e980b157919865073767dd91e Semester 4/TOC/5. Slide_Turing Machine and its extension.pdf
+f713466a3fda35c90553a6277d3d0d3725966f55 Semester 4/TOC/5. Slide_Turing Machine and its extension.pdf
+ba3625b5517da83b40a7f83b1291ef100f846c5e Semester 4/TOC/6. Slide_Undecidibailty.pdf
+d04797c0d191e74935e90a6a2fd1dfa59b4ce540 Semester 4/TOC/6. Slide_Undecidibailty.pdf
+43921e650316900c93d80bc27e04673b2c6529c8 Semester 4/TOC/7. Slide_Computational complexity theory 2.0.pdf
+bbe0a7286fc36c0463f1e02d83dac132686f9354 Semester 4/TOC/7. Slide_Computational complexity theory 2.0.pdf
+9bed3fc58e69d3f07a3b0a2f8869afb417989f6c Semester 4/TOC/Book_Automata Theory & Formal Languages-compressed.pdf
+f0ce447e36c3ba747e11cb9b9556d00ceadb908a Semester 4/TOC/Book_Automata Theory & Formal Languages-compressed.pdf
+af693df91ff1cbb485f3644a9a990360a2ebd747 Semester 4/TOC/Question Bank_Chapterwise.pdf
+c570025b5aeeeb3ef1e0a2dabab4d7b8b4bcfaef Semester 4/TOC/Question Bank_Chapterwise.pdf
+50302895a827f102eb56dcdd1d4d13fce2038a6b Semester 4/TOC/TOC Complete Note (Remaining from New Syllabus).pdf
+798e48bf88ed39490407d83009a05afe97e25b58 Semester 4/TOC/TOC Complete Note (Remaining from New Syllabus).pdf
+68014251c2eed4118580a6a8dd1816636982cd58 Semester 4/TOC/TOC Complete Note 1.0.pdf
+87e3b97cf25b2691512c3d72a473d08baa1cbc77 Semester 4/TOC/TOC Complete Note 1.0.pdf
+b4e877e9a05e8152be24eae191241a5281a564d1 Semester 4/TOC/TOC drive link
+20b723cfca5f79379baf9acd2349f494e97955b6 Semester 4/TOC/TOC pigenhole and induction gces
+9470c17d7c1ebd87607cad0099bb17a42da68d46 Semester 4/TOC/TOC pigenhole and induction gces
+16b0ec32da15547c72837861a5a1c363895cce65 Semester 4/TOC/TOC pigenhole and induction gces/AnimeshBhattarai_2020CE57_5thSem_5SETS.pdf
+f4eada99e75aa5e6c206bf7e9968aaa857acc107 Semester 4/TOC/TOC pigenhole and induction gces/AnimeshBhattarai_2020CE57_5thSem_5SETS.pdf
+28bba4043a81463d65b6209ad8c9c12eb1ac2fbc Semester 4/TOC/TOC pigenhole and induction gces/induction.pdf
+5785c1786921e891a56098f88c4f09a6acbe23cd Semester 4/TOC/TOC pigenhole and induction gces/induction.pdf
+8de3bf9704928c7a4277888b773c3b6bf4512e23 Semester 4/TOC/TOC pigenhole and induction gces/pigeonhole,proof,induction.pptx
+4cbd664e266888dbdf3d51c32af1003de0ba1610 Semester 4/TOC/Theory of computation.pdf
+7d1df3c3980da8721bf566590927f71a4a945d43 Semester 4/TOC/Theory of computation.pdf
+1545fb318260bf62740f4a99de285ec34f2d611e Semester 5
+1ef6f7d8b79b5711630f83edb7b2ef86ef1e91b2 Semester 5
+2e540b865fa31a73c62e0657ff18fc345479b6b7 Semester 5
+40ecc76c9bb39b973cdac287d1ba9a2c5962a933 Semester 5
+4728cf4ea85dcb0c8365d3042a6205a3440839ba Semester 5
+52c90be0cf063d7f6e076127633cbf3a55d6e613 Semester 5
+5490a855c19841126bead1ba9727a356c64e63eb Semester 5
+6ae1ba2de54fc8939a47881bc3110c1576ad04a5 Semester 5
+6fa51cff05f87444c59580cbf59aba3f0d6e697e Semester 5
+79a61271e194e8bb7306569d20e3c93207944fb5 Semester 5
+7de15dc662e6598e2828c84a7c48802af2ca2005 Semester 5
+81df902170f04bf1882120c016fcde83ed4e0735 Semester 5
+9e6681e72bfb28c39c526df5d1a0275273fdedc2 Semester 5
+d2bb60b7f73f5a8ec82cce74da87935e1eaf0d4b Semester 5
+d83e19cefcce96c54f391bd538f20e939a5054dd Semester 5
+eb967dbecd678837bf93bb9c957a15b886d2b7ec Semester 5
+99404ce095861c249c8b9e54e188aaec1865b290 Semester 5/1.ALL SYLLABUS
+11f7a951abe65dab9b12a55539cdf63b16e6bc2f Semester 5/1.ALL SYLLABUS/CMM 344 Digital Signal Analysis and Processing 3.1.2.docx
+275a110a7a5696f3c9abff5a6e13d025672a7e98 Semester 5/1.ALL SYLLABUS/CMP 346 Artificial Intelligence 3.1.3.docx
+1e317c42a3236d9219783f51a42eec9a5a2517b6 Semester 5/1.ALL SYLLABUS/CMP 348 Software Engineering 3.1.2.docx
+1e8c3c44181e689acd0b19557d618aae6acfdcdb Semester 5/1.ALL SYLLABUS/ELX 320 Embedded System 2.1.3.doc
+5db255caa13fb9ce49aa3a50b92480ca0176d10f Semester 5/1.ALL SYLLABUS/MGT 320 Engineering Management 2.1.0.docx
+12cc329b81fcc17ffe9644af4870bef3a7e3b020 Semester 5/1.ALL SYLLABUS/Probability & Ststistics.docx
+3aacb0b571badf5f7048acdfe32ada9b1d11e0a1 Semester 5/AI
+e3fdacd23a52700a3f9fb84fb9a8d73330c28ada Semester 5/AI
+124129fad9c18bd9ef85890b3518899ea914c282 Semester 5/AI GCES
+6fa4980419e0ba614996c5918467f88514ab2135 Semester 5/AI GCES
+c61c0725f999bbcba0582c7c12723a0d51399084 Semester 5/AI GCES
+f68c441e0c80d54b9522158351a93c8f6554e4e8 Semester 5/AI GCES
+19dbd2fa7ab568e75e6c5db9eb0690941d0753fb Semester 5/AI GCES/Expert Systems_Unit7.pdf
+562bcb62e38db555e4818fb590d54fa8cd652929 Semester 5/AI GCES/Expert Systems_Unit7.pdf
+3598018ceecd8cc5772e7bb4530e1650b15cc020 Semester 5/AI GCES/MACHINE LEARNING_Vsem.pdf
+6bb97a0e4450de432aa74f6e5173928c01ada9cf Semester 5/AI GCES/MACHINE LEARNING_Vsem.pdf
+af56452fd7599d97332a0cf6d7033eb6fd209bea Semester 5/AI GCES/Unit 6_AI_V.pdf
+fc9edf8d379675edc96cc116ffb66fb310fe1249 Semester 5/AI GCES/Unit 6_AI_V.pdf
+986e24d2c293ed07d9f34f315630ae88f46a698c Semester 5/AI GCES/Unit1AI_V.pdf
+d9af2d844f2b05eff5268bf8d286902d8ac5eeaf Semester 5/AI GCES/Unit1AI_V.pdf
+86d680940e9b73c82ef3ca1ec3036d00cecbe85c Semester 5/AI GCES/Unit2AI_v.pdf
+a72b3adf3e34c8daf3ed8ac6cc0643e92161690b Semester 5/AI GCES/Unit2AI_v.pdf
+2e56c7c99120624265fea28298d646936cc98f13 Semester 5/AI GCES/Unit3AI_V_searching.pdf
+677def8b7f61f78f9da063a3c518a2fb8e24c4d6 Semester 5/AI GCES/Unit3AI_V_searching.pdf
+1e9bb749db62dd1f9f2109656d93a52c031814d7 Semester 5/AI GCES/Unit3AI_v.pdf
+ac694736ef865acd3ae36c033cc6db4b07b1947f Semester 5/AI GCES/Unit3AI_v.pdf
+16890d3602e71e4527d9c7b8ea0701be35dd706d Semester 5/AI GCES/Unit3AI_v_problemsolving.pdf
+a84362171f9be467c9c2857fce88307b052b769c Semester 5/AI GCES/Unit3AI_v_problemsolving.pdf
+760354f346103005d1596517a138781f2dc4f700 Semester 5/AI GCES/Unit4AI.pdf
+d11d941f58ac9720485e87bad06ea452888ca794 Semester 5/AI GCES/Unit4AI.pdf
+7b3ddaef0379fc2d0c82b4f5de7b5d23678860f1 Semester 5/AI GCES/Unit4AI_V_uncertainity.docx
+cd2c2f9405582405fdf46501ab66f73661b8348d Semester 5/AI GCES/Unit4AI_V_uncertainity.pdf
+daaed2a2f81cb537d133a4b411d5f37c71f9aaec Semester 5/AI GCES/Unit4AI_V_uncertainity.pdf
+1bdfbad4d2fd0539c2118f7950c6fe3e0490061e Semester 5/AI GCES/Unit5AI_V_machinelearning.pdf
+335c14827e5d9047d47b8cc9a820b790f5526ce7 Semester 5/AI GCES/Unit5AI_V_machinelearning.pdf
+a8be31ad2d069a72be7f531305c16868e5b66895 Semester 5/AI GCES/uncertainity.pdf
+ff25e6dc17b54255333bcf95f127dd1eb03367d0 Semester 5/AI GCES/uncertainity.pdf
+3445045355c33ad1f82697f44b5dc5dfbf2b59b9 Semester 5/AI NCIT
+d837dc4cb128abe75b14cc4703f4f3bb33eda5a0 Semester 5/AI NCIT
+7b8fe82142268ffb3a355effd1aedf53fc897aed Semester 5/AI NCIT/Artificial-Intelligence-Chapter1.pdf
+b41a4a9886411f4fd969aafac6498db8135a9397 Semester 5/AI NCIT/Artificial-Intelligence-Chapter1.pdf
+44abe29b9c7e64b9c24a28af09ba6089fff82795 Semester 5/AI NCIT/Artificial-Intelligence-Chapter2.pdf
+66a89d7d8c197d902b06d97c66a150e62e182569 Semester 5/AI NCIT/Artificial-Intelligence-Chapter2.pdf
+7b52da8b4991a7477d2d950debbc7c7321894f85 Semester 5/AI NCIT/Artificial-Intelligence-Chapter3.pdf
+c0c30f6c1791458025252d572422122e59c73db5 Semester 5/AI NCIT/Artificial-Intelligence-Chapter3.pdf
+76fbdb035409e51b090511c7ae55b0e50266a14b Semester 5/AI NCIT/Artificial-Intelligence-Chapter4.pdf
+b6e6bab5f6f35c83e10ab2a2fdb0d3be5beac303 Semester 5/AI NCIT/Artificial-Intelligence-Chapter4.pdf
+409fe78db30fbdb4d4201cdf266760399b4501b9 Semester 5/AI NCIT/Artificial-Intelligence-Chapter5.pdf
+b4f82d16153935bf8312ecab10a00d0b35d1dc22 Semester 5/AI NCIT/Artificial-Intelligence-Chapter5.pdf
+3a5415fa9dc105ef267885abc5a2be0ebc17e815 Semester 5/AI NCIT/Artificial-Intelligence-Chapter6.pdf
+e98f1c2683db69e1580207f932d027de3a851921 Semester 5/AI NCIT/Artificial-Intelligence-Chapter6.pdf
+79d4efac1bcaddc9a0ff91570d27d11bbaa41d72 Semester 5/AI PEC
+8a22deab0d5ff1671a4aa3890388cb0d20587db3 Semester 5/AI PEC
+c9c0d8c7840ef60f0a1e254846699491742ba24b Semester 5/AI PEC
+9b7e5cb6b725b68fd6b46aefe78641e10fca6a78 Semester 5/AI PEC/AI LAB WOrks.pdf
+c52f256abff722b85f473dc92ba6d34f2039da89 Semester 5/AI PEC/AI LAB WOrks.pdf
+375fdbe7e261f7f7fb5ea15bb01dfbd3fb7b8400 Semester 5/AI PEC/AI New Syllabus
+4b7751513dbe7c1e36d63c46d94a5bac13c6936f Semester 5/AI PEC/AI New Syllabus.zip
+99be6fc3fafdaeed16f70861559bcd7821b57807 Semester 5/AI PEC/AI New Syllabus/AI remaining slides.pptx
+96bc0008ec4e100b77b236880ca352907e4a0769 Semester 5/AI PEC/AI New Syllabus/K-means Clustering.docx
+c7cc2bda8232ad559bba11f43eab04392f28ce4b Semester 5/AI PEC/AI New Syllabus/Unit 1 Introduction to AI.pptx
+5659320b6cd41a6901f0a75aeccffba5aad679db Semester 5/AI PEC/AI New Syllabus/Unit 2 Intelligent Agents.pptx
+e97bd2bafa8067774771d13c3f185c026e35cb02 Semester 5/AI PEC/AI New Syllabus/Unit 3  Problem Solving and Search Techniques  Lecture 2.pptx
+2b768124e2ffc9d968cbba49a2b6bc7698d448ad Semester 5/AI PEC/AI New Syllabus/Unit 3 Search Techniques Lecture 3.pptx
+2ead8d5c0ef8cf54ea0d851b8328cc10176047a3 Semester 5/AI PEC/AI New Syllabus/Unit 4 Knowledge Representation Lecture 2.pptx
+93f5598c58de77f11c9bb32fff6962ebad1c142e Semester 5/AI PEC/AI New Syllabus/Unit 4 Knowledge Representation.ppt.pptx
+8f9c12e0c8b57a29ee3fc8bd778135c3c3809fad Semester 5/AI PEC/AI New Syllabus/Unit 4 knowledge representation and Reasoning.docx
+5f54b586a16b6b8a9e35bd0837669f1d0728b3bb Semester 5/AI PEC/AI New Syllabus/Unit 5 Lecture 3.pptx
+377bc29747721bf348b5e20bd4faa3c9666785bd Semester 5/AI PEC/AI New Syllabus/Unit 5 Machine Learning (Lecture 2).pptx
+6282533cd493b287751f50f265780f4735eaad33 Semester 5/AI PEC/AI New Syllabus/Unit 5 Machine Learning(Lecture 1).pptx
+3ae6e22c82e45d08c4c98614e3e29e9ff433da1a Semester 5/AI PEC/AI New Syllabus/Unit 5.2 Genetic Algorithms.docx
+6fa938ba7a47fce3480d06eb91357d903e0a1494 Semester 5/AI PEC/AI New Syllabus/Unit 6 Fuzzy Logic Lecture 1.pptx
+4b9a0b4f4952b103f37c7935273b19b69ec1c39e Semester 5/AI PEC/AI New Syllabus/Unit 6 Lecture 2.pptx
+2a072ddaeb1255e757576b8af4bd79e3fdbd9b2b Semester 5/AI PEC/AI New Syllabus/Unit 7 Expert System Lecture 1.pptx
+048f655c2ae20558b6b24e77903974830b8229fa Semester 5/AI PEC/Unit 3  Problem Solving and Search Techniques  Lecture 2.pptx
+2df55ebb95e6d6ad0b7a4985f0f5ff7de7024d20 Semester 5/AI PEC/Unit 3 Problem Solving Lecture 1.pptx
+7bac0a9bbc2806c401b39ecd602440c1359d7959 Semester 5/AI PEC/Unit 5 Machine Learning(Lecture 1).pptx
+302679945140cfd3c24705a49d1a0faae2d61189 Semester 5/AI handwritten 
+65e4ba75b74297f8a4bd30a9d706c9473e4876ee Semester 5/AI handwritten 
+9dc488424db6fdaed28e05a1a36ae84537c07ba8 Semester 5/AI handwritten 
+ade6477b1882e8f5ff5a2abbf93f5cb3191f762d Semester 5/AI handwritten /AI - Unit 4.pdf
+c037ff00e3cd241bc5559e270ea1d364192041f3 Semester 5/AI handwritten /AI - Unit 4.pdf
+f6f17ff89d3f61399c5401018c082ee9e00da3ab Semester 5/AI handwritten /AI - Unit 4_11zon.pdf
+0648451a00a17c17b5528984ced2d9d360919336 Semester 5/AI handwritten /AI - Unit 5.pdf
+d9167f6068f60375a8ecef65694a614d6d733008 Semester 5/AI handwritten /AI - Unit 5.pdf
+2df86fb3bc33a23397829e9451fd1e5d9622c1f1 Semester 5/AI handwritten /AI - Unit 6.pdf
+9c179ccd1f098df5c00d29e803f6448d53aba63c Semester 5/AI handwritten /AI - Unit 6.pdf
+42175200ad57781b023080c4ac132b50105a2f84 Semester 5/AI handwritten /AI - unit 1.pdf
+8d700a8c2678df2831aa8fee770dd64b1fcbe1d7 Semester 5/AI handwritten /AI - unit 1.pdf
+4b49affe9824d2eb7ded3e136f775efcca45d47d Semester 5/AI handwritten /AI - unit 2.pdf
+da4dee4d18aec72e70ca3f6511dbcbb97930b469 Semester 5/AI handwritten /AI - unit 2.pdf
+47b1b535a70eddf239bd38d0ef1b25674b1346bf Semester 5/AI handwritten /AI - unit 3.pdf
+fc6dfd062a456bf9eb9e6298af5697a42ccdd047 Semester 5/AI handwritten /AI - unit 3.pdf
+0d71e9b7bc7096931b7c6879e78d6f4b7439fd93 Semester 5/AI/AI by Shiv Raj Pant.pdf
+7c794e31f385bbe3e291102d607d323e55a89678 Semester 5/AI/AI by Shiv Raj Pant.pdf
+52cc279440128c9e6563becb5a4c25c54f64048e Semester 5/AI/AI old is gold by Sanjay.pdf
+981b27550f6f160b62f25268be3f6d7658f5792f Semester 5/AI/AI old is gold by Sanjay.pdf
+878151d94fae4814ad99d673921d53e0f2c74282 Semester 5/AI/AINN NOTES Modern.pdf
+a74954d0b62a2616e2bf43a17b41cf056aa8d004 Semester 5/AI/AINN NOTES Modern.pdf
+05c373701a5c8e13c415688a8c9c009ac6df45ec Semester 5/AI/Artificial Intelligence(Chapter_1).pdf
+cafdb79ad36a36a687d75180027fcdf9bf654b7f Semester 5/AI/Artificial Intelligence(Chapter_1).pdf
+36a9fac9bc788efe4dc47f90213f4ee36f39effa Semester 5/AI/Complete AINN Notes NCIT.pdf
+891f4d38cc14e7b3b82fe60ccae485c666106ecf Semester 5/AI/Complete AINN Notes NCIT.pdf
+491c34ef35e6d410bd10eec030b1bbd90d8a0e4d Semester 5/AI/Expert-SystemsChapter_6.pdf
+68718b9a8386ae0eadeeed2270d1393e917ed28e Semester 5/AI/Expert-SystemsChapter_6.pdf
+35d4301a42032238323ceaf823b91d1f5cafe07a Semester 5/AI/Knowledge-Representation-and-ReasoningChapter_3.pdf
+5416f47b7f42003be44889b1185c7ba142f293d7 Semester 5/AI/Knowledge-Representation-and-ReasoningChapter_3.pdf
+a53985797fe6a96d52504b33224be15b0174b3ca Semester 5/AI/LearningChapter_4.pdf
+ad05a26f267def994a260aa412e116223dfa7b25 Semester 5/AI/LearningChapter_4.pdf
+487ae47e5243c2652dd83817571825a8fc0c2fba Semester 5/AI/Notes
+d6f31bfbdd95847cd352325845eda4366942c406 Semester 5/AI/Notes
+521da02ff22e77d2be1e47c3de23554ba667941d Semester 5/AI/Notes/1. Introduction to AI.pdf
+8e7c3452a9e6f8110abdb1e45adfdd449ad3af02 Semester 5/AI/Notes/1. Introduction to AI.pdf
+a7efa44069e927070d32645740f5679a83d15b6e Semester 5/AI/Notes/2. Problem Solving.pdf
+f134d2f30f6feaecf93bd785c5df4849b411d144 Semester 5/AI/Notes/2. Problem Solving.pdf
+33a964d38bf97377eebdf0f78c614d1955ce02de Semester 5/AI/Notes/3. Search Technique.pdf
+3c288ee234ec97f78bbf9998121bc8c76d8c566b Semester 5/AI/Notes/3. Search Technique.pdf
+aa387b31eee7fa7d84f26afed5502aa50d2d0f51 Semester 5/AI/Notes/4. Chapter Knowlege Representation, Inference and Reasoning.pdf
+bfdf83c7177affc3fa95b55934cc209f96f8dd7d Semester 5/AI/Notes/4. Chapter Knowlege Representation, Inference and Reasoning.pdf
+0d28a418f840f54ada94bc127f5da084047f74c9 Semester 5/AI/Notes/4. Chapter Semanticnet.pdf
+14e4f15417b538d154cb0ebb1e24b19dcb3903b9 Semester 5/AI/Notes/4. Chapter Semanticnet.pdf
+1c726acbfcb3f6997fe7324f5bfefc9d16e37150 Semester 5/AI/Notes/5. Chapter 5 and 6 Machine Learning and Application of AI.pdf
+7d2bf1544b0002d9e965df2c54b1cc2b449aaa95 Semester 5/AI/Notes/5. Chapter 5 and 6 Machine Learning and Application of AI.pdf
+3360bb05a194b035224b2454c9b4490950e5ce3f Semester 5/AI/Problem-Solving-MethodsChapter_2.pdf
+e076f9b9aecbd3fd52273f3282b9487b719dafe2 Semester 5/AI/Problem-Solving-MethodsChapter_2.pdf
+525b4456c39dbf3fc7462f7314c7e47125b7c4a0 Semester 5/DSAP
+a6c0f9d62f53cbc445fe6149aaeb8723478d45ac Semester 5/DSAP
+281e46d58075174c5e1d1147233bd7814be2ca38 Semester 5/DSAP GCES
+2ca030c813a262b6eff9f2aa93eec2c13ffd3f25 Semester 5/DSAP GCES
+4f955e3003b3d84fd50a09cd2d2da7e220f7aefb Semester 5/DSAP GCES/# BOOKS
+93426ed87796f93939857b9da87f7ead78cf7ce2 Semester 5/DSAP GCES/# BOOKS
+2c9f841957c108e6e5ce234108b09221765320d8 Semester 5/DSAP GCES/# BOOKS/A.V. Oppenheim, Discrete-Time Signal Processing, Prentice Hall, 1990..pdf
+f9cb92192014a84bca76e51212219eaf711d295e Semester 5/DSAP GCES/# BOOKS/A.V. Oppenheim, Discrete-Time Signal Processing, Prentice Hall, 1990..pdf
+64e33586160b365a30b4de91313c5b33be8a3f6f Semester 5/DSAP GCES/# BOOKS/Digital Signal Processing - Computer Based Approach - Sanjit K. Mitra.pdf
+653c1083e2df8913dc0d5ed31a330446b83d20c7 Semester 5/DSAP GCES/# BOOKS/Digital Signal Processing - Computer Based Approach - Sanjit K. Mitra.pdf
+54673ed19d0c730c16d3abc98b18d6661a6344ff Semester 5/DSAP GCES/# BOOKS/J. G. Proakis Digital signal processing.pdf
+fb43b1190c7988592b10ba2155d70101d7b819ab Semester 5/DSAP GCES/# BOOKS/J. G. Proakis Digital signal processing.pdf
+6456f28777782a7772a96683b29c0154d3c51db3 Semester 5/DSAP GCES/# BOOKS/a-nagoor-kani-signals-and-systems-tata-mcgraw-hill-2010-pdf_compress.pdf
+e5c99c010ad8db8ef00c003919cd5cb85a56f34a Semester 5/DSAP GCES/# BOOKS/a-nagoor-kani-signals-and-systems-tata-mcgraw-hill-2010-pdf_compress.pdf
+a5ea234d97869ceb96ea78ce89f87d9fbacdb8db Semester 5/DSAP GCES/# BOOKS/digital-signal-processing-a-nagoor-kani.pdf
+b5dc2887405385ba2af84b68fa8b02c734cd6606 Semester 5/DSAP GCES/# BOOKS/digital-signal-processing-a-nagoor-kani.pdf
+6a850a0ee3a8e38b361f631135c9eac0e5667ccf Semester 5/DSAP GCES/1. Discrete-time Signals and System.pdf
+ddcc9b30e53c51d06864189b05c1061d381e81fd Semester 5/DSAP GCES/1. Discrete-time Signals and System.pdf
+2137221b97b59651a8fdca0a85af7b2e68e3efce Semester 5/DSAP GCES/2. Review of Z-Transform.pdf
+965d2a73bb0f57f7a77603d921e08824fd4ef00a Semester 5/DSAP GCES/2. Review of Z-Transform.pdf
+266bb601dcb2ce48b13fb0c3ed478266e6f193ca Semester 5/DSAP GCES/3. Analysis of LTI system in frequency domain.pdf
+b64a9e646b47ab0cba89370dba8605fdd6a09360 Semester 5/DSAP GCES/3. Analysis of LTI system in frequency domain.pdf
+214153aaa533e1f10a47743e73df29200b9f271e Semester 5/DSAP GCES/4. Discrete Filter Structure.pdf
+2e3d596d7ed044d6cbe6bb4eb50ed2e988be89c9 Semester 5/DSAP GCES/4. Discrete Filter Structure.pdf
+61d852774976e286600f09831f86036bbc09a40a Semester 5/DSAP GCES/5. IIR Filter Design.pdf
+fade5552bfab090865c82320ccf8599ee7c99eb1 Semester 5/DSAP GCES/5. IIR Filter Design.pdf
+14345a087446d15077d9957ddb21a79561dd6b21 Semester 5/DSAP GCES/6. FIR Filter Design.pdf
+237d80e9e40a43005bc16a01d44472b36e85ddec Semester 5/DSAP GCES/6. FIR Filter Design.pdf
+797d9862234c3c586eb58261f8000404dd143f95 Semester 5/DSAP GCES/7. Discrete Fourier Transform.pdf
+ea83a90d37e621f355a6027390d0bfd7be41016c Semester 5/DSAP GCES/7. Discrete Fourier Transform.pdf
+a41add2d721b867e6e7b44293057d67bf6352136 Semester 5/DSAP GCES/DSAP past questions.pdf
+b04a78dce2d5bcb8aa1c3861067989176aecfa83 Semester 5/DSAP GCES/DSAP past questions.pdf
+5f73459995c3513fda3bce17720d17185c0ecb21 Semester 5/DSAP GCES/Digital Signal Analysis and Processing Internal Question.pdf
+8301643267aa58593636c6f766d5f498b63cc114 Semester 5/DSAP GCES/Digital Signal Analysis and Processing Internal Question.pdf
+918cc0645ba53932e3212d063c12545be73b3701 Semester 5/DSAP NCIT
+a7491456c80129b87036a59b80edabe4c2563827 Semester 5/DSAP NCIT
+3d50aeb9b0d9b67f7813a732e51c71cda461034a Semester 5/DSAP NCIT/DSAP CH1.pdf
+8bdb277f17cd5714b21ba7490c27f6777629b249 Semester 5/DSAP NCIT/DSAP CH1.pdf
+038063fce618e7451e25b64d7969f942314f6dae Semester 5/DSAP NCIT/DSAP CH2.pdf
+c31734bbe9c8d097976f6f7dcad544ac5dcd3564 Semester 5/DSAP NCIT/DSAP CH2.pdf
+099d43b53f7a83bac5449042484369c14b74a198 Semester 5/DSAP NCIT/DSAP CH3.pdf
+f2c57c0d9db655f487876dabf0beec2248f90ea8 Semester 5/DSAP NCIT/DSAP CH3.pdf
+531dbba4d748580901fc447625f664e324342af5 Semester 5/DSAP NCIT/DSAP CH4.pdf
+7b11655fd262a609b8ae01f64ac6e16b4d7424ac Semester 5/DSAP NCIT/DSAP CH4.pdf
+057057fa3a7a99c027cd56f983e802f03fb3c1a1 Semester 5/DSAP NCIT/DSAP CH5.pdf
+a84809ad8e68b23fe3a38ac5af491be2b18054b9 Semester 5/DSAP NCIT/DSAP CH5.pdf
+41151a045a8a0c21774efda346b195903a8a382a Semester 5/DSAP NCIT/DSAP CH6.pdf
+55a54374d4e4a6ca4ed25f8dc4b80920e50ca623 Semester 5/DSAP NCIT/DSAP CH6.pdf
+085671f6796489ee7f703cc335ec22ddba3cd4ca Semester 5/DSAP NCIT/DSAP CH7.pdf
+7172751948505781925678e0d581dda30762cda1 Semester 5/DSAP NCIT/DSAP CH7.pdf
+2424dc0ff5591e819039a43f75d0de3271e32539 Semester 5/DSAP PEC
+993bf25dcc43cf50ee230f131996792efc048691 Semester 5/DSAP PEC
+b5ecec4276aede0828312888eef5592f31a72b34 Semester 5/DSAP PEC
+e4315d4cb90a9b41a6d52134bc4ae11fa69dc073 Semester 5/DSAP PEC
+1063ced47436e06d22cbe092772b8147f6459fdf Semester 5/DSAP PEC/DSAP handwritten 
+ec01ca535afb1aa6c4b3b00437f1d2916323026c Semester 5/DSAP PEC/DSAP handwritten /DSAP 2024 Spring Solved  .pdf
+d8146361592cd5637cf48a2e58ccd2db99e4af1b Semester 5/DSAP PEC/DSAP handwritten /DSAP Handwritten by Niraj.pdf
+d3c6acc164226ef7e3049ebbde0b014735d08edf Semester 5/DSAP PEC/DSAP handwritten /DSAP.pdf
+6389b3dda52ea55a039c16423921b693a2263316 Semester 5/DSAP PEC/PDF
+8568f5d10f8eab021f43b4469e0dfc07d5c9c342 Semester 5/DSAP PEC/PDF
+5a0f71bc6b2c6b936aea92015ff06d973e4d914c Semester 5/DSAP PEC/PDF/Chapter 1.pdf
+f5c4d2b63f96d6ab0dcbcfc275f23c490262b31e Semester 5/DSAP PEC/PDF/Chapter 1.pdf
+32213ce4e8031e17a500ebd6a71c773f8d5cfba2 Semester 5/DSAP PEC/PDF/Chapter-5_FIR_Filter_Design.pdf
+b506bbdb98e8968995e1c0a91e3fc10639a4a8e5 Semester 5/DSAP PEC/PDF/Chapter-5_FIR_Filter_Design.pdf
+04fadc91adb8039003b2aa02d4326f067721188a Semester 5/DSAP PEC/PDF/DSAP_2.pdf
+0a039eac4e7a02e4ded7ed0b3865ac5ce8c0f409 Semester 5/DSAP PEC/PDF/DSAP_2.pdf
+422f097dd3f31cb25416aeb6a51ce725a9e411f5 Semester 5/DSAP PEC/PDF/DSAP_3.pdf
+cc2a70d05b167ca5c8b20cbb0be42f21b8ed5c76 Semester 5/DSAP PEC/PDF/DSAP_3.pdf
+22dde1d4c0cdeace6faae3b0cb5985d6a2f4aaa6 Semester 5/DSAP PEC/PDF/DSAP_4.pdf
+edb82bc4a8fa0cc31442d484cbbe52b48ee16637 Semester 5/DSAP PEC/PDF/DSAP_4.pdf
+7bcc94e75dfc2f51ee5bb086dc83153388efd41b Semester 5/DSAP PEC/PDF/DSAP_6.pdf
+cf9802cd248a74ba7b2e6b18468e010de02cea36 Semester 5/DSAP PEC/PDF/DSAP_6.pdf
+60b8604cccc7d5923717a0990f7f1602af5433c2 Semester 5/DSAP PEC/PPTX
+2d06491a05c81d0333acf6111553da519593f4b0 Semester 5/DSAP PEC/PPTX/Chapter-5_FIR_Filter_Design.pptx
+f8f2a66b4d288d1b60215c32e32de93d92914cec Semester 5/DSAP PEC/PPTX/DSAP_2.pptx
+f33d6b639d657206fb3beee1a28e1159c167e634 Semester 5/DSAP PEC/PPTX/DSAP_3.pptx
+06fa5bb4236e3e8e87f6183a759ce55410f1d6bf Semester 5/DSAP PEC/PPTX/DSAP_4.pptx
+16c3333086d96f7956df0dcf569cdec981b5a7df Semester 5/DSAP PEC/PPTX/DSAP_6.pptx
+0e71077eef74e559613b10e4f27090fc2e6892db Semester 5/DSAP handwritten 
+209720d1259c49b450b090def72bb660c760190f Semester 5/DSAP handwritten 
+22f68edf2009dfbaa6d1f8924cf0902ac2db7b4b Semester 5/DSAP handwritten 
+414f5114c8d2c82ef6b0a2be6503fcbde6879769 Semester 5/DSAP handwritten 
+6da94043fc9bce360349b783158160c749290d1d Semester 5/DSAP handwritten 
+ec38a8730eec1944f4b3ac1fe967e2874ddbf2bc Semester 5/DSAP handwritten 
+ea1f88e0f72b6e51e81afd549055de0a2fc66999 Semester 5/DSAP handwritten /DSAP 2024 Spring Solved  .pdf
+4ca57c9f754fa309e5f61cb728e9885de4e5d0ed Semester 5/DSAP handwritten /DSAP Handwritten by Niraj.pdf
+eba1a5dab893f830c325b70211ec0881c245c650 Semester 5/DSAP handwritten /DSAP Handwritten by Niraj.pdf
+e6e9f2a04b8258a8e8bae9582bb3474afb2e650f Semester 5/DSAP handwritten /DSAP Handwritten by Niraj_11zon.pdf
+829c6c56b8cb75989d3b8bd2cbf97a5b606aca29 Semester 5/DSAP handwritten /DSAP.pdf
+e4b20452cf52d60c9c3eb46cfcfbb5b422f33964 Semester 5/DSAP handwritten /DSAP.pdf
+96b852942f8a8c77d45af0edd8f7e4cba3077b36 Semester 5/DSAP handwritten /DSAP_11zon.pdf
+2d812f7016cd442fce0024e4f607a17646ffea40 Semester 5/DSAP handwritten /DSAP_11zon_11zon (1).pdf
+6507fb1a59de0e72a7ad91cad864a3e0ca1ebae9 Semester 5/DSAP/1. Discrete-time Signals and System.pdf
+fa59b49eaad32e3e164f3eaa76d268eb32868c2b Semester 5/DSAP/1. Discrete-time Signals and System.pdf
+222deb88e1a635b942177d9c1813a8e6fcfef878 Semester 5/DSAP/DSAP_2.pdf
+2f0ce52e7c966af49b1fa85d859ed04d4dd9fb2f Semester 5/DSAP/DSAP_2.pdf
+85831b5557b5d78c1470776939f9a04925c8cd6f Semester 5/DSAP/Instrumentation.pdf
+cfba5f9ace28f39108537826a395876f550b7933 Semester 5/DSAP/Instrumentation.pdf
+9c1ee276b8af6a37949ad4fdf00de10fef26a0d5 Semester 5/DSAP/Signals, systems and Signal Processing.pdf
+b6c4e81a3a7a11768ddfa00e29a22e0455c89781 Semester 5/DSAP/Signals, systems and Signal Processing.pdf
+088e36476186e056b9b094613b73f3f6550c0ede Semester 5/ENGINEERING MANAGEMENT
+72d2e1a8b23e5c5c4d7c471e82cd80ddd8b34c0e Semester 5/ENGINEERING MANAGEMENT
+781ea5d3fd63d5594807b1dae27d3f73ba850106 Semester 5/ENGINEERING MANAGEMENT
+e5858a3376aa416d9450e16657c041cbe3e9ca61 Semester 5/ENGINEERING MANAGEMENT
+eb38129f5bb70424f32ffc3c4f6d2576ddb2c864 Semester 5/ENGINEERING MANAGEMENT
+258a8dd43d4c75a0f2fc758619e87cee37ab80ea Semester 5/ENGINEERING MANAGEMENT/EM_Prashant_Handwritten_NAST.pdf
+9dd607f883f6688f1aacd42d64b5b6264bd50c9a Semester 5/ENGINEERING MANAGEMENT/EM_Prashant_Handwritten_NAST.pdf
+0f56d2075cb8a249c4e837a1fea51254a7c75ce0 Semester 5/ENGINEERING MANAGEMENT/MGT 320 Engineering Management 2.1.0.pdf
+8032011a9ffd804f37191380b024f7016e16e168 Semester 5/ENGINEERING MANAGEMENT/MGT 320 Engineering Management 2.1.0.pdf
+5dbd2966e717899ab5f030974fe4dffe7a268917 Semester 5/ENGINEERING MANAGEMENT/PDF
+8907b26f6f18fd8056a54006d7195f7b16963283 Semester 5/ENGINEERING MANAGEMENT/PDF
+1402e0f5d724b477acd95415687ca763005c0c46 Semester 5/ENGINEERING MANAGEMENT/PDF/CH 1.pdf
+ca4e451568cb8e1acbb01d3fa8dc1f5428ec68f0 Semester 5/ENGINEERING MANAGEMENT/PDF/CH 1.pdf
+56d166ee752cc332b5a023714022f6820e556a2c Semester 5/ENGINEERING MANAGEMENT/PDF/CH 3.pdf
+c995ab499b93d97cbd8a5032749aeb891fdcb867 Semester 5/ENGINEERING MANAGEMENT/PDF/CH 3.pdf
+c9379e7963f780bc7a83287d9c62ec6b9bf2bfd9 Semester 5/ENGINEERING MANAGEMENT/PDF/Ch 2.pdf
+ce5b4bdb2caf5fea774a7c3e3654d05a42c26046 Semester 5/ENGINEERING MANAGEMENT/PDF/Ch 2.pdf
+e0d032a40ad1ce6814df53a0fe05a73de2e88b0d Semester 5/ENGINEERING MANAGEMENT/PDF/chapter 4 HRM.pdf
+fa7a46ec86da969dcf9593e0d42c6afb9187d148 Semester 5/ENGINEERING MANAGEMENT/PDF/chapter 4 HRM.pdf
+c3185563fb143d90feb4d8cf2cd3a06e2c5a00ca Semester 5/ENGINEERING MANAGEMENT/PDF/last chapter Eng Mgmt.pdf
+ddc97050f4be18097bb4b8e0b848de585f090643 Semester 5/ENGINEERING MANAGEMENT/PDF/last chapter Eng Mgmt.pdf
+54bc6d9f98a9d80ee6832eccee8e0a32348578f6 Semester 5/ENGINEERING MANAGEMENT/PPTX
+fd369403e652a8bb7fbb5eb07649365b8d08cb4d Semester 5/ENGINEERING MANAGEMENT/PPTX
+3f7f259a11367a86091cace14d83b1f8e55ee1f5 Semester 5/ENGINEERING MANAGEMENT/PPTX/CH 1.pptx
+e480ef38d0e263fd870b7412a2095c00ce6f91fa Semester 5/ENGINEERING MANAGEMENT/PPTX/CH 2.pptx
+0703fe0d23f961e209cacc1068eb1064dddae4d8 Semester 5/ENGINEERING MANAGEMENT/PPTX/CH 3.pptx
+d7a4819080d3f9a40499ec3073a9f9de997f9558 Semester 5/ENGINEERING MANAGEMENT/PPTX/CH 4.pptx
+80ffe7d048ac614e5d61fd6940272b4a7b16aef0 Semester 5/ENGINEERING MANAGEMENT/PPTX/CH 5.pptx
+16a3fac2e80268f12fc7af639599567065ebc631 Semester 5/ES
+3ce0cedc8383a19d70c6112b63fd230f20f2dff0 Semester 5/ES
+6f255f409dbfcadb50c06d6e920f3d7e86e5b397 Semester 5/ES/Embedded System
+eb6290b8bfe8684ad8091f3d2765b161d90fc6b3 Semester 5/ES/Embedded System
+4dd5185b7ffccf11131b097e69d8946387120434 Semester 5/ES/Embedded System/AVR Microcontroller and Embedded Systems using assembly and C M. Ali Mazidi.pdf
+6a735e6cfa94aa6b770a51ddfbef63323447651a Semester 5/ES/Embedded System/AVR Microcontroller and Embedded Systems using assembly and C M. Ali Mazidi.pdf
+1604993da3774e1da41080dcd353430c7fcd538a Semester 5/ES/Embedded System/CamScanner 01-29-2025 17.43.pdf
+97a46484d5a68dab0b6e67b6a0f2029e197804b8 Semester 5/ES/Embedded System/CamScanner 01-29-2025 17.43.pdf
+074cd3b77f8735ac59c6cc9fee6090598a2dfa46 Semester 5/ES/Embedded System/CamScanner 12-18-2024 17.26.pdf
+8c031086447b7f0343b345d0b7388cda2d437896 Semester 5/ES/Embedded System/CamScanner 12-18-2024 17.26.pdf
+499a591f6835f231698f962b0e887a6dbc0d6195 Semester 5/ES/Embedded System/Embedded System(Old) 2024 spring 6th sem Regular.pdf
+52d5f0b81e629cc923d2e5cd307af5b11dfdb316 Semester 5/ES/Embedded System/Embedded System(Old) 2024 spring 6th sem Regular.pdf
+e72aa7da6bfcce75549f99724746a26cd51403d8 Semester 5/ES/Embedded System/Unit 1 - Introduction.pptx
+1d62ee0f767284d23f948549993c3dc0b888f30d Semester 5/ES/Embedded System/Unit 2 - Programming For Embedded System.pdf
+f0bd0159885a67e9abf96e3f5d13b6e3961c48d3 Semester 5/ES/Embedded System/Unit 2 - Programming For Embedded System.pdf
+3c7fbdf838f427fbd517fb8827b98010f139dbfe Semester 5/ES/Embedded System/Unit 3 - RTOS.pdf
+65d9a8c48de4b69cdd6384e254f5cf3cfd22df4c Semester 5/ES/Embedded System/Unit 3 - RTOS.pdf
+7a95972a6efc7bc729422fe71e7dde55e671b635 Semester 5/ES/Embedded handwritten
+8c1888b265448bf7d230dd418f8624eb9578eb7a Semester 5/ES/Embedded handwritten
+d4a8d5267d8d76acf260be9515f44e881b298c8b Semester 5/ES/Embedded handwritten/Chapter 1.pdf
+f83599b8b9706f6e6589392d5a4cb70346e0ba97 Semester 5/ES/Embedded handwritten/Chapter 1.pdf
+5feab29451880bbb079506cd290f1116695292ef Semester 5/ES/Embedded handwritten/Chapter 5.pdf
+defa28bcfd5dcae4272014d35a0f10fc614fe24e Semester 5/ES/Embedded handwritten/Chapter 5.pdf
+73aca6ddc7fa7da0c655662cab227ecb07106a34 Semester 5/ES/Embedded handwritten/Chapter 7.pdf
+fda918f1cd94856e52e330d08d09e9fd2bc613e1 Semester 5/ES/Embedded handwritten/Chapter 7.pdf
+a51162ce3fa485783cf2e065b9841cb456fa03d2 Semester 5/ES/Embedded handwritten/Embedded-MN-handwritten.pdf
+d84dd917f7cd22447c13cfdc72f9841e6ff5baa7 Semester 5/ES/Embedded handwritten/Embedded-MN-handwritten.pdf
+7fa4f09b037d0419e87f3634ef02d1674d2a7962 Semester 5/ES/Embedded handwritten/embedded imp.pdf
+9efd0192defc8bd14cb68c6a99f08addf0402e40 Semester 5/ES/Embedded handwritten/embedded imp.pdf
+317516f38693df455ebde1071738bf21284805e2 Semester 5/ES/embedded system gces
+b673b20ecf374d9aa626b3320d50b319c47c647b Semester 5/ES/embedded system gces
+73312e1b1bfc9b3914799e8a9d586daff4901f6c Semester 5/ES/embedded system gces/CH1.pdf
+e7c21052fe32f0a13da598f32fb1adbb56e2c997 Semester 5/ES/embedded system gces/CH1.pdf
+0a68279106617ea3f1c10114ea31ae778cb9e03b Semester 5/ES/embedded system gces/CH2.pdf
+0f0d42c9ae90a2179ce5dc48a562e23054b47553 Semester 5/ES/embedded system gces/CH2.pdf
+882284071d6ff6e6990b958793671f938165f7c3 Semester 5/ES/embedded system gces/CH3.pdf
+951f548907e7940df6f807468eea30913dca22ee Semester 5/ES/embedded system gces/CH3.pdf
+364e7085d3b8ec7af7658d8ce7a72eb5ddbd824d Semester 5/ES/embedded system gces/CH4-1.pdf
+a1839caa8a79889cf3d140a6ea179342c40f6edc Semester 5/ES/embedded system gces/CH4-1.pdf
+26759aad6acde1bc6ea85ea138ccb3898a2f9c87 Semester 5/ES/embedded system gces/CH4-2.pdf
+4d32dc34da5e60e5cc93f2afc601f035fff1cf9c Semester 5/ES/embedded system gces/CH4-2.pdf
+162f5bebd121bf753ce4a9bbdc6b7f5ffeb318eb Semester 5/ES/embedded system gces/CH5.pdf
+9337eb20011a87aca08f3448a21997e4282ef5cb Semester 5/ES/embedded system gces/CH5.pdf
+6ed7eacf74acddfb0be52b7f0a6a124a55fea122 Semester 5/ES/embedded system gces/CH6.pdf
+94a0b39da37312612bd6eeabe5d0aeb2839b6e18 Semester 5/ES/embedded system gces/CH6.pdf
+b46459d703d7b5691ec7e2146a12388ced743817 Semester 5/ES/embedded system gces/CH7.pdf
+ca5489520b4f0bec65c094da26500fe1ee20f3b7 Semester 5/ES/embedded system gces/CH7.pdf
+76e2a6624a5df0c0f6a495fafb9311d9b3053c71 Semester 5/ES/embedded system gces/VHDL code.pdf
+f781b2a4ddf385c4897cee1afd80e83008962881 Semester 5/ES/embedded system gces/VHDL code.pdf
+f7f02af0ab93183e9bfc37fb4aac3ed7bcee36b7 Semester 5/Embedded System
+1243bf6f7f053c452ebe1064c3fce3d27fb56f61 Semester 5/OLD QUESTIONS
+2aec6881a588f176bca929e550e886dda01c5f3e Semester 5/OLD QUESTIONS
+b5e78be4824acebd0de3c9f744be86c34ae78a01 Semester 5/OLD QUESTIONS
+2a2e828e57dff622aec46df1e9bfb30a9bfc7b0c Semester 5/OLD QUESTIONS/Embedded Systems
+5c46c52099ac22e9d4e7da95120a576d930355f8 Semester 5/OLD QUESTIONS/Embedded Systems
+953862e7073ea19da345b00d61fc3f456b2c31c1 Semester 5/OLD QUESTIONS/Embedded Systems
+06626d6e4f9e2a07581186c3f6bd8965cea470be Semester 5/OLD QUESTIONS/Embedded Systems/ES-14 Fall.pdf
+61a82dedb367a72de4fa2b2c318de8665f643796 Semester 5/OLD QUESTIONS/Embedded Systems/ES-14 Fall.pdf
+193db6ddbc555ed56f8c912330d2eab137aedb7f Semester 5/OLD QUESTIONS/Embedded Systems/ES-14 Spring.pdf
+df4753428bafba8cc07a98ffd1658d8f62185980 Semester 5/OLD QUESTIONS/Embedded Systems/ES-14 Spring.pdf
+08e2c09bd23acf459cae7b5c2958ded3e59338a8 Semester 5/OLD QUESTIONS/Embedded Systems/ES-15 Fall.pdf
+c8448f094e39feb94d9300cd60d464542aef95bc Semester 5/OLD QUESTIONS/Embedded Systems/ES-15 Fall.pdf
+02e3e0cdc9e76a0b9045a0c061a3063a074ac4a1 Semester 5/OLD QUESTIONS/Embedded Systems/ES-15 Spring.pdf
+9f579018304b867e4e9a1a94a0272958bd43aee1 Semester 5/OLD QUESTIONS/Embedded Systems/ES-15 Spring.pdf
+e77e75c5553dd32c2e12703919ba654235b90af8 Semester 5/OLD QUESTIONS/Embedded Systems/ES-16 Fall.pdf
+ff9f3d22b119a238d9e1e9bde5f3c1c7e4600103 Semester 5/OLD QUESTIONS/Embedded Systems/ES-16 Fall.pdf
+1d6bf03826b3440c32d333510602c2ac871e3a01 Semester 5/OLD QUESTIONS/Embedded Systems/ES-16 Spring.pdf
+9f21225642ceb6d5b929896e21d381d16ab54a24 Semester 5/OLD QUESTIONS/Embedded Systems/ES-16 Spring.pdf
+45ac37d2996acb65d7dddfd58bdef032c22c01a9 Semester 5/OLD QUESTIONS/Embedded Systems/ES-17 Fall.pdf
+b514db10ec46a4728ce91cfab94e4017ec91cd3b Semester 5/OLD QUESTIONS/Embedded Systems/ES-17 Fall.pdf
+69a72dbbfb3bc3c819256d1d887ba607e7f0d7f0 Semester 5/OLD QUESTIONS/Embedded Systems/ES-17 Spring.pdf
+72f920510b9be4f647834b67d2aa7f9792b81266 Semester 5/OLD QUESTIONS/Embedded Systems/ES-17 Spring.pdf
+0f4ff303c82aad5c63645c768b792e599b520f59 Semester 5/OLD QUESTIONS/Embedded Systems/ES-18 Fall.pdf
+bf3f61b57d6f4463e6daedf594c604d513e8d89b Semester 5/OLD QUESTIONS/Embedded Systems/ES-18 Fall.pdf
+3a0d514f3fdf3ec317126e8bbf2da744c4d2eb64 Semester 5/OLD QUESTIONS/Embedded Systems/ES-18 Spring.pdf
+5bc04d98b3de2818f87e1f946eaa124586add64b Semester 5/OLD QUESTIONS/Embedded Systems/ES-18 Spring.pdf
+582b5138e37e7375baa1853ab072d24818be2ec4 Semester 5/OLD QUESTIONS/Embedded Systems/ES-19 Fall.pdf
+d0ba4b819be3c792350c525b074ed2ef9e19bcfa Semester 5/OLD QUESTIONS/Embedded Systems/ES-19 Fall.pdf
+17dada7a6146e1a583f8a75934143209b6b09f90 Semester 5/OLD QUESTIONS/Embedded Systems/ES-19 Spring.pdf
+2aa7e3f97b09d9776715d76e31e126c1b751542a Semester 5/OLD QUESTIONS/Embedded Systems/ES-19 Spring.pdf
+7143822cab75d4b26842c533ef30b015fdf6878e Semester 5/OLD QUESTIONS/Embedded Systems/ES-20 Fall.pdf
+a247e355e5c4f77ff4bb5b27c6f04dac9b5d2ed1 Semester 5/OLD QUESTIONS/Embedded Systems/ES-20 Fall.pdf
+352fb04d68f5438b0e8c8bf11a4c9c492cb7b791 Semester 5/OLD QUESTIONS/Embedded Systems/ES-21 Fall.pdf
+6d5fe5ab0f3df15979ff7cfcc6478f4728387ac8 Semester 5/OLD QUESTIONS/Embedded Systems/ES-21 Fall.pdf
+953a720783e5ff34f838dfcfda8ee90c8a0b6b2f Semester 5/OLD QUESTIONS/Embedded Systems/ES-21 Spring.pdf
+d2ece6edc71aced6040dfa8ced1053ae6cb39ebc Semester 5/OLD QUESTIONS/Embedded Systems/ES-21 Spring.pdf
+301b4a59d3de9dedf78b6f766ba9ee0dcc840828 Semester 5/OLD QUESTIONS/Embedded Systems/ES-22 Fall.pdf
+7b33cd72f6c4b73305cb4301bd6c01b7f8a18005 Semester 5/OLD QUESTIONS/Embedded Systems/ES-22 Fall.pdf
+2689d0741910bcba37eb74c1005c797d907d93d8 Semester 5/OLD QUESTIONS/Probability and Statistics
+93ca673f5dfcb22c74f72b1b4d26a6fdaac2c8de Semester 5/OLD QUESTIONS/Probability and Statistics
+1c9599452aca28c0a79e141f6fff000479f5b5d0 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-14 Spring.pdf
+77f4234252c9655bd4895fc07b8fa8524cb413e8 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-14 Spring.pdf
+82d1d65627db308c4a94df171a020ded4f1a95af Semester 5/OLD QUESTIONS/Probability and Statistics/PS-15 Fall.pdf
+845e42f7af6c25dcdd06aa78cd9ea93104ec33a3 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-15 Fall.pdf
+6870b4329982ca63268ac8961e8f9ce3c9416a1a Semester 5/OLD QUESTIONS/Probability and Statistics/PS-15 Spring.pdf
+7a59e5873025f180c10c041bbd9356a1c7b3ba63 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-15 Spring.pdf
+197a02f79461dc54d3f5d578191286047f81a81e Semester 5/OLD QUESTIONS/Probability and Statistics/PS-16 Fall.pdf
+6935dc89dad2820df9275aefa5b0137511bb8985 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-16 Fall.pdf
+3f5e76b5619b824829dcbce514cb648cb17b03c6 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-16 Spring.pdf
+7d9a017c8ef2370309626eb3daa0c0b57aafb259 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-16 Spring.pdf
+3aa6d6cce48fa79ccd5ce74781db8876f8fa24a4 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-17  Fall.pdf
+da44d89d16933865171ed3bc1077f38606f52a31 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-17  Fall.pdf
+341efe212bf64cf290a99213ef6e0ad1ddf4a3cf Semester 5/OLD QUESTIONS/Probability and Statistics/PS-17 Spring.pdf
+7e86ae333cf4b660df0b09f25f668d3411573419 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-17 Spring.pdf
+dd2665e2b256c301f6a6cb28f557eb818f45bbd1 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-18  Fall.pdf
+fcc061867b6c328ae4a101eaa7a83c6152b33b46 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-18  Fall.pdf
+2fcc88d838fc43d1560fba39c771a0095f65cef4 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-18  Spring.pdf
+83ab07e7eda51988ff7e55501a7723a7e574b297 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-18  Spring.pdf
+4979eaa49977b445aa59c12769dd635a562d19ce Semester 5/OLD QUESTIONS/Probability and Statistics/PS-19 Fall.pdf
+566c38e48fd307da6a2fc7aba5c640ffc303836c Semester 5/OLD QUESTIONS/Probability and Statistics/PS-19 Fall.pdf
+52d4b878eb57cdad3645113923c05dd31ab6b40c Semester 5/OLD QUESTIONS/Probability and Statistics/PS-19 Spring.pdf
+cbcb3880affc3a13e41c1e57e1ab6d2067abb1b8 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-19 Spring.pdf
+3dd841d46e6eeee7540d08e9f867cbfccfc29f10 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-20 Fall.pdf
+572bbde4fcb86f92915cbe819d1991fc17f92ddc Semester 5/OLD QUESTIONS/Probability and Statistics/PS-20 Fall.pdf
+0bc1e3ec73e5d5ee075be32cf3f25de7585bc495 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-21 Fall.pdf
+43440664eb7d5fc974aa41f4f29665dc3ac9947c Semester 5/OLD QUESTIONS/Probability and Statistics/PS-21 Fall.pdf
+55d6beab3f66f86e900be089c452570b0cd51f00 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-21 Spring.pdf
+835c818de0539e60c8a15855689b9a4b9940e5cc Semester 5/OLD QUESTIONS/Probability and Statistics/PS-21 Spring.pdf
+014da7f216ab91ca663f8585c3c2e86d47a6edd3 Semester 5/OLD QUESTIONS/Probability and Statistics/PS-22 Fall.pdf
+36e786094bcf78ef7d08b2c35b80653516ed89df Semester 5/OLD QUESTIONS/Probability and Statistics/PS-22 Fall.pdf
+0462377d8a094ccee8c55bb6c8e2a5720a30c1f2 Semester 5/Probability and Statistics
+256e5a2c8015756d100ab252170e3e41275614a0 Semester 5/Probability and Statistics
+2a2a7b6924254b5fe4e26b5a0ba1c542babe0e32 Semester 5/Probability and Statistics
+2d3edd1e5a77dd26550c15aad2152f1a0853db7e Semester 5/Probability and Statistics
+77dbdb8b7ec1453af0375abc56306b219f50f5aa Semester 5/Probability and Statistics
+8c68937445a90498ea1ccef1f3fed9e808973f52 Semester 5/Probability and Statistics
+93e8713d63753d9ffe18eb76910d29ac435b1ce0 Semester 5/Probability and Statistics
+d103314cd5efa1ae7a83d01dbd723361d3395e02 Semester 5/Probability and Statistics
+e20fbbbd917c9737dc029561cc3916910a3823ac Semester 5/Probability and Statistics
+0501fad8ec501ab8da5cd4b30b56f09488873954 Semester 5/Probability and Statistics/COMPRESSED
+13961131c7d326667c8016d6a2f4ef5d2c19346d Semester 5/Probability and Statistics/COMPRESSED
+2b8217ba239050eff7a53aacd94eae9874bc02bf Semester 5/Probability and Statistics/COMPRESSED
+4a1e03a83eff1c5e941dd1f5609ca637d9e6076c Semester 5/Probability and Statistics/COMPRESSED
+d2f51371e95bdd7eff8fb807330cfaa6e9941ba6 Semester 5/Probability and Statistics/COMPRESSED/Prob and Stat_Book_compressed.pdf
+3fda92c1902e8f7f057f7924d3047f707d59b031 Semester 5/Probability and Statistics/COMPRESSED/probability-2024-copy-helps-in-exam_11zon (1).pdf
+be103aa166239b997c3bcce9e6bdc5bc28a2599e Semester 5/Probability and Statistics/COMPRESSED/probability-2024-copy-helps-in-exam_11zon (1).pdf
+7a744738c9894cf13459cdf72be38cb17992960b Semester 5/Probability and Statistics/COMPRESSED/probability-2024-copy-helps-in-exam_compressed.pdf
+f389aa9e5b12c48a8723e1080772e822f02a8b3f Semester 5/Probability and Statistics/COMPRESSED/probability-2024-copy-helps-in-exam_compressed_compressed.pdf
+4b49efda43dfcb891483b2ba9f5039728c9bb97a Semester 5/Probability and Statistics/CamScanner 12-19-2024 16.04.pdf
+a280dd6deb60a4efdfd3e359d05965571e464ee2 Semester 5/Probability and Statistics/CamScanner 12-19-2024 16.04.pdf
+6ea75eddb1180bc0970b7d1eaf73f5c8ee728ea3 Semester 5/Probability and Statistics/P&S.pdf
+95a63fbcac606adbbc2db670face472f01e41412 Semester 5/Probability and Statistics/P&S.pdf
+c49b18045210a3b9d64789eb046a5fa2d251225e Semester 5/Probability and Statistics/P&S.pdf
+b7225ef9fb6414582ddecaa79a736b3f38a6f69b Semester 5/Probability and Statistics/P&S_11zon.pdf
+0d11cb9003976a3ef472af5c003902adac52a9cf Semester 5/Probability and Statistics/Prob and Stat_Book.pdf
+c53f8d664d0b96dd66a0ece4aa782f268cd7cecc Semester 5/Probability and Statistics/Prob and Stat_Book.pdf
+393f080646a0904aeef5d66a53b0a0e5806ce743 Semester 5/Probability and Statistics/Prob and Stat_Book_compressed.pdf
+73d1aa40ea21e63b81449d7b440c68110ec7e9eb Semester 5/Probability and Statistics/Prob_and_Stat_Final(Spring).pdf
+926568aa028fe8028eb702f2587c4c5dd0325040 Semester 5/Probability and Statistics/Prob_and_Stat_Final(Spring).pdf
+0f94c2c6e9c6fae6285da0192235e42de8fb8f7e Semester 5/Probability and Statistics/Statistical Tables.pdf
+29d7e8010d3ca7c148992dd7eb80069378735b76 Semester 5/Probability and Statistics/Statistical Tables.pdf
+3394bfd0da5fabcf6dfe461fa5090de5c664c1b8 Semester 5/Probability and Statistics/probability-2024-copy-helps-in-exam.pdf
+940188c1f2026c17a75e4701757dfaf0dd416040 Semester 5/Probability and Statistics/probability-2024-copy-helps-in-exam.pdf
+5b0af5ef6946031593654d783c1dce43ada55443 Semester 5/Probability and Statistics/probability-2024-copy-helps-in-exam_11zon (1).pdf
+c49ef3833adb54015cf8f8131043766e3f0dfdd6 Semester 5/SE
+c621993dca7f1af9c162d155aac8b2fcff15af1a Semester 5/SE
+50721f78b71db87b06ae61e9a5c7136c03466607 Semester 5/SE/Software Assign.pdf
+71eb024ada7db3d761f4db1cab5901ecac5e80ae Semester 5/SE/Software Assign.pdf
+69350d88181acda3c511ead6c49077e3a9d5f490 Semester 5/SE/Software Engineering
+9c094984d5ab22c6422f1adb7eae453d92036471 Semester 5/SE/Software Engineering
+0ed4f7559b71687baccdff1417789a542b184c73 Semester 5/SE/Software Engineering Handwritten
+4c7b93955817f8008deaa9bfa2d7be20a49e7cac Semester 5/SE/Software Engineering Handwritten
+113c5def27c8f3b6f9f5fa7d26190337c853f877 Semester 5/SE/Software Engineering Handwritten/All Chapter Notes.pdf
+22a6805b0f801e7e31cbb5571adc0a24a72c084f Semester 5/SE/Software Engineering Handwritten/All Chapter Notes.pdf
+1491fa37909514c93cc3880c74beae8b2323a536 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 1.pdf
+6be28046a375cf2d5831a1a2e7de2fb08aa1b5c8 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 1.pdf
+e05a81b21d0d77527e69a33cbefb49652db24d03 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 2.pdf
+e9d98a30d32273551746d1efb32b054844399dcd Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 2.pdf
+0cda442b3898b26901d1062f247b2cfeb6699696 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 3.pdf
+faddf6a01fc66d871bb98c76a2a48cf7b7cacc72 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 3.pdf
+07ecdb06398178dccb5e7ccb22fe46ec66a58537 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 4.pdf
+b16e74f48cf11e0a26fe9d4edb46fb20ad179f70 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 4.pdf
+a21ccf3c5bb0a22245ab88dcaf53b500e6afc28c Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 5.pdf
+c32f3c9c146f5acac9c6e7aad76ad622fc9200d4 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 5.pdf
+30b41c8a4fabd21d13bb1dc520f7865705184a40 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 6.pdf
+89d49b95f157745c14019f84b3f25362ae150d07 Semester 5/SE/Software Engineering Handwritten/Software Engineering Notes - Unit 6.pdf
+0ba424c3a0921300241bd57eb767671b19a5699f Semester 5/SE/Software Engineering/1. Software Engineering and Project Management 2.0.pdf
+37f410da3137d1fc0617e273f313691e94f0eb01 Semester 5/SE/Software Engineering/1. Software Engineering and Project Management 2.0.pdf
+1ce63f320d960a692a899652873fe5bc96fa1842 Semester 5/SE/Software Engineering/2. Software Process Model and Agility.pdf
+c503156bffcde8b5f60d4a736d7474f85154be1d Semester 5/SE/Software Engineering/2. Software Process Model and Agility.pdf
+844fe6e7bd5dcd047765ee925e2126c56a4080f9 Semester 5/SE/Software Engineering/3. Requirement Engineering and Principles.pdf
+8b445060877d6dc9e10a8037693aedbf269cd94f Semester 5/SE/Software Engineering/3. Requirement Engineering and Principles.pdf
+585b15329ae287b36c99341bf80943859b8079cc Semester 5/SE/Software Engineering/4. Software Design, Architecture and Principles 1.0.pdf
+bac16caac2a54f2d3d5abf408ac59f4d3816c16f Semester 5/SE/Software Engineering/4. Software Design, Architecture and Principles 1.0.pdf
+9781b68710f171eafbd1e079c20229801d1ba60d Semester 5/SE/Software Engineering/5. Testing Techniques and Maintenance.pdf
+c2e549210e414a44db96858b8d46d231325e3476 Semester 5/SE/Software Engineering/5. Testing Techniques and Maintenance.pdf
+354647d04486bf9ef63e332dec98d35037285dd0 Semester 5/SE/Software Engineering/6. Software Quality Assusrance Process.pdf
+4a9174e62844634a5f7f30eca24ab4fb105bec2d Semester 5/SE/Software Engineering/6. Software Quality Assusrance Process.pdf
+c3a27f3f1ee59473d905218a6495d3cb599cfb89 Semester 5/SE/Software Engineering/7. Software Configuration Management.pdf
+d626bd909971d3cc6afeb0dfdcd99d5bda281041 Semester 5/SE/Software Engineering/7. Software Configuration Management.pdf
+064e9ff3e8ca0f4d5b4b3ebbab418cccc7a5127c Semester 5/SE/Software Engineering/8. Advanced Software Engineering Concepts.pdf
+ffe8c320b2cbf279c35548cc550e386f32eb90ee Semester 5/SE/Software Engineering/8. Advanced Software Engineering Concepts.pdf
+3cc089f2ded0e9f658a9f8ea3d943c1f411cc6f2 Semester 5/SE/Software Engineering/BOOKS
+a60f074a92f939f4c6f5b72071bfda35e3fc66af Semester 5/SE/Software Engineering/BOOKS
+63b0f57ebae4e0e10add56c33177facc011c0809 Semester 5/SE/Software Engineering/BOOKS/Book_Presman_Reoger_S_software_engineering_a_practitioners_approach.pdf
+9a9543dbc4e6ac3611d4e690f69f7182f2d12eb9 Semester 5/SE/Software Engineering/BOOKS/Book_Presman_Reoger_S_software_engineering_a_practitioners_approach.pdf
+0b067a3367f6d0df66a9589e60484eeb5ebad800 Semester 5/SE/Software Engineering/BOOKS/Book_Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf
+4e49cdf404ed3a6aa2bf909503328ea88d8665a3 Semester 5/SE/Software Engineering/BOOKS/Book_Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf
+9abe48b079a09fd974bfe4a6db50a9b85dc709b2 Semester 5/Software Engineering
+a280828b98f0d966d6ea82ac63417f1f343daef7 Semester 5/UpdatedExamination-Schedule-Fall-2024-Bachelor-Engineering_2022-2024.xlsx
+608c5f1e7bfd2142b26f1729e5b530a2fd39edc9 Semester 6
+ead6b505a00b98bcdcd0fa2f00bf6e13779f00b4 Semester 6
+14930b8ba5e61d67a39758af01c80609ef5c3715 index.html
+4205bf69b4dfb6643bd8c76c60f87cc1a598335b index.html
+630552a7d23b0f2378bd9eb191c63959760f1212 index.html
+78f31df83f1361c2fa4729398df1a8926f6600fb index.html
+7ec365c5ba9a0547d37875250a7983398dc54260 index.html
