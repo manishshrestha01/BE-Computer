@@ -1,0 +1,86 @@
+Last login: Thu Jan 11 11:34:25 on ttys000
+manish@Manishs-MacBook-Air ff % git init
+Initialized empty Git repository in /Users/manish/Desktop/ff/.git/
+manish@Manishs-MacBook-Air ff % git add . 
+manish@Manishs-MacBook-Air ff % git commit -m "2file"
+[main (root-commit) f097ab8] 2file
+ 2 files changed, 2 insertions(+)
+ create mode 100644 file7.txt
+ create mode 100644 file8.txt
+manish@Manishs-MacBook-Air ff % git remote add origin https://github.com/manishstha27/filw.git
+manish@Manishs-MacBook-Air ff % git push origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (4/4), 265 bytes | 265.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/manishstha27/filw.git
+ * [new branch]      main -> main
+manish@Manishs-MacBook-Air ff % git branch Manish
+manish@Manishs-MacBook-Air ff % git branch       
+  Manish
+* main
+manish@Manishs-MacBook-Air ff % git checkout Manish
+Switched to branch 'Manish'
+manish@Manishs-MacBook-Air ff % git branch         
+* Manish
+  main
+manish@Manishs-MacBook-Air ff % git add .            
+manish@Manishs-MacBook-Air ff % git diff
+manish@Manishs-MacBook-Air ff % git status
+On branch Manish
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .DS_Store
+	new file:   file9.txt
+
+manish@Manishs-MacBook-Air ff % git commit -m "new"  
+[Manish 2c0c26a] new
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .DS_Store
+ create mode 100644 file9.txt
+manish@Manishs-MacBook-Air ff % git checkout main
+Switched to branch 'main'
+manish@Manishs-MacBook-Air ff % git checkout Manish
+Switched to branch 'Manish'
+manish@Manishs-MacBook-Air ff % git checkout main  
+Switched to branch 'main'
+manish@Manishs-MacBook-Air ff % git merge Manish   
+Updating f097ab8..2c0c26a
+Fast-forward
+ .DS_Store | Bin 0 -> 6148 bytes
+ file9.txt |   1 +
+ 2 files changed, 1 insertion(+)
+ create mode 100644 .DS_Store
+ create mode 100644 file9.txt
+manish@Manishs-MacBook-Air ff % git push origin Manish
+fatal: unable to access 'https://github.com/manishstha27/filw.git/': SSL certificate problem: unable to get local issuer certificate
+manish@Manishs-MacBook-Air ff % git push origin Manish
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (4/4), 519 bytes | 519.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'Manish' on GitHub by visiting:
+remote:      https://github.com/manishstha27/filw/pull/new/Manish
+remote: 
+To https://github.com/manishstha27/filw.git
+ * [new branch]      Manish -> Manish
+manish@Manishs-MacBook-Air ff % git push origin main  
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/manishstha27/filw.git
+   f097ab8..2c0c26a  main -> main
+manish@Manishs-MacBook-Air ff % git merge Manish
+Already up to date.
+manish@Manishs-MacBook-Air ff % git status
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+manish@Manishs-MacBook-Air ff % 
