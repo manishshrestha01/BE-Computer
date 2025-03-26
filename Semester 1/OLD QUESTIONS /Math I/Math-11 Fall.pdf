@@ -1,0 +1,76 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:d31556d4e5a0404a5380a776f3b695b9c002f2e789347d169aa99e8f5f86de08
+size 1474
+=======
+%PDF-1.3
+%âãÏÓ
+1 0 obj
+<<
+/Type /Catalog
+/Metadata 2 0 R
+/MarkInfo << /Marked true >>
+/StructTreeRoot 5 0 R
+/Pages 3 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Metadata
+/Subtype /XML
+/Length 711
+>>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+  <rdf:Description rdf:about=""
+                   xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/"
+                   xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+    <pdfaid:part>1</pdfaid:part>
+    <pdfaid:conformance>A</pdfaid:conformance>
+    <xmp:CreatorTool>Simple Scan 3.28.0</xmp:CreatorTool>
+    <xmp:CreateDate>2021-03-12T10:37:29+05:45</xmp:CreateDate>
+    <xmp:ModifyDate>2021-03-12T10:37:29+05:45</xmp:ModifyDate>
+    <xmp:MetadataDate>2021-03-12T10:37:29+05:45</xmp:MetadataDate>
+  </rdf:Description>
+</rdf:RDF>
+<?xpacket end="w"?>
+endstream
+endobj
+
+3 0 obj
+<<
+/Type /Pages
+/Kids [ ]
+/Count 0
+>>
+endobj
+
+4 0 obj
+<<
+/Creator (Simple Scan 3.28.0)
+>>
+endobj
+
+xref
+0 6
+0000000005 65535 f 
+0000000015 00000 n 
+0000000132 00000 n 
+0000000925 00000 n 
+0000000979 00000 n 
+0000000000 65535 f 
+
+trailer
+<<
+/Size 6
+/Info 4 0 R
+/Root 1 0 R
+/ID [<9b05b11ac2c97c281a941eff966b6ce0> <9b05b11ac2c97c281a941eff966b6ce0>]
+>>
+startxref
+1031
+%%EOF
+>>>>>>> origin/main
