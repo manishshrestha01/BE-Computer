@@ -40,9 +40,3 @@
 | MGT 332: Entrepreneurship                      |                                               |
 | CMP 426: Network and Cyber Security            |                                               |
 | XXX XXX: Elective II                           |                                             |
-
-<<<<<<< HEAD
-**Note:** This course structure is followed from 2022 B.E computer batch.  
-=======
-**Note:** This course structure is followed from 2022 B.E computer batch.  
->>>>>>> origin/main
