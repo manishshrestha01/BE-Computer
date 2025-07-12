@@ -25,7 +25,7 @@
 | **Year III/Semester V**                     | **Year III/Semester VI**                    |
 |---------------------------------------------|---------------------------------------------|
 | CMP 346: Artificial Intelligence            | CMP 344: Computer Networks                  |
-| CMM 344: Digital Signal Analysis & Pr.       | CMP 360: Data Science and Analysis          |
+| CMM 344: Digital Signal Analysis & Pr.       | CMP 422: Compiler Design                   |
 | ELX 320: Embedded System                      | CMP 362: Image Processing & PR             |
 | MGT 320: Engineering Management              | CMP 364: Machine Learning                   |
 | MTH 216: Probability and Statistics           | CMP 338: Simulation and Modeling            |
@@ -35,7 +35,7 @@
 | **Year IV/Semester VII**                      | **Year IV/Semester VIII**                    |
 |-----------------------------------------------|-----------------------------------------------|
 | CMP 424: Cloud Computing & Vis.                | INT 492: Internship                          |
-| CMP 422: Compiler Design                      | PRJ 452: Project II                         |
+| CMP 360: Data Science and Analysis             | PRJ 452: Project II                           |
 | MGT 250: Engineering Economics                 | XXX XXX: Elective II                        |
 | MGT 332: Entrepreneurship                      |                                               |
 | CMP 426: Network and Cyber Security            |                                               |
