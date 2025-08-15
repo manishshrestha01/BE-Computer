@@ -1,0 +1,52 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "TK3lTLeDxR2IJwNQMrjpW",
+      "type": "text",
+      "x": 349.72763540371034,
+      "y": 808.1444636163567,
+      "width": 2454.558349609375,
+      "height": 1575,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1163034366,
+      "version": 3,
+      "versionNonce": 299919202,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1755165284454,
+      "link": null,
+      "locked": false,
+      "text": "Here's a breakdown of the syllabus from the uploaded document:\n\nPokhara University\n\nCourse: Computer Networks (New)\nSemester: Spring\nYear: 2025\nFull Marks: 100\nPass Marks: 45\nTime: 3 hours\n\nQuestions Breakdown:\n\nDefine Computer Network. Explain about Network Architecture. Discuss the criteria necessary for an effective and efficient network.\nMarks: 8\n\nDefine protocol, stack, and interface? Explain about protocol hierarchies in detail.\nMarks: 7\n\nWhat is Transmission media? How ISDN interfaces and channel works?\nMarks: 8\n\nWhat is packet switching? How is this different from other switching techniques?\nMarks: 7\n\nWhat is flow control? Explain different types of flow control mechanisms.\nMarks: 8\n\nIllustrate checksum method for error control with an example.\nMarks: 8\n\nOR: How is collision avoided during channel access? Mention the CSMA/CD algorithm in detail.\nMarks: 8\n\nImagine yourself as a skillful computer network administrator. Given an IP address of 192.168.1.0/25, your responsibility is to create four subnets for four departments. Find out the subnet address, broadcast address, and ranges of host addresses.\nMarks: 7\n\nCompare the header format of IPv4 and IPv6 and explain each field in short.\nMarks: 8\n\nOR: Write down the differences between adaptive and non-adaptive routing. Draw the scenario and explain Routing Information Protocol (RIP) with an example.\nMarks: 8\n\nExplain the concept of socket programming in the transport layer protocol.\nMarks: 8\n\nWhat is congestion in a network? Compare between leaky bucket and token bucket algorithm with the operation how token bucket works.\nMarks: 7\n\nWhat are DNS servers? Explain HTTP, FTP, & proxy server.\nMarks: 8\n\nWhat do you mean by cryptography? Explain with the algorithm Public Key vs Private Key Cryptography.\nMarks: 7\n\nWrite short notes on: (Any two)\n\nFirewall and digital certificate\n\n4G vs 5G\n\nNetworking Hardware\nMarks: 2 × 5",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Here's a breakdown of the syllabus from the uploaded document:\n\nPokhara University\n\nCourse: Computer Networks (New)\nSemester: Spring\nYear: 2025\nFull Marks: 100\nPass Marks: 45\nTime: 3 hours\n\nQuestions Breakdown:\n\nDefine Computer Network. Explain about Network Architecture. Discuss the criteria necessary for an effective and efficient network.\nMarks: 8\n\nDefine protocol, stack, and interface? Explain about protocol hierarchies in detail.\nMarks: 7\n\nWhat is Transmission media? How ISDN interfaces and channel works?\nMarks: 8\n\nWhat is packet switching? How is this different from other switching techniques?\nMarks: 7\n\nWhat is flow control? Explain different types of flow control mechanisms.\nMarks: 8\n\nIllustrate checksum method for error control with an example.\nMarks: 8\n\nOR: How is collision avoided during channel access? Mention the CSMA/CD algorithm in detail.\nMarks: 8\n\nImagine yourself as a skillful computer network administrator. Given an IP address of 192.168.1.0/25, your responsibility is to create four subnets for four departments. Find out the subnet address, broadcast address, and ranges of host addresses.\nMarks: 7\n\nCompare the header format of IPv4 and IPv6 and explain each field in short.\nMarks: 8\n\nOR: Write down the differences between adaptive and non-adaptive routing. Draw the scenario and explain Routing Information Protocol (RIP) with an example.\nMarks: 8\n\nExplain the concept of socket programming in the transport layer protocol.\nMarks: 8\n\nWhat is congestion in a network? Compare between leaky bucket and token bucket algorithm with the operation how token bucket works.\nMarks: 7\n\nWhat are DNS servers? Explain HTTP, FTP, & proxy server.\nMarks: 8\n\nWhat do you mean by cryptography? Explain with the algorithm Public Key vs Private Key Cryptography.\nMarks: 7\n\nWrite short notes on: (Any two)\n\nFirewall and digital certificate\n\n4G vs 5G\n\nNetworking Hardware\nMarks: 2 × 5",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
